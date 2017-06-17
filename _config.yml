@@ -5,7 +5,8 @@ locale: en_US
 description: Describe your website here.
 logo: site-logo.png
 search: true
-url: http://127.0.0.1:4000
+#url: http://127.0.0.1:4000
+url: http://www.aprspi.org
 
 # Jekyll configuration
 
