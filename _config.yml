@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: 我的博客
+title: Q群290347330
 locale: en_US
 description: Describe your website here.
 logo: site-logo.png
 search: true
-#url: http://127.0.0.1:4000
+#url: http://www.aprspi.org
 url: http://www.aprspi.org
 
 # Jekyll configuration
