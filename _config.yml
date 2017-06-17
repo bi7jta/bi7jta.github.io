@@ -1,5 +1,6 @@
 # Site wide configuration
-
+# 修改标题只需要改这里，其它页面会自动编译
+# github有缓存，可能不会立即生效
 title: Q群290347330
 locale: en_US
 description: Describe your website here.
