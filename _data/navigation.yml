@@ -1,16 +1,16 @@
 # Site navigation links
 
-- title: About
+- title: 关于APRSpi
   url: /about/
 
-- title: Articles
-  url: /articles/
-
-- title: Blog
+- title: aprs博客
   url: /blog/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: aprs新闻
+  url: /news/
 
-- title: Search
+- title: 合作站点
+  url: /friend/
+
+- title: 站内搜索
   url: /search/
