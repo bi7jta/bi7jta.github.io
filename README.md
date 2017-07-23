@@ -4,3 +4,10 @@
 根据业余无线电呼号计算验证码PASSCODE 警告：请勿用伪造呼号，所造成的后果自负
 
 树莓派镜像和安装教程：见QQ群共享文件
+
+本地debug 在：
+
+
+http://127.0.0.1:4000/
+cd /work_others/git-jekyll/so-simple-theme 
+sh jekyll_start.sh

@@ -1,6 +1,6 @@
 # Site wide configuration
 # 修改标题只需要改这里，其它页面会自动编译
-# github有缓存，可能不会立即生效
+# github有缓存，可能不会立即生效;新增博客文章在_posts/blog 按照模板增删改即可，其他栏目雷同
 title: Q群290347330
 locale: en_US
 description: Describe your website here.
