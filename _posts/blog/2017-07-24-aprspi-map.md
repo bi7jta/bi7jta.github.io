@@ -2,7 +2,7 @@
 layout: post
 title: "APRS pi 节点分布情况"
 excerpt: "Examples and code for displaying images in posts."
-categories: articles
+categories: blog
 tags: [iGate, APRSpi]
 comments: true
 share: true
