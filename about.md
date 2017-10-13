@@ -10,7 +10,7 @@ permalink: /about/
 ## Who am I
 
 好奇、专注的业余无线电爱好者，呼号 BI7JTA  
-你可能感兴趣的QQ社群：树莓派APRS <font color=0099ff size=12> 290347330 </font>，SDR <font color=0099ff size=12> 174212528 </font>，小环天线 <font color=0099ff size=12> 324581153 </font>  
+你可能感兴趣的QQ社群：树莓派APRS 290347330，SDR 174212528，小环天线 324581153   
 关注本博微信公众号：bi7jta73  
 My github page: [https://github.com/bi7jta](https://github.com/bi7jta)
 
