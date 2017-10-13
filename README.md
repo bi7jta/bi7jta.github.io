@@ -1,13 +1,17 @@
-# bi7jta.github.io
-树莓派APRS技术交流: 290347330 QQ群加入请注明来自github
+# Skinny Bones Jekyll Starter
 
-根据业余无线电呼号计算验证码PASSCODE 警告：请勿用伪造呼号，所造成的后果自负
+Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
 
-树莓派镜像和安装教程：见QQ群共享文件
+I'm currently using a variation of it on my personal website [Made Mistakes](http://mademistakes.com) with some modifications. To learn more about how to use the theme and install it check out the [Skinny Bones demo](http://mmistakes.github.io/skinny-bones-jekyll/) (*work in progress*).
 
-本地debug 在：
+![screenshot of Skinny Bones](http://mmistakes.github.io/skinny-bones-jekyll/images/skinny-bones-theme-feature.jpg)
 
+---
 
-http://127.0.0.1:4000/
-cd /work_others/git-jekyll/so-simple-theme 
-sh jekyll_start.sh
+## Notable Features
+
+* Jekyll 3.x and GitHub Pages compatible.
+* Stylesheet built using Sass.
+* Data files for easier customization of the site navigation/footer and for supporting multiple authors.
+* Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
+* And more.

@@ -1,0 +1,21 @@
+# Site navigation links
+
+- title: HOME
+  url: /
+  excerpt: 
+  image: 
+
+- title: APRS
+  url: /aprs/
+
+- title: MMDVM
+  url: /mmdvm/
+
+- title: SDR
+  url: /sdr/
+
+- title: HF
+  url: /hf/
+
+- title: About Me
+  url: /about/

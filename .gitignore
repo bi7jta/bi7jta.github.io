@@ -6,3 +6,8 @@ codekit-config.json
 node_modules
 .sass-cache
 .jekyll-metadata
+/_posts_bak
+/blog_txt
+/linux
+/mysql
+/python
