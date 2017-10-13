@@ -3,7 +3,9 @@ layout: article
 title:  "为jekyll博客添加google advertisement支持"
 categories: jekyll
 toc: true
-ads: true
+ads: true 
+image:
+    teaser: /google-ads.png
 ---
 
 > 本文将介绍在基于jekyll(github pages)的个人博客中添加google advertisement的方法
