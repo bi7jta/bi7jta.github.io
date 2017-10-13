@@ -18,17 +18,23 @@ image:
 
 ### 前言
 
-凑个热闹，最近HAM友圈玩得很多的MMDVM数字电台网关，初步统计了下，截止2017-10-13，中国的爱好者接入525个（以DMR id注册数量）。很多HAM初次听闻MMDVM，不知道是什么干什么用的，原介绍多来英文资料，国内ham写的多是项目介绍和配置说明，偏技术，小白看了还是一头雾水，本博把自己的理解分享一下，引你入坑，非专业写手。
+凑个热闹，最近HAM友圈玩得很多的MMDVM数字电台网关，初步统计了下，截止2017-10-13，中国的爱好者接入525个（以DMR id注册数量）。很多HAM初次听闻MMDVM，不知道是什么干什么用的，原介绍多来英文资料，国内ham写的多是项目介绍和配置说明，偏技术，为了让小白快速入门，本博把自己的理解分享一下，引你入坑，非专业写手。
 
 
 ## 1.MMDVM是什么？
 
-MMDVM(Multi-Mode Digital Voice Modem)，中文翻译为：多模式数字语音调制调解器。通俗的说就是数字语音猫   
+MMDVM(Multi-Mode Digital Voice Modem)，中文翻译为：多模式数字语音调制调解器。通俗的说就是数字语音猫，数字电台互联网关。   
 
 工作原理图（素材来自互联网）：  
 ![osc_archi](/images/mmdvm_arch_big.jpg)
 
 了解MMDVM之前，先简单了解下另一款同类产品DVMEGA
+![osc_archi](/images/DVMEGA-BSMP_overview_zb_l.jpg)  
+
+eBay售价2432HKD  
+（不要问为什么这么贵，老外人工高啊）  
+![osc_archi](/images/Dvmega_ebay_price.png)  
+
 
 开源项目：  
 开源协议：  
@@ -44,8 +50,8 @@ MMDVM(Multi-Mode Digital Voice Modem)，中文翻译为：多模式数字语音�
 目标用户
 
 ## 3.MMDVM如何使用？
-我需要买哪些设备 
-
+我需要买哪些设备  
+联网条件
 
 ## 4.MMDVM的贡献者
  
