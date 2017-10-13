@@ -14,6 +14,9 @@ permalink: /about/
 关注本博微信公众号：bi7jta73  
 My github page: [https://github.com/bi7jta](https://github.com/bi7jta)
 
+快捷访问本博：  
+![osc_archi](/images/scan_site.png)
+
 ## 友情链接 
 BH7NJF的树莓派主页： [aprspi.vicp.io](http://aprspi.vicp.io/)  
 BG7IYN的APRS主页：  [taozhengbo.com](http://www.taozhengbo.com/)  
