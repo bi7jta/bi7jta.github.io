@@ -1,6 +1,5 @@
-/* ==========================================================================
-   Helpers and Utility Classes
-   ========================================================================== */
+// GLOBAL
+// --------------------------------------------------
 
 .wrap {
   @include outer-container;
@@ -16,26 +15,14 @@
   @include animation(none);
 }
 
-/*
-   Hide
-   ========================================================================== */
-
 .hidden,
 .load {
   display: none;
 }
 
-/*
-   No scrollbars
-   ========================================================================== */
-
 .no-scroll {
   overflow: hidden;
 }
-
-/*
-   Inline button(s) wrapper
-   ========================================================================== */
 
 .inline-btn {
   @include clearfix;
@@ -48,27 +35,16 @@
   }
 }
 
-/*
-   Shorten measure of text to improve readability
-   ========================================================================== */
-
+// shorten length to improve readability
 @include media($medium) {
   .shorten {
     width: percentage(8/12);
   }
 }
 
-/*
-   Center align text
-   ========================================================================== */
-
 .center {
   text-align: center;
 }
-
-/*
-   Align image to the right
-   ========================================================================== */
 
 .image-right {
   display: block;
@@ -80,10 +56,8 @@
   }
 }
 
-/*
-   Thumbnail grid (default)
-   ========================================================================== */
 
+// thumbnail image grid default
 .th-grid {
   @include row($direction: LTR);
   @include clearfix;
@@ -105,11 +79,7 @@
     }
   }
 }
-
-/*
-   Thumbnail grid (oversized)
-   ========================================================================== */
-
+// thumbnail image grid oversized
 .th-grid-full {
   @include clearfix;
   margin: 0;
@@ -121,7 +91,7 @@
     .archive-wrap & {
       margin-right: 0;
     }
-  }
+  }  
   li {
     list-style: none;
     margin-bottom: flex-gutter($grid-columns);

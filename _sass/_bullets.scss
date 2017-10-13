@@ -1,6 +1,5 @@
-/* ==========================================================================
-   Visual bullets (image + text)
-   ========================================================================== */
+// VISUAL BULLETS (IMAGE + TEXT)
+// --------------------------------------------------
 
 .bullets {
 	$icon-bullet-size: $column;
@@ -10,8 +9,8 @@
 	.two-col-bullet {
 		@include media($large) {
 			@include span-columns(6);
-			@include omega(2n);
-		}
+			@include omega(2n);  
+		} 
 	}
 	.three-col-bullet {
 		@include media($large) {
