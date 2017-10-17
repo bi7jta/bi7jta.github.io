@@ -25,6 +25,8 @@ image:
 
 MMDVM(Multi-Mode Digital Voice Modem)，中文翻译为：多模式数字语音调制调解器。通俗的说就是数字语音猫，数字电台互联网关。   
 
+图解MMDVM原理
+
 工作原理图（素材来自互联网）：  
 ![osc_archi](/images/mmdvm_arch_big.jpg)
 
@@ -63,6 +65,21 @@ eBay售价2432HKD
 
 ## 项目的展望
 
+## 常见问题
+申请DMR-ID快速通过技巧  
+常用服务器，运营商限制  
+使用USB和蓝牙连接MMDVM  
+使用Windows版MMDVM程序  
+使用DlueDV客户端连接MMDVM  
+
+## 一些技巧
+去掉pistar WebConsole密码  
+SD卡扩容  
+局域网访问  
+增加Wifi连接  
+增加Wifi网络后不生效，仍然连接原有Wifi，注意Wifi名区分大小写  
+OLED 花屏：pi-star固件问题，先格式化，再刷固件  
+热点RF无收发：高级模式调整频偏  
  
 最后附上github的repo地址：[https://github.com/#](https://#)
 
