@@ -23,44 +23,51 @@ image:
 
 ## 1.MMDVM是什么？
 
-MMDVM(Multi-Mode Digital Voice Modem)，中文翻译为：多模式数字语音调制调解器。通俗的说就是数字语音猫，数字电台互联网关。   
+MMDVM(Multi-Mode Digital Voice Modem)，中文翻译为：多模式数字语音调制调解器。简单的说就是数字语音猫，数字电台互联网关，实现各种数字制式，如C4FM/DMR/D-STAR/P25协议全球互联。  
+它英国HAM G4KLX发起的开源项目，声明为GPL v2协议，旨在成为开源的多模式数字语音调制解调器，利用ARM处理器和一块简单的模拟接口板。最初，它将支持D-Star和DMR，系统融合和P.25将在以后推出，以及一个内置的FM中继器控制器。对于除DMR和FM以外的所有模式，调制解调器可用于单工或双工模式，而对于DMR和FM全双工则必须使用（部分内容翻译自互联网资料）。  
 
-图解MMDVM原理
 
-工作原理图（素材来自互联网）：  
-![osc_archi](/images/mmdvm_arch_big.jpg)
+图解MMDVM（一）What is it ？  [点击查看大图](http://www.aprspi.org/images/What-is-mmdvm.png) 
+![osc_archi](/images/What-is-mmdvm.png)
+  
 
-了解MMDVM之前，先简单了解下另一款同类产品DVMEGA
-![osc_archi](/images/DVMEGA-BSMP_overview_zb_l.jpg)  
-
-eBay售价2432HKD  
-（不要问为什么这么贵，老外人工高啊）  
-![osc_archi](/images/Dvmega_ebay_price.png)  
-
+图解MMDVM（二）How to do ？  [点击查看大图](http://www.aprspi.org/images/How-to-do-mmdvm.jpg) 
+![osc_archi](/images/How-to-do-mmdvm.jpg)
 
 开源项目：  
-开源协议：  
-框架图：  
-关联项目：  
-同类产品：  
+https://github.com/g4klx/MMDVM  
 
-和Echolink的区别：   
-和公网对讲机的区别：   
-和数字集群网的区别：   
+开源协议：  
+This software is licenced under the GPL v2 and is intended for amateur and educational use only. Use of this software for commercial purposes is strictly forbidden.  
+
+关联项目：  
+MMDVM_HS  
+YSFClients  
+MMDVMHost  
+DMRGateway  
+MMDVMCal    
+Pi-Star_DV_Dash  
+MMDVM_HS_Hat   
+MMDVM_pog  
+
+同类产品：   
+DVMEGA 
+
+和Echolink的区别： -    
+和公网对讲机的区别： -   
+和数字集群网的区别： -    
 
 ## 2.MMDVM应用场景？
 目标用户
 
 ## 3.MMDVM如何使用？
-我需要买哪些设备  
+需要买哪些设备  
 联网条件
 
 ## 4.MMDVM的贡献者
  
 
 ## 5.MMDVM社区支持？
-
-要详细了解更多特性可以查看这个[wiki page](https://github.com/#)
 
 
 ## 项目的展望
@@ -77,11 +84,16 @@ eBay售价2432HKD
 SD卡扩容  
 局域网访问  
 增加Wifi连接  
-增加Wifi网络后不生效，仍然连接原有Wifi，注意Wifi名区分大小写  
-OLED 花屏：pi-star固件问题，先格式化，再刷固件  
-热点RF无收发：高级模式调整频偏  
- 
-最后附上github的repo地址：[https://github.com/#](https://#)
+Wifi名区分大小写  
+OLED 显示雪花屏  
+频偏导致热点RF无收发  
+
+最后带上Nano HotSPOT for MMDVM热点板链接（预售）：  
+[https://item.taobao.com/item.htm?id=560320395097](https://item.taobao.com/item.htm?id=560320395097)   
+
+
+
+（未完待续）
 
 
 

@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Latest Posts in *mmdvm*"
-excerpt: "Intresting things in the linux world"
+excerpt: "Intresting things in the mmdvm world"
 
 ---
 
