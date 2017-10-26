@@ -13,7 +13,7 @@ image:
 > 本文会简要介绍 MMDVM(Multi-Mode Digital Voice Modem)
 
 > 文章欢迎转载，但转载时请保留本段文字，并置于文章的顶部  
-> 作者：BI7JJTA  
+> 作者：BI7JTA  
 > 本文原文地址：<http://www.aprspi.org{{ page.url }}>
 
 ### 前言
