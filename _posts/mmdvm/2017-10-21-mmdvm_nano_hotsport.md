@@ -40,7 +40,7 @@ QSO效果小视频：
 ## 团队  
 
 最后带上Nano HotSPOT for MMDVM热点板链接（预售）：  
-[https://item.taobao.com/item.htm?id=560320395097)   
+[https://item.taobao.com/item.htm?id=560320395097](https://item.taobao.com/item.htm?id=560320395097) 
 
 
 

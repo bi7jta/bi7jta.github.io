@@ -89,7 +89,7 @@ OLED 显示雪花屏
 频偏导致热点RF无收发  
 
 最后带上Nano HotSPOT for MMDVM热点板链接（预售）：  
-[https://item.taobao.com/item.htm?id=560320395097)   
+[https://item.taobao.com/item.htm?id=560320395097](https://item.taobao.com/item.htm?id=560320395097)
 
 
 
