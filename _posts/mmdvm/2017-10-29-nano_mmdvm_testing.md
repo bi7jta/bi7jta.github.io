@@ -44,6 +44,9 @@ BI7JTA：稍后介绍
 ## 体验报告
 ...  
 
+Nano HotSPOT for MMDVM热点板链接（预售）：  
+[https://item.taobao.com/item.htm?id=560320395097](https://item.taobao.com/item.htm?id=560320395097)   
+
 提问题请加入Q群：树莓派APRS 290347330  
 （未完待续）
 
