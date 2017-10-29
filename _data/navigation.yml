@@ -5,17 +5,11 @@
   excerpt: 
   image: 
 
-- title: APRS
-  url: /aprs/
-
 - title: MMDVM
   url: /mmdvm/
 
-- title: SDR
-  url: /sdr/
+- title: pi-star
+  url: /raspberry/
 
-- title: 短波
-  url: /hf/
-
-- title: About Me
+- title: About me
   url: /about/
