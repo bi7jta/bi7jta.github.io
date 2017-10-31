@@ -22,9 +22,18 @@ https://www.dmr-marc.net/cgi-bin/trbo-database/userreg.cgi
 
 ![osc_archi](/images/raspberry/reg_dmrid_qrz.png)
 
-## qrz.com 注册地址：http://www.qrz.com/db/BI7JTA 说明：需要实名HAM先添加呼号到数据库，再注册，如有需要请在Q群里[290347330]联系我，提供图示的信息，申请一天后查看自己的邮箱，如果提示要执照，拍照回复。
+完整的申请过程（24小时内完成）[点击查看大图](http://www.aprspi.org/images/mmdvm/dmr_id_reg.png)   
+![osc_archi](/images/mmdvm/dmr_id_reg.png)
+
+## qrz.com 注册地址：http://www.qrz.com/db/BI7JTA 说明：需要实名HAM先添加呼号到数据库，再注册，如有需要请在Q群里[290347330]联系我。qrz主要用于全球HAM查询QSL地址和记录短波QSO日志用，建议玩短波的都要注册，方便对方了解你。
+
+## 其它说明
+20171031补充：  
+1、QQ邮箱证明是可以收到DMR确认邮件的；   
+2、回复有效期内的业余无线电执照（带呼号那张），很快能收到DMR-ID；  
  
-MMDVM pi-star 配置界面如果用到DMR模式，则需要用到DMR-ID，否则无法联网。  其他模式可以不用申请，不过为了玩DMR设备做准备，建议还是申请一个。  选择省份时，必须选对，否则组呼所在区的QSO，会被忽略掉（类似于组群）。  
+在MMDVM pi-star 配置界面，如果使用到DMR模式，则需要用到DMR-ID，否则无法联网。  其他模式可以不用申请，不过为了玩DMR设备做准备，建议还是申请一个，不玩DMR数字就白玩了，C4FM用多了会变傻，DMR有如CW，练脑。  
+选择省份（State）时，必须选对你所在区的QSO，如你在7区，就选4607，其中460是中国，4607是中国的7区，其它类推，不用关注是否有你的省份，老外没考虑这么周全。  
 ![osc_archi](/images/raspberry/reg_dmrid_pistar.png)
 
 ## 导出全网DMR-ID
@@ -36,14 +45,15 @@ http://www.dmr-marc.net/cgi-bin/trbo-database/datadump.cgi?table= repeaters&form
 
 作用：制作各种机型的通讯录  
 
-## DMR服务器状态在线查看
-状态：  
-https://brandmeister.network/?page=hotspot-edit&id=4607064  
+## 一些技巧
+1）DMR服务器状态在线查看：  
+https://brandmeister.network/?page=hotspot-edit&id=4607064    
+2）在线收听QSO：  
+**地址待补充，欢迎加群提供  
+3）修改DMR-ID的默认密码 passw0rd，避免他人盗用    
+**地址待补充，欢迎加群提供 
 
-收听QSO：
-待补充
-
-提问题请加入Q群：树莓派APRS 290347330
+提问题请加入Q群：树莓派APRS 290347330 
 （完）
 
 
