@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Nano 热点板用户手册
+title: Nano HotSPOT MMDVM 热点板用户手册V1.0
 categories: mmdvm
 #excerpt:
 #tags: []
@@ -37,8 +37,26 @@ image:
 http://pi-star/admin/expert/edit_mmdvmhost.php  
 作用: 为修改偏频，延时等参数，建议按照上图调整为默认的配置  
 
-## 配置视频
-待补充  
+## SSH后台登录查看日志
+需要有一点Linux知识，这不是傻瓜教程 ^_^  
+[点击查看大图](http://www.aprspi.org/images/mmdvm/pistar_ssh_login_err.png) 
+![osc_archi](/images/mmdvm/pistar_ssh_login_err.png) 
+
+## 设置Wi-Fi联网
+方法一：直接插网线口，带路由器分配IP后，局域网访问 http://pi-star 进入Web页面配置，如图  
+[点击查看大图](http://www.aprspi.org/images/mmdvm/nano_userguide_wifi_web.png) 
+![osc_archi](/images/mmdvm/nano_userguide_wifi_web.png)   
+
+方法二：直接写SD卡，使用TF卡套，插入电脑USB口  
+![osc_archi](/images/mmdvm/nano_userguide_wifi_conf.png)   
+1、先访问 http://www.mw0mwz.co.uk/pi-star/wifi.php?fref=gc 输入你家的Wi-Fi用户名密码，生成配置文件（官方的链接不会泄露密码）  
+2、把下载到的文件拷贝到SD卡的根目录，启动NanoPi即可实现接入Wi-Fi  
+3、测试是否成功，上路由器看看有没有名称为pi-star 的主机  
+
+方法三：Setup WPA over SSH  
+参考：http://wiki.pistar.uk/Setup_WPA_over_SSH  
+这是截图：  
+![osc_archi](/images/mmdvm/nano_userguide_wifi_ssh.png) 
 
 ## 注意事项
 正确的Nano 热点板的使用姿势：    
@@ -47,6 +65,13 @@ http://pi-star/admin/expert/edit_mmdvmhost.php
 3、多使用软关机：http://pi-star/admin/power.php  
 4、尽量不去拔NanoPi的MicroUSB接口，拔大USB插头来断电  
 5、刷系统前先格式化磁盘，否则OLED会花屏  
+6、尽量使用一种模式工作，多种模式会有切换20秒延时，且不可控
+
+## 扩展
+1、 需要蓝牙模块+BlueDV APP使用，可以自行参照GPIO 串口的定义，增加蓝牙模块，适合动手能力强的HAM DIY；  
+2、需要连接Windows BlueDV 桌面程序使用，可以自行参照GPIO 串口的定义，增加USB to TTL模块，适合动手能力强的HAM DIY   
+3、还支持iOS版BLE、PC版MMDVM的扩展，需要可以加群讨论，我们玩的就是动手能力     
+![osc_archi](/images/mmdvm/nano_userguide_usb.png) 
 
 Nano HotSPOT for MMDVM热点板链接：  
 [https://item.taobao.com/item.htm?id=560320395097](https://item.taobao.com/item.htm?id=560320395097)   
