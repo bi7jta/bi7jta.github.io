@@ -17,28 +17,13 @@ image:
 > 本文原文地址：<http://www.aprspi.org{{ page.url }}>
 
 ## 我的拍档：
-BH7NJF：发现MMDVM项目，并引用中国的第一人，树莓派、开源硬件、电路设计专家    
+BH7NJF：发现MMDVM项目，并引用中国的第一人，树莓派、开源硬件、电路设计专家大拿    
 BG7IYN：智能硬件开发专家，对工厂生产流程了如指掌  
 BI7JTA：稍后介绍  
 
 ## 谍照篇
-按惯例先上图  
-外位置天线  
- ![osc_archi](/images/mmdvm/test_vhf.png)  
- 极客版  
- ![osc_archi](/images/mmdvm/test_geer.jpeg)  
- 3D外壳版  
- ![osc_archi](/images/mmdvm/test_3d.jpeg)  
- USB、蓝牙 DIY扩展 +blueDv app  
- ![osc_archi](/images/mmdvm/test_usbbt.jpeg)  
- 兼容树莓派  
- ![osc_archi](/images/mmdvm/test_rasp.jpeg)  
- 配合手机Wi-Fi热点使用  
- ![osc_archi](/images/mmdvm/test_wifihot.jpeg)  
- 可能是个手咪  
- ![osc_archi](/images/mmdvm/test_shoumi.jpeg)  
- 山顶合影  
- ![osc_archi](/images/mmdvm/test_mobile.jpeg)  
+
+![osc_archi](/images/mmdvm/test_all_photo.png)  
  
 
 ## 体验报告
