@@ -16,11 +16,6 @@ image:
 > 作者：BI7JTA  
 > 本文原文地址：<http://www.aprspi.org{{ page.url }}>
 
-## 我的拍档：
-BH7NJF：发现MMDVM项目，并引用中国的第一人，树莓派、开源硬件、电路设计专家大拿    
-BG7IYN：智能硬件开发专家，对工厂生产流程了如指掌  
-BI7JTA：稍后介绍  
-
 ## 谍照篇
 
 ![osc_archi](/images/mmdvm/test_all_photo.png)  
