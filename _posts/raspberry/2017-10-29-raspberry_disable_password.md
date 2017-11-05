@@ -45,7 +45,7 @@ sudo nano /etc/nginx/sites-enabled/pi-star
        
 sudo systemctl restart nginx.service  
 
-提问题请加入Q群：树莓派APRS 290347330    
+提问题请加入Q群：Nano MMDVM技术交流 320533571    
 （完）
 
 

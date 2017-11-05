@@ -44,7 +44,7 @@ Acquire::http::Proxy "http://翻墙服务器IP:PORT"; （一定要带后面的�
 例行配图：
 ![osc_archi](/images/raspberry/vim.png)
 
-提问题请加入Q群：树莓派APRS 290347330
+提问题请加入Q群：Nano MMDVM技术交流 320533571
 （完）
 
 

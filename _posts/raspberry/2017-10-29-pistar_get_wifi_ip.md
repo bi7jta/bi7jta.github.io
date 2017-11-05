@@ -46,7 +46,7 @@ https://itunes.apple.com/cn/app/termius/id549039908?mt=8
 吐槽一件事：  
 关于翻墙，由于19大大，好几天往香港SS的VPN隧道被封禁，Twitter Facebook Google全不能上，感觉壮士断臂，无所适从。什么时候才不再闭关锁国？难道要等15亿中国农民民智全开？欲盖弥彰。  
 
-提问题请加入Q群：树莓派APRS 290347330
+提问题请加入Q群：Nano MMDVM技术交流 320533571
 （完）
 
 

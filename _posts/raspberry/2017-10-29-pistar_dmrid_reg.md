@@ -53,7 +53,7 @@ https://brandmeister.network/?page=hotspot-edit&id=4607064
 3）修改DMR-ID的默认密码 passw0rd，避免他人盗用    
 **地址待补充，欢迎加群提供 
 
-提问题请加入Q群：树莓派APRS 290347330 
+提问题请加入Q群：Nano MMDVM技术交流 320533571 
 （完）
 
 

@@ -16,6 +16,12 @@ image:
 > 作者：BI7JTA  
 > 本文原文地址：<http://www.aprspi.org{{ page.url }}>
 
+## 近期公告
+20171106 刷pi-star固件需要使用Nano的版本，不能使用树莓派的版本，否则启动不了  
+下载地址： http://www.pistar.uk/downloads/  
+20171105 交流Q群 320533571  
+
+
 ## 入门配置(和配置路由器一样简单）
 接上网线，在任何一台电脑访问 http://pi-star，点击配置，输入  
 用户： pi-star   
@@ -78,7 +84,7 @@ http://pi-star/admin/expert/edit_mmdvmhost.php
 Nano HotSPOT for MMDVM热点板链接：  
 [https://item.taobao.com/item.htm?id=560320395097](https://item.taobao.com/item.htm?id=560320395097)   
 
-提问题请加入Q群：树莓派APRS 290347330  
+提问题请加入Q群：320533571  
 （未完待续）
 
 
