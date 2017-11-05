@@ -10,28 +10,23 @@ image:
 ---
 
 
-> 热点板用在NanoPi NEO时，直插即可，用在NEO之外的派，如树莓派，香橙派时，请按照以下图示安装，VCC插反会烧坏主板。
+> 本文介绍内容：热点板GPIO定义、pi-star配置、SSH后台登录查看日志、设置Wi-Fi联网、使用的一些注意事项以及部分扩展功能。 
 
 > 文章欢迎转载，但转载时请保留本段文字，并置于文章的顶部  
 > 作者：BI7JTA  
 > 本文原文地址：<http://www.aprspi.org{{ page.url }}>
 
-## 热点板GPIO定义
-与NanoPi NEO搭配使用 [点击查看大图](http://www.aprspi.org/images/mmdvm/nano_userguide_gpio.png) 
- ![osc_archi](/images/mmdvm/nano_userguide_gpio.png)  
-
-在树莓派3B使用，注意插座顺序 [点击查看大图](http://www.aprspi.org/images/mmdvm/nano_userguide_rasp3b.png) 
-![osc_archi](/images/mmdvm/nano_userguide_rasp3b.png)  
-
-## pi-star配置
+## 入门配置(和配置路由器一样简单）
 接上网线，在任何一台电脑访问 http://pi-star，点击配置，输入  
 用户： pi-star   
 密码：raspberry  
+对于无法访问的情况，登录路由器查看网线连接的终端，显示名称为pi-star  
 [点击查看大图](http://www.aprspi.org/images/mmdvm/pistar_conf_1.png) 
 ![osc_archi](/images/mmdvm/pistar_conf_1.png)   
 
 [点击查看大图](http://www.aprspi.org/images/mmdvm/pistar_conf_2.png) 
-![osc_archi](/images/mmdvm/pistar_conf_2.png) 
+![osc_archi](/images/mmdvm/pistar_conf_2.png)   
+遇到疑难杂症加Q 38091476  
 
 专家模式：  
 http://pi-star/admin/expert/edit_mmdvmhost.php  
@@ -62,12 +57,19 @@ http://pi-star/admin/expert/edit_mmdvmhost.php
 正确的Nano 热点板的使用姿势：    
 1、插入、拔出GPIO插座用力均匀，轻轻用力摇出来，必要时用小螺丝刀顶起  
 2、插拔先关机断电，勿带电操作  
-3、多使用软关机：http://pi-star/admin/power.php  
+3、多使用软关机：http://pi-star/admin/power.php ，直接拔电伤SD卡 
 4、尽量不去拔NanoPi的MicroUSB接口，拔大USB插头来断电  
 5、刷系统前先格式化磁盘，否则OLED会花屏  
 6、尽量使用一种模式工作，多种模式会有切换20秒延时，且不可控
 
-## 扩展
+## GPIO定义
+与NanoPi NEO搭配使用 [点击查看大图](http://www.aprspi.org/images/mmdvm/nano_userguide_gpio.png) 
+ ![osc_archi](/images/mmdvm/nano_userguide_gpio.png)  
+
+在树莓派3B使用，注意插座顺序 [点击查看大图](http://www.aprspi.org/images/mmdvm/nano_userguide_rasp3b.png) 
+![osc_archi](/images/mmdvm/nano_userguide_rasp3b.png)  
+
+## 功能扩展
 1、 需要蓝牙模块+BlueDV APP使用，可以自行参照GPIO 串口的定义，增加蓝牙模块，适合动手能力强的HAM DIY；  
 2、需要连接Windows BlueDV 桌面程序使用，可以自行参照GPIO 串口的定义，增加USB to TTL模块，适合动手能力强的HAM DIY   
 3、还支持iOS版BLE、PC版MMDVM的扩展，需要可以加群讨论，我们玩的就是动手能力     
