@@ -51,11 +51,11 @@ image:
 ![osc_archi](/images/mmdvm/nano_userguide_wifi_ssh.png) 
 
 ## 更高级设置
-### 专家模式：  
+### 1 专家模式：  
 http://pi-star/admin/expert/edit_mmdvmhost.php  
 作用: 为修改偏频，延时等参数，建议按照上图调整为默认的配置  
 
-### SSH后台登录查看日志
+### 2 SSH后台登录查看日志
 需要有一点Linux知识，这不是傻瓜教程 ^_^  
 [点击查看大图](http://www.aprspi.org/images/mmdvm/pistar_ssh_login_err.png) 
 ![osc_archi](/images/mmdvm/pistar_ssh_login_err.png) 
