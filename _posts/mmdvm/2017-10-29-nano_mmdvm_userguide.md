@@ -34,17 +34,8 @@ image:
 ![osc_archi](/images/mmdvm/pistar_conf_2.png)   
 遇到疑难杂症加Q 38091476  
 
-专家模式：  
-http://pi-star/admin/expert/edit_mmdvmhost.php  
-作用: 为修改偏频，延时等参数，建议按照上图调整为默认的配置  
-
-## SSH后台登录查看日志
-需要有一点Linux知识，这不是傻瓜教程 ^_^  
-[点击查看大图](http://www.aprspi.org/images/mmdvm/pistar_ssh_login_err.png) 
-![osc_archi](/images/mmdvm/pistar_ssh_login_err.png) 
-
 ## 设置Wi-Fi联网
-方法一：直接插网线口，带路由器分配IP后，局域网访问 http://pi-star 进入Web页面配置，如图  
+方法一：直接插网线口，等待路由器分配IP后，局域网访问 http://pi-star 进入Web页面配置，如图  
 [点击查看大图](http://www.aprspi.org/images/mmdvm/nano_userguide_wifi_web.png) 
 ![osc_archi](/images/mmdvm/nano_userguide_wifi_web.png)   
 
@@ -58,6 +49,16 @@ http://pi-star/admin/expert/edit_mmdvmhost.php
 参考：http://wiki.pistar.uk/Setup_WPA_over_SSH  
 这是截图：  
 ![osc_archi](/images/mmdvm/nano_userguide_wifi_ssh.png) 
+
+## 更高级设置
+### 专家模式：  
+http://pi-star/admin/expert/edit_mmdvmhost.php  
+作用: 为修改偏频，延时等参数，建议按照上图调整为默认的配置  
+
+### SSH后台登录查看日志
+需要有一点Linux知识，这不是傻瓜教程 ^_^  
+[点击查看大图](http://www.aprspi.org/images/mmdvm/pistar_ssh_login_err.png) 
+![osc_archi](/images/mmdvm/pistar_ssh_login_err.png) 
 
 ## 注意事项
 正确的Nano 热点板的使用姿势：    
