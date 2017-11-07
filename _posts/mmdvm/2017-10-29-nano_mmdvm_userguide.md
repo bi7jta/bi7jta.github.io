@@ -17,15 +17,16 @@ image:
 > 本文原文地址：<http://www.aprspi.org{{ page.url }}>
 
 ## 近期公告
+20171107 代申请DMR-ID访问 www.aprspi.org/raspberry/pistar_dmrid_reg  
 20171106 刷pi-star固件需要使用Nano的版本，不能使用树莓派的版本，否则启动不了  
 下载地址： http://www.pistar.uk/downloads/  
 20171105 交流Q群 320533571  
 
 ## 必备工具
-1）局域网IP扫描
-苹果手机 https://itunes.apple.com/cn/app/inet-network-scanner/id340793353?mt=8  
-安卓手机 http://as.baidu.com/software/11330188.html
-安卓WiFi热点查IP http://mobile.baidu.com/item?docid=11483202&source=s1001
+1）局域网IP扫描  
+苹果手机 https://itunes.apple.com/cn/app/inet-network-scanner/id340793353?mt=8    
+安卓手机 http://as.baidu.com/software/11330188.html   
+安卓WiFi热点查IP http://mobile.baidu.com/item?docid=11483202&source=s1001  
 
 ## 入门配置(和配置路由器一样简单）
 接上网线，在任何一台电脑访问 http://pi-star，点击配置，输入  
