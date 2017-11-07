@@ -17,6 +17,8 @@ image:
 > 本文原文地址：<http://www.aprspi.org{{ page.url }}>
 
 ## 注册地址（需要翻墙）
+代申请DMR-ID请加群 320533571 后，按照以下的要求发送资料到我的邮箱 38091476@gmail.com   
+
 https://www.dmr-marc.net/cgi-bin/trbo-database/userreg.cgi  
 ![osc_archi](/images/raspberry/reg_dmrid_notqrz.png)
 
