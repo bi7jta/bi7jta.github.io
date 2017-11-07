@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Nano HotSPOT MMDVM 热点板用户手册V1.0
+title: MMDVM辅助工具和使用技巧
 categories: mmdvm
 #excerpt:
 #tags: []
@@ -21,11 +21,6 @@ image:
 下载地址： http://www.pistar.uk/downloads/  
 20171105 交流Q群 320533571  
 
-## 必备工具
-1）局域网IP扫描
-苹果手机 https://itunes.apple.com/cn/app/inet-network-scanner/id340793353?mt=8  
-安卓手机 http://as.baidu.com/software/11330188.html
-安卓WiFi热点查IP http://mobile.baidu.com/item?docid=11483202&source=s1001
 
 ## 入门配置(和配置路由器一样简单）
 接上网线，在任何一台电脑访问 http://pi-star，点击配置，输入  
