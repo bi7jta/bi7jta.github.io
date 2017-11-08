@@ -46,10 +46,8 @@ image:
 ## 第二步 设置无线Wi-Fi，无线使用
 >强烈建议用第一种方法，成本最低！如果打算插网线使用，这步骤请忽略  
 
-方法一：直接插网线口，等待路由器分配IP后，局域网访问 http://pi-star 进入Web页面配置，如图  
-注意：
->1 配置完成后，刷新一遍当前网页，如果看到WiFi配置栏（wireless Configuration)能显示IP地址，则正常，否则重新配置，直到看到，注意WiFi的ID和密码输入区分大小写  
->2   
+方法一：直接插网线口，等待路由器分配IP后，局域网访问 http://pi-star 进入Web页面配置，如图   
+注意： 配置完成后，刷新一遍当前网页，如果看到WiFi配置栏（wireless Configuration)能显示IP地址，则正常，否则重新配置，直到看到，注意WiFi的ID和密码输入区分大小写  
 [点击查看大图](http://www.aprspi.org/images/mmdvm/nano_userguide_wifi_web.png) 
 ![osc_archi](/images/mmdvm/nano_userguide_wifi_web.png)   
 
