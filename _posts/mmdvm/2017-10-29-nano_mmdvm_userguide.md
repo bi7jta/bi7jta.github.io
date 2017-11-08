@@ -12,7 +12,7 @@ image:
 
 > 本文内容：MMDVM热点Wi-Fi配置、呼号DMRID配置、热点板GPIO定义、使用的一些注意事项以及部分扩展功能。  
 > 现在就开始你的 MMDVM 之旅 Let ‘s go！  
- 
+> 
 > 文章欢迎转载，但转载时请保留本小段文字，并置于文章的顶部  
 > 作者：BI7JTA  
 > 本文原文地址：<http://www.aprspi.org{{ page.url }}>
