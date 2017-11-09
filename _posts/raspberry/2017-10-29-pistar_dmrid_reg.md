@@ -17,7 +17,8 @@ image:
 > 本文原文地址：<http://www.aprspi.org{{ page.url }}>
 
 ## 注册地址（需要翻墙）
-代申请DMR-ID请加群 320533571 后，按照以下的要求发送资料到我的邮箱 38091476@qq.com   
+代申请DMR-ID请加Nano MMDVM交流群 320533571 后，按照以下的要求发送资料到我的邮箱 38091476@qq.com   
+格式：你的姓名、所在城市（无需业余无线电执照），在收到邮件后按照提示回复执照拍照件即可    
 
 https://www.dmr-marc.net/cgi-bin/trbo-database/userreg.cgi  
 ![osc_archi](/images/raspberry/reg_dmrid_notqrz.png)
@@ -27,7 +28,7 @@ https://www.dmr-marc.net/cgi-bin/trbo-database/userreg.cgi
 完整的申请过程（24小时内完成）[点击查看大图](http://www.aprspi.org/images/mmdvm/dmr_id_reg.png)   
 ![osc_archi](/images/mmdvm/dmr_id_reg.png)
 
-## qrz.com 注册地址：http://www.qrz.com/db/BI7JTA 说明：需要实名HAM先添加呼号到数据库，再注册，如有需要请在Q群里[290347330]联系我。qrz主要用于全球HAM查询QSL地址和记录短波QSO日志用，建议玩短波的都要注册，方便对方了解你。
+## qrz.com 注册地址（不玩短波请忽略）http://www.qrz.com/db/BI7JTA 说明：需要实名HAM先添加呼号到数据库，再注册，如有需要请 发邮件给我。qrz主要用于全球HAM查询QSL地址和记录短波QSO日志用，建议玩短波的都要注册，方便对方了解你。
 
 ## 其它说明
 20171031补充：  
