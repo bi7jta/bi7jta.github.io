@@ -18,10 +18,19 @@ image:
 > 本文原文地址：<http://www.aprspi.org{{ page.url }}>
 
 ## 近期公告
+20171111 增加优酷视频：Nano热点盒开箱指引，观看地址如下
 20171107 代申请DMR-ID访问 www.aprspi.org/raspberry/pistar_dmrid_reg  
 20171106 刷pi-star固件需要使用Nano的版本，不能使用树莓派的版本，否则启动不了  
 下载地址： http://www.pistar.uk/downloads/  
 20171105 交流Q群 320533571   
+
+## 开箱指引视频（超清模式观看效果更佳）
+优酷主页：http://i.youku.com/bi7jta  
+第一部分：http://v.youku.com/v_show/id_XMzE0OTI1MjM1Mg==.html?spm=a2hzp.8253869.0.0  
+第二部分：http://v.youku.com/v_show/id_XMzE0OTI3OTU2NA==.html?spm=a2hzp.8253869.0.0   
+第三部分：http://v.youku.com/v_show/id_XMzE0OTI4OTA1Mg==.html?spm=a2hzp.8253869.0.0     
+共三集，总时长23分钟，声明：本视频仅给入门ham友提供指引，抛砖引玉，不做技术探讨用，其中可能存在非专业的表述和遗漏，请各取所需，不惜莫喷，谢过！截图：        
+![osc_archi](/images/mmdvm/nano_userguide_openbox_video.png)  
 
 ## 第一步 连上有线网络，修改呼号
 >没连上MMDVM网络服务器前，OLED显示屏是不会亮的，所以一定要完成此步骤，这个问题不用再提了  
