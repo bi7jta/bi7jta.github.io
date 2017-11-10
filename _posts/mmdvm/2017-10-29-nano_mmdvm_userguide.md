@@ -25,10 +25,7 @@ image:
 20171105 交流Q群 320533571   
 
 ## 开箱指引视频（超清模式观看效果更佳）
-优酷主页：http://i.youku.com/bi7jta  
-第一部分：http://v.youku.com/v_show/id_XMzE0OTI1MjM1Mg==.html?spm=a2hzp.8253869.0.0  
-第二部分：http://v.youku.com/v_show/id_XMzE0OTI3OTU2NA==.html?spm=a2hzp.8253869.0.0   
-第三部分：http://v.youku.com/v_show/id_XMzE0OTI4OTA1Mg==.html?spm=a2hzp.8253869.0.0     
+优酷主页：http://i.youku.com/bi7jta      
 共三集，总时长23分钟，声明：本视频仅给入门ham友提供指引，抛砖引玉，不做技术探讨用，其中可能存在非专业的表述和遗漏，请各取所需，不惜莫喷，谢过！截图：        
 ![osc_archi](/images/mmdvm/nano_userguide_openbox_video.png)  
 
