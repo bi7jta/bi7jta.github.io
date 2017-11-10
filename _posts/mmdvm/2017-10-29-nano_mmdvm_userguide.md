@@ -18,14 +18,14 @@ image:
 > 本文原文地址：<http://www.aprspi.org{{ page.url }}>
 
 ## 近期公告
-20171111 增加优酷视频：Nano热点盒开箱指引，观看地址如下
+20171111 增加优酷视频：Nano热点盒开箱指引，观看地址如下  
 20171107 代申请DMR-ID访问 www.aprspi.org/raspberry/pistar_dmrid_reg  
 20171106 刷pi-star固件需要使用Nano的版本，不能使用树莓派的版本，否则启动不了  
 下载地址： http://www.pistar.uk/downloads/  
 20171105 交流Q群 320533571   
 
-## 开箱指引视频（超清模式观看效果更佳）
-优酷主页：http://i.youku.com/bi7jta      
+## 开箱指引视频
+优酷主页：http://i.youku.com/bi7jta  （超清模式观看效果更佳）    
 共三集，总时长23分钟，声明：本视频仅给入门ham友提供指引，抛砖引玉，不做技术探讨用，其中可能存在非专业的表述和遗漏，请各取所需，不惜莫喷，谢过！截图：        
 ![osc_archi](/images/mmdvm/nano_userguide_openbox_video.png)  
 
