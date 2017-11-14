@@ -78,7 +78,10 @@ DMR  ：默认连接的服务器为澳大利亚，将手台信道调到46001组�
 
 鹦鹉测试：目的测试自己的回音  
 八重洲：pi-star设置界面选择 00001 - Parrot -Parrot ，按下PTT测试（实际上并没有回音）    
-DMR  ：手台添加通话组 99900，调到此信道，按下PTT（回音测试，但实际上并没有回音，可以上去喊喊，两个不在同一热点的HAM进入可以相互QSO）。  
+DMR  ：手台添加通话组 99900，调到此信道，按下PTT（回音测试，但实际上并没有回音，可以上去喊喊，两个不在同一热点的HAM进入可以相互QSO）  
+
+## 在线收听某个组的QSO
+https://hose.brandmeister.network/46001/  
 
 ## 几个概念
 YSF  
@@ -145,14 +148,15 @@ http://pi-star/admin/expert/edit_mmdvmhost.php
 与NanoPi NEO搭配使用 [点击查看大图](http://www.aprspi.org/images/mmdvm/nano_userguide_gpio.png) 
  ![osc_archi](/images/mmdvm/nano_userguide_gpio.png)  
 
-在树莓派3B使用，注意插座顺序 [点击查看大图](http://www.aprspi.org/images/mmdvm/nano_userguide_rasp3b.png) 
+在树莓派3B使用，注意  
+1. 插座顺序，Nano板规则边紧靠树莓派尾巴端，见图1    
+[点击查看大图](http://www.aprspi.org/images/mmdvm/nano_userguide_rasp3b.png) 
 ![osc_archi](/images/mmdvm/nano_userguide_rasp3b.png)  
 
 ## 功能扩展
 1、 需要蓝牙模块+BlueDV APP使用，可以自行参照GPIO 串口的定义，增加蓝牙模块，适合动手能力强的HAM DIY；  
 2、需要连接Windows BlueDV 桌面程序使用，可以自行参照GPIO 串口的定义，增加USB to TTL模块，适合动手能力强的HAM DIY   
-3、还支持iOS版BLE、PC版MMDVM的扩展，需要可以加群讨论，我们玩的就是动手能力     
-![osc_archi](/images/mmdvm/nano_userguide_usb.png) 
+3、支持iOS版BLE、PC版MMDVM的扩展，需要可以加群讨论，需要动手能力     
 
 Nano HotSPOT for MMDVM热点板链接：  
 [https://item.taobao.com/item.htm?id=560320395097](https://item.taobao.com/item.htm?id=560320395097)   
