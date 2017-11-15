@@ -158,6 +158,9 @@ http://pi-star/admin/expert/edit_mmdvmhost.php
 2、需要连接Windows BlueDV 桌面程序使用，可以自行参照GPIO 串口的定义，增加USB to TTL模块，适合动手能力强的HAM DIY   
 3、支持iOS版BLE、PC版MMDVM的扩展，需要可以加群讨论，需要动手能力     
 
+## DMRid增长情况
+![osc_archi](/images/mmdvm/nano_dmr_id_20171114.png)  
+
 Nano HotSPOT for MMDVM热点板链接：  
 [https://item.taobao.com/item.htm?id=560320395097](https://item.taobao.com/item.htm?id=560320395097)   
 
