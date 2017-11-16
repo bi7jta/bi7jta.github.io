@@ -4,7 +4,7 @@ permalink: /
 title: "Latest Posts"
 image: 
     feature: cover.jpg
-    credit: 交流QQ群290347330
+    credit: 交流QQ群 320533571
     creditlink: #
 ---
 
