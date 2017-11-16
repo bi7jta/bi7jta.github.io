@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Nano HotSPOT MMDVM 热点板用户手册V1.1_1108
+title: Nano HotSPOT MMDVM 热点板用户手册V1.1_1116
 categories: mmdvm
 #excerpt:
 #tags: []
@@ -18,6 +18,7 @@ image:
 > 本文原文地址：<http://www.aprspi.org{{ page.url }}>
 
 ## 近期公告
+20171116 增加隐藏WiFi、pistar访问异常的场景问题、C4FM国内房间地址更新、Nano+大屏豪华版链接
 20171111 增加优酷视频：Nano热点盒开箱指引，观看地址见下  
 20171107 代申请DMR-ID访问 www.aprspi.org/raspberry/pistar_dmrid_reg  
 20171106 刷pi-star固件需要使用Nano的版本，不能使用树莓派的版本，否则启动不了  
@@ -26,8 +27,9 @@ image:
 
 ## 开箱指引视频
 优酷主页：http://i.youku.com/bi7jta  （超清模式观看效果更佳）    
-共三集，总时长23分钟，声明：本视频仅给入门ham友提供指引，抛砖引玉，不做技术探讨用，可能存在非专业的表述和遗漏，请各取所需，也可以在优酷跟帖评论提出你的看法，谢过！截图：        
+共三集，总时长23分钟，声明：本视频仅给入门ham友提供指引，抛砖引玉，不做技术探讨用，可能存在非专业的表述和遗漏，请各取所需，也可以在优酷跟帖评论提出你的看法，谢过！这是截图，不要点击！          
 ![osc_archi](/images/mmdvm/nano_userguide_openbox_video.png)  
+欢迎提供在QQ群中分享Nano热点的使用小视频，一经采纳即更新到优酷主页，并将注明视频的原创呼号。  
 
 ## 第一步 连上有线网络，修改呼号
 >没连上MMDVM网络服务器前，OLED显示屏是不会亮的，所以一定要完成此步骤，这个问题不用再提了  
@@ -42,10 +44,10 @@ image:
 开始配置呼号和DMR-ID，  
 这里我默认设置了DMR和YSF两种模式，方便大家测试，请只保留一种和你手台一致的模式   
  
-[点击查看大图](http://www.aprspi.org/images/mmdvm/pistar_conf_1.png) 
+[点击查看大图](http://www.aprspi.org/images/mmdvm/pistar_conf_1.png)   
 ![osc_archi](/images/mmdvm/pistar_conf_1.png)   
 
-[点击查看大图](http://www.aprspi.org/images/mmdvm/pistar_conf_2.png) 
+[点击查看大图](http://www.aprspi.org/images/mmdvm/pistar_conf_2.png)   
 ![osc_archi](/images/mmdvm/pistar_conf_2.png)   
 遇到疑难杂症加Q 38091476  
 
@@ -106,8 +108,8 @@ DMR
 4. 直接访问 http://pi-star 有可能被QQ百度360等浏览器自作聪明重定向到官网，选用Chrome或IE 火狐即可，或者直接用IP地址访问 @BD7LYV 反馈  
 ![osc_archi](/images/mmdvm/nano_userguide_pistar_err.png)   
 5. 隐藏WiFi 无法连接问题 @BH7JTB 提供的方法，增加scan_ssid=1参数  
-![osc_archi](/images/mmdvm/nano_userguide_hide_wifi.png) 
-
+![osc_archi](/images/mmdvm/nano_userguide_hide_wifi.png)   
+更多：等待你的补充，一起完善     
 
 ## 辅助工具
 >当直接访问http://pi-star 不可用时，务必使用这些工具获得pi-star的IP，使用IP访问
@@ -165,10 +167,13 @@ http://pi-star/admin/expert/edit_mmdvmhost.php
 ![osc_archi](/images/mmdvm/nano_dmr_id_20171114.png)  
 
 Nano HotSPOT for MMDVM热点板链接：  
+小蓝盒快速入门版：  
 [https://item.taobao.com/item.htm?id=560320395097](https://item.taobao.com/item.htm?id=560320395097)   
+Nano+大屏豪华版：  
+[https://item.taobao.com/item.htm?id=561607171659](https://item.taobao.com/item.htm?id=561607171659)     
 
-提问题请加入Q群：320533571  
-（未完待续）
+提问题请加入Q群： 320533571  微信： 38091676
+（持续更新）
 
 
 
