@@ -100,11 +100,14 @@ DMR
   
 
 ## 常见问题
->这种问题只想解释一次
-
 1. 为什么首次上电后OLED屏幕不亮？需要接上网络，初始化完成，连上MMDVM服务器才能亮。  
-2. Win7看到的SD卡只有60M或显示未被格式化，不要怀疑，是Win7不识别树莓派格式的磁盘。  
+2. Win7看到的SD卡只有64M或显示未被格式化，不要怀疑，是Win7不识别树莓派格式的磁盘。  
 3. DMR模式手台如何进入46001？写频，手台调到对应的频道，按下PTT   
+4. 直接访问 http://pi-star 有可能被QQ百度360等浏览器自作聪明重定向到官网，选用Chrome或IE 火狐即可，或者直接用IP地址访问 @BD7LYV 反馈  
+![osc_archi](/images/mmdvm/nano_userguide_pistar_err.png)   
+5. 隐藏WiFi 无法连接问题 @BH7JTB 提供的方法，增加scan_ssid=1参数  
+![osc_archi](/images/mmdvm/nano_userguide_hide_wifi.png) 
+
 
 ## 辅助工具
 >当直接访问http://pi-star 不可用时，务必使用这些工具获得pi-star的IP，使用IP访问
