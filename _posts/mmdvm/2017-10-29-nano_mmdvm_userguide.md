@@ -33,7 +33,7 @@ image:
 欢迎提供在QQ群中分享Nano热点的使用小视频，一经采纳即更新到优酷主页，并将注明视频的原创呼号。  
 
 ## 第一步 连上有线网络，修改呼号
->没连上MMDVM网络服务器前，OLED显示屏是不会亮的，所以一定要完成此步骤，这个问题不用再提了  
+>没连上MMDVM网络服务器前，OLED显示屏是不会亮的，所以一定要完成此步骤  
 
 接上网线，通电，等网卡绿灯闪烁时，在任何一台电脑访问 http://pi-star，点击右上角的【配置】，输入  
 用户： pi-star   
@@ -102,15 +102,20 @@ DMR
 信道：每个联系人（单呼、组呼、全呼）一个通讯组，      
   
 
-## 常见问题
+## 常见问题 Q&A
 1. 为什么首次上电后OLED屏幕不亮？需要接上网络，初始化完成，连上MMDVM服务器才能亮。  
 2. Win7看到的SD卡只有64M或显示未被格式化，不要怀疑，是Win7不识别树莓派格式的磁盘。  
 3. DMR模式手台如何进入46001？写频，手台调到对应的频道，按下PTT   
 4. 直接访问 http://pi-star 有可能被QQ百度360等浏览器自作聪明重定向到官网，选用Chrome或IE 火狐即可，或者直接用IP地址访问 @BD7LYV 反馈  
 ![osc_archi](/images/mmdvm/nano_userguide_pistar_err.png)   
 5. 隐藏WiFi 无法连接问题 @BH7JTB 提供的方法，增加scan_ssid=1参数  
-![osc_archi](/images/mmdvm/nano_userguide_hide_wifi.png)   
-更多：等待你的补充，一起完善     
+![osc_archi](/images/mmdvm/nano_userguide_hide_wifi.png)  
+6. 仪表盘页面在线更新没响应，建议使用ssh命令行更新  
+![osc_archi](/images/mmdvm/nano_userguide_QA_updateWeb.png)   
+![osc_archi](/images/mmdvm/nano_userguide_QA_updateSSh.jpg)   
+
+更多：等待你的补充，一起完善  
+带解：同名WiFi多点部署漫游接入问题      
 
 ## 辅助工具
 >当直接访问http://pi-star 不可用时，务必使用这些工具获得pi-star的IP，使用IP访问
