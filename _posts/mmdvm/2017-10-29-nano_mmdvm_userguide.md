@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Nano HotSPOT MMDVM 热点板用户手册V1.1_1116
+title: Nano MMDVM 用户手册V_1116
 categories: mmdvm
 #excerpt:
 #tags: []
