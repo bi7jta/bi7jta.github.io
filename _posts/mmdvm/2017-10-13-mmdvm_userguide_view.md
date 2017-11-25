@@ -88,8 +88,14 @@ Wifi名区分大小写
 OLED 显示雪花屏  
 频偏导致热点RF无收发  
 
-最后带上Nano HotSPOT for MMDVM热点板链接：  
-[https://item.taobao.com/item.htm?id=560320395097](https://item.taobao.com/item.htm?id=560320395097)
+Nano HotSPOT for MMDVM热点板链接：  
+Nano小蓝盒快速入门版：  
+[https://item.taobao.com/item.htm?id=561964266288](https://item.taobao.com/item.htm?id=561964266288)   
+Nano+大屏豪华版：  
+[https://item.taobao.com/item.htm?id=561607171659](https://item.taobao.com/item.htm?id=561607171659)   
+Nano创客空间(小店)：  
+[https://shop113103301.taobao.com/?spm=2013.1.1000126.d21.767a371c9FIc02](https://shop113103301.taobao.com/?spm=2013.1.1000126.d21.767a371c9FIc02)  
+![osc_archi](/images/mmdvm/nano_userguide_taobao.png)   
 
 Q群技术讨论组：320533571  
 
