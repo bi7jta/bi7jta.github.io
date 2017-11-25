@@ -174,16 +174,19 @@ http://pi-star/admin/expert/edit_mmdvmhost.php
 ![osc_archi](/images/mmdvm/nano_dmr_id_20171114.png)  
 
 ## 比较热闹的组
-4400,United Kingdom,, 
-45004,韩国,   
-46600 TW 大都讲闽南语
-46601
-440 日本
-9 91 92
-454 HK
+4400,United Kingdom  
+45004,韩国    
+46600 TW 闽南语为主     
+46601 TW  
+440 日本  
+9  91  92  
+454 HK  
 
 国内：
-460075 深圳
+46001 深圳
+46007 深圳
+46073 深圳
+46076 深圳
 
 官方公布的DMR组
 http://www.pistar.uk/dmr_bm_talkgroups.php 
