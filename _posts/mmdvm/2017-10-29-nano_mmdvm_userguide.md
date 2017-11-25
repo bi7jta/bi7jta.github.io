@@ -92,7 +92,6 @@ MD380G MMDVM写频模板：http://39.106.17.242/download/TYT_MD380_BI7JTA_v1119.
 
 图示：  
 ![osc_archi](/images/mmdvm/nano_userguide_md380g_write1.png)    
-![osc_archi](/images/mmdvm/nano_userguide_md380g_write2.png)    
 ![osc_archi](/images/mmdvm/nano_userguide_md380g_write3.jpg)     
 
 ## 第四步 测试，开始QSO
