@@ -173,11 +173,32 @@ http://pi-star/admin/expert/edit_mmdvmhost.php
 ## DMRid增长情况
 ![osc_archi](/images/mmdvm/nano_dmr_id_20171114.png)  
 
+## 比较热闹的组
+4400,United Kingdom,, 
+45004,韩国,   
+46600 TW 大都讲闽南语
+46601
+440 日本
+9 91 92
+454 HK
+
+国内：
+460075 深圳
+
+官方公布的DMR组
+http://www.pistar.uk/dmr_bm_talkgroups.php 
+
+
 Nano HotSPOT for MMDVM热点板链接：  
-小蓝盒快速入门版：  
-[https://item.taobao.com/item.htm?id=560320395097](https://item.taobao.com/item.htm?id=560320395097)   
+Nano小蓝盒快速入门版：  
+[https://item.taobao.com/item.htm?id=561964266288](https://item.taobao.com/item.htm?id=561964266288)   
 Nano+大屏豪华版：  
-[https://item.taobao.com/item.htm?id=561607171659](https://item.taobao.com/item.htm?id=561607171659)     
+[https://item.taobao.com/item.htm?id=561607171659](https://item.taobao.com/item.htm?id=561607171659)   
+Nano创客空间(小店)：  
+[https://shop113103301.taobao.com/?spm=2013.1.1000126.d21.767a371c9FIc02](https://shop113103301.taobao.com/?spm=2013.1.1000126.d21.767a371c9FIc02)  
+![osc_archi](/images/mmdvm/nano_userguide_taobao.png)     
+
+
 
 提问题请加入Q群： 320533571  微信： 38091676
 （持续更新）

@@ -22,7 +22,13 @@ image:
 习惯于Google搜图，关键字，DMR 集群，一堆抽象架构图，
 
 Nano HotSPOT for MMDVM热点板链接：  
-[https://item.taobao.com/item.htm?id=560320395097](https://item.taobao.com/item.htm?id=560320395097)   
+Nano小蓝盒快速入门版：  
+[https://item.taobao.com/item.htm?id=561964266288](https://item.taobao.com/item.htm?id=561964266288)   
+Nano+大屏豪华版：  
+[https://item.taobao.com/item.htm?id=561607171659](https://item.taobao.com/item.htm?id=561607171659)   
+Nano创客空间(小店)：  
+[https://shop113103301.taobao.com/?spm=2013.1.1000126.d21.767a371c9FIc02](https://shop113103301.taobao.com/?spm=2013.1.1000126.d21.767a371c9FIc02)  
+![osc_archi](/images/mmdvm/nano_userguide_taobao.png)     
 
 提问题请加入Q群：Nano MMDVM技术交流 320533571  
 （未完待续）
