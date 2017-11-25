@@ -39,6 +39,8 @@ image:
 用户： pi-star   
 密码： raspberry  
 
+说明：由于Nano+大屏幕版 树莓派0没有网线接口，需要使用使用电脑将WiFi配置写入SD卡，请准备一个TF写卡器，参考下面的WiFi配置方法二。如果没有不懂操作，请在下单时备注WiFi ID和密码，强烈建议自行设置！  
+
 对于无法访问的情况，需使用 http://MMDVM热点的IP地址/ 直接访问。如何获得IP地址有两种方法：  
 1 登录路由器查看网线连接的终端，查看名称为pi-star的设备的IP地址   
 2 使用文章后面的【辅助工具】，查看名称为pi-star的设备的IP地址      
@@ -73,7 +75,24 @@ image:
 
 ## 第三步 设置手台，接入热点
 八重洲：手置频率为433.550MHz，DN数据模式，按下PTT看热点板的仪表盘是否有TX动作      
-DMR  ：参考群文件的特易通MD-380 MMDVM写频模板（其他牌子的手台也可以参考，用380软件打开模板），数字联系人增加460、46001、46007等三个通话组，MD380设备可以把呼号和DMR-ID改成你的，直接将模板写入你的手台即可。其它电台类型按群文件是否有，或咨询群友，或自行编辑。  
+DMR  ：参考群文件的特易通MD-380 MMDVM写频模板（其他牌子的手台也可以参考，用380软件打开模板），数字联系人增加460、46001、46007等三个通话组  
+MD380/MD380G写频模板和写频软件如下，两型号通用，  
+
+MD380G写频线制作：http://www.aprspi.org/mmdvm/diy_hytmd380_linker    
+MD380G写频软件：http://39.106.17.242/download/TYT_MD-380G.rar  
+MD380G MMDVM写频模板：http://39.106.17.242/download/TYT_MD380_BI7JTA_v1119.rar  
+
+特别说明：  
+1 请一定要把里面的呼号和DMRid改成自己的，否则会影响我登录，没有申请的看http://www.aprspi.org/raspberry/pistar_dmrid_reg   
+2 这里只告知大家一种入门的方法，高级玩法如刷机请加群 320533571 看资料、向群友提问  
+3 需要购买MD380系列手台请入小店看链接咨询   
+4 MD380G玩转APRS定位也请进Q群 683111553 看资料  
+虽然本人QQ常年在线，但在忙活混饭吃，除非你发个大红包把我激活O(∩_∩)O~   
+
+图示：  
+![osc_archi](/images/mmdvm/nano_userguide_md380g_write1.png)    
+![osc_archi](/images/mmdvm/nano_userguide_md380g_write2.png)    
+![osc_archi](/images/mmdvm/nano_userguide_md380g_write3.jpg)     
 
 ## 第四步 测试，开始QSO
 八重洲：默认已连接 00325 TW YSF886 C4FM Taiwan房间，请使用标准通联用于进行QSO！  
