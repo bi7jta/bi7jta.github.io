@@ -139,8 +139,8 @@ DMR
 ![osc_archi](/images/mmdvm/nano_userguide_hide_wifi.png)  
 6. 仪表盘页面在线更新没响应，建议使用ssh命令行更新  
 ![osc_archi](/images/mmdvm/nano_userguide_QA_updateWeb.png)   
-
 ![osc_archi](/images/mmdvm/nano_userguide_QA_updateSSh.jpg)   
+
 
 7. DMR模式长时间没有接收，仪表盘看到的网络状态正常，需要进入后台看日志，如果频频出现以下日志，  
 DMR, Login to the master has failed, retrying network ...  
