@@ -18,7 +18,8 @@ image:
 > 本文原文地址：<http://www.aprspi.org{{ page.url }}>
 
 ## 近期公告
-20171125 增加大屏幕版WiFi配置说明、增加MD380/MD380G写频软件和模板下载地址、电台写频指引、增加pi-star提供的DMR群组列表  
+20171127 增加DMR长时间没收发的网络诊断方法、谴责一些无聊之徒   
+20171125 增加大屏幕版WiFi配置说明、增加MD380/MD380G写频软件和模板下载地址、电台写频指引、增加pi-star提供的DMR群组列表、  
 20171116 增加隐藏WiFi、pistar访问异常的场景问题、C4FM国内房间地址更新、Nano+大屏豪华版链接
 20171111 增加优酷视频：Nano热点盒开箱指引，观看地址见下  
 20171107 代申请DMR-ID访问 www.aprspi.org/raspberry/pistar_dmrid_reg  
@@ -150,9 +151,20 @@ DMR, Opening DMR Network
 ![osc_archi](/images/mmdvm/nano_userguide_connectClose.png)   
 正常连接服务器的日志  
 ![osc_archi](/images/mmdvm/nano_userguide_connectOK.png)   
+Facebook讨论组提出过此问题，Pi-Star作者Andrew Taylor答复是：
+目前，仪表板状态只检查从MMDVMHost到DMR网络的连接，所以在使用DMRGateway时 - 只能表明已经连接到DMRGateway（如澳大利亚、韩国是网关，澳大利亚到BM总服务器是上级链路）
+![图片装载中](/images/mmdvm/nano_userguide_connectFacebook.png)   
+建议：当怀疑连接异常是，点击仪表盘【Admin】【Live Log】看日志（要等一会才有日志，看历史日志使用SSH登录，见前面的截图方法）  
+![osc_archi](/images/mmdvm/nano_userguide_liveLogs_menu.png)   
+![osc_archi](/images/mmdvm/nano_userguide_liveLogs.png)   
+ 
+
 
 更多：等待你的补充，一起完善  
-带解：同名WiFi多点部署漫游接入问题      
+待解：同名WiFi多点部署漫游接入问题    
+  
+在这里强烈鄙视一些不懂行的所谓爱好者，对Nano小蓝盒胡乱评价，没有实践就没有发言权，我们始终抱着学习改进的态度，不要一位迷信树莓派、大板就是好的，本人就是国内最早玩树莓派APRS的HAM，拥有大群一枚，目前国内搞MMDVM板的HAM均来自此群，不服站出来！  
+![图片装载中](/images/mmdvm/nano_userguide_raspQQGroup.png)   
 
 ## 辅助工具
 >当直接访问http://pi-star 不可用时，务必使用这些工具获得pi-star的IP，使用IP访问
