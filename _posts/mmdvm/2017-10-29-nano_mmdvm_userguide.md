@@ -42,7 +42,8 @@ image:
 
 说明：由于Nano+大屏幕版 树莓派0没有网线接口，需要使用使用电脑将WiFi配置写入SD卡，请准备一个TF写卡器，参考下面的WiFi配置方法二。如果没有不懂操作，请在下单时备注WiFi ID和密码，强烈建议自行设置！  
 
-对于无法访问的情况，需使用 http://MMDVM热点的IP地址/ 直接访问。如何获得IP地址有两种方法：  
+对于无法访问的情况，大部分情况是浏览器做了域名解释到外网去了，请使用Chrome或火狐浏览器。或  
+使用 http://MMDVM热点的IP地址/ 直接访问。如何获得IP地址有两种方法：  
 1 登录路由器查看网线连接的终端，查看名称为pi-star的设备的IP地址   
 2 使用文章后面的【辅助工具】，查看名称为pi-star的设备的IP地址      
 开始配置呼号和DMR-ID，  
@@ -105,6 +106,13 @@ DMR  ：手台添加通话组 99900，调到此信道，按下PTT（回音测试
 ## 在线收听某个组的QSO
 https://hose.brandmeister.network/46001/  
 
+## 备份配置
+![osc_archi](/images/mmdvm/nano_userguide_backup.png)   
+
+## 重刷系统
+准备工作：一张8G SD卡，USB卡套，   
+下载地址： http://www.pistar.uk/downloads/  选择Nano版本的pi-star  
+
 ## 几个概念
 YSF  
 反射器：Reflector 服务器(代理）、房间，作用同DMR的群组，C4FM（YSF）模式不能跨房间QSO  
@@ -133,6 +141,15 @@ DMR
 ![osc_archi](/images/mmdvm/nano_userguide_QA_updateWeb.png)   
 
 ![osc_archi](/images/mmdvm/nano_userguide_QA_updateSSh.jpg)   
+
+7. DMR模式长时间没有接收，仪表盘看到的网络状态正常，需要进入后台看日志，如果频频出现以下日志，  
+DMR, Login to the master has failed, retrying network ...  
+DMR, Closing DMR Network  
+DMR, Opening DMR Network  
+则说明服务器连接异常，更换服务器，  
+![osc_archi](/images/mmdvm/nano_userguide_connectClose.png)   
+正常连接服务器的日志  
+![osc_archi](/images/mmdvm/nano_userguide_connectOK.png)   
 
 更多：等待你的补充，一起完善  
 带解：同名WiFi多点部署漫游接入问题      
