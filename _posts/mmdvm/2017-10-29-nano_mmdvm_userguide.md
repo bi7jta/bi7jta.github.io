@@ -131,6 +131,9 @@ DMR
   
 
 ## 常见问题 Q&A
+0. 如果切换到YSF模式出现无法连接网关、OLED显示 Startup，原因是装配时导入了旧的网关地址，需要更新pistar系统，点击右上角菜单的【更新/update】按钮即可  
+![osc_archi](/images/mmdvm/nano_userguide_QA_ysferr.png)
+
 1. 为什么首次上电后OLED屏幕不亮？需要接上网络，初始化完成，连上MMDVM服务器才能亮。  
 2. Win7看到的SD卡只有64M或显示未被格式化，不要怀疑，是Win7不识别树莓派格式的磁盘。  
 3. DMR模式手台如何进入46001？写频，手台调到对应的频道，按下PTT   
