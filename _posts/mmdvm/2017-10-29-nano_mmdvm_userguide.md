@@ -119,11 +119,11 @@ Nano小蓝盒，选择 Pi-Star_NanoPi_XXX.zip  不要用错，用错启动不了
 ![图片装载中](/images/mmdvm/nano_userguide_reflashOS.png)   
 
 安装格式化工具，格式化SD卡:  
-下载地址：http://39.106.17.242/SDFormatterv4.zip  
+下载地址：http://39.106.17.242/download/SDFormatterv4.zip  
 
 安装镜像写入工具，写入pi-star镜像：
 这里特别提醒，不格式化直接写入新的镜像，会导致oled屏幕花屏！  
-http://39.106.17.242/win32diskimager-1.0.0-install.zip  
+http://39.106.17.242/download/win32diskimager-1.0.0-install.zip  
 
 生成WiFi配置文件，拷贝到SD卡根目录，见本手册Wi-Fi配置部分，小蓝盒有网线口，此步骤可以忽略，大屏幕版没有网线，需要此操作。  
 
@@ -132,10 +132,10 @@ http://39.106.17.242/win32diskimager-1.0.0-install.zip
 ![图片装载中](/images/mmdvm/nano_userguide_nextion_ip.png)   
 
 步骤  
-1 下载驱动 http://39.106.17.242/NX4024T032_IP_BI7JTA.tft  
+1 下载驱动 http://39.106.17.242/download/NX4024T032_IP_BI7JTA.tft  
 2 准备一张空白的SD卡，一个SD卡USB卡套，将*.tft粘贴到SD卡根目录   
 3 将屏幕上电，等待升级完成，如有异常则说明版本不对，目前仅支持Nextion 3.2寸屏幕，型号为 NX4024T032_11，其它规格加群索取  
-
+4 断电，拔掉SD卡，正常启动pi-star系统  
 
 ## 几个概念
 YSF  
