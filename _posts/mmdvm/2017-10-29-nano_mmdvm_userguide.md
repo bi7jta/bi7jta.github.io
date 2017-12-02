@@ -118,14 +118,12 @@ Nano大屏幕版，选择 Pi-Star_RPi_XXX.zip
 Nano小蓝盒，选择 Pi-Star_NanoPi_XXX.zip  不要用错，用错启动不了！  
 ![图片装载中](/images/mmdvm/nano_userguide_reflashOS.png)   
 
-安装格式化工具，格式化SD卡:  
+1 安装格式化工具，格式化SD卡:  
 下载地址：http://39.106.17.242/download/SDFormatterv4.zip  
-
-安装镜像写入工具，写入pi-star镜像：
+2 安装镜像写入工具，写入pi-star镜像：
 这里特别提醒，不格式化直接写入新的镜像，会导致oled屏幕花屏！  
 http://39.106.17.242/download/win32diskimager-1.0.0-install.zip  
-
-生成WiFi配置文件，拷贝到SD卡根目录，见本手册Wi-Fi配置部分，小蓝盒有网线口，此步骤可以忽略，大屏幕版没有网线，需要此操作。  
+3 生成WiFi配置文件，拷贝到SD卡根目录，见本手册Wi-Fi配置部分，小蓝盒有网线口，此步骤可以忽略，大屏幕版没有网线，需要此操作。  
 
 ## 升级Nano+大屏幕版驱动
 20171201 增加IP显示  
