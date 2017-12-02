@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Nano MMDVM 用户手册V_1127
+title: Nano MMDVM 用户手册V_1201
 categories: mmdvm
 #excerpt:
 #tags: []
@@ -18,6 +18,7 @@ image:
 > 本文原文地址：<http://www.aprspi.org{{ page.url }}>
 
 ## 近期公告
+20171201 增加大屏幕显IP驱动 PI-STAR重刷镜像方法
 20171127 增加DMR长时间没收发的网络诊断方法    
 20171125 增加大屏幕版WiFi配置说明、增加MD380/MD380G写频软件和模板下载地址、电台写频指引、增加pi-star提供的DMR群组列表、  
 20171116 增加隐藏WiFi、pistar访问异常的场景问题、C4FM国内房间地址更新、Nano+大屏豪华版链接
@@ -110,9 +111,31 @@ https://hose.brandmeister.network/46001/
 ## 备份配置
 ![osc_archi](/images/mmdvm/nano_userguide_backup.png)   
 
-## 重刷系统
+## 重刷pi-star系统
 准备工作：一张8G SD卡，USB卡套，   
-下载地址： http://www.pistar.uk/downloads/  选择Nano版本的pi-star  
+下载地址： http://www.pistar.uk/downloads/  
+Nano大屏幕版，选择 Pi-Star_RPi_XXX.zip  
+Nano小蓝盒，选择 Pi-Star_NanoPi_XXX.zip  不要用错，用错启动不了！  
+![图片装载中](/images/mmdvm/nano_userguide_reflashOS.png)   
+
+安装格式化工具，格式化SD卡:  
+下载地址：http://39.106.17.242/SDFormatterv4.zip  
+
+安装镜像写入工具，写入pi-star镜像：
+这里特别提醒，不格式化直接写入新的镜像，会导致oled屏幕花屏！  
+http://39.106.17.242/win32diskimager-1.0.0-install.zip  
+
+生成WiFi配置文件，拷贝到SD卡根目录，见本手册Wi-Fi配置部分，小蓝盒有网线口，此步骤可以忽略，大屏幕版没有网线，需要此操作。  
+
+## 升级Nano+大屏幕版驱动
+20171201 增加IP显示  
+![图片装载中](/images/mmdvm/nano_userguide_nextion_ip.png)   
+
+步骤  
+1 下载驱动 http://39.106.17.242/NX4024T032_IP_BI7JTA.tft  
+2 准备一张空白的SD卡，一个SD卡USB卡套，将*.tft粘贴到SD卡根目录   
+3 将屏幕上电，等待升级完成，如有异常则说明版本不对，目前仅支持Nextion 3.2寸屏幕，型号为 NX4024T032_11，其它规格加群索取  
+
 
 ## 几个概念
 YSF  
