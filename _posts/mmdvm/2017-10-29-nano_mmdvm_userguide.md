@@ -132,8 +132,8 @@ http://39.106.17.242/download/win32diskimager-1.0.0-install.zip
 ![图片装载中](/images/mmdvm/nano_userguide_nextion_ip.png)   
 
 步骤  
-1 下载驱动 http://39.106.17.242/download/NX4024T032_IP_BI7JTA.tft  
-2 准备一张空白的SD卡，一个SD卡USB卡套，将*.tft粘贴到SD卡根目录   
+1 下载驱动 http://39.106.17.242/download/NX4024T032_IP_BI7JTA.rar    
+2 准备一张空白的SD卡，一个SD卡USB卡套，解压后将*.tft粘贴到SD卡根目录   
 3 将屏幕上电，等待升级完成，如有异常则说明版本不对，目前仅支持Nextion 3.2寸屏幕，型号为 NX4024T032_11，其它规格加群索取  
 4 断电，拔掉SD卡，正常启动pi-star系统  
 
