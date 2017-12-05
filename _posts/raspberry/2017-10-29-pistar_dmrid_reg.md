@@ -17,8 +17,7 @@ image:
 > 本文原文地址：<http://www.aprspi.org{{ page.url }}>
 
 ## 注册地址（需要翻墙）
-代申请DMR-ID请加Nano MMDVM交流群 320533571 后，按照以下的要求发送资料到我的邮箱 38091476@qq.com   
-格式：你的姓名、所在城市（无需业余无线电执照），在收到邮件后按照提示回复执照拍照件即可    
+代申请DMR-ID https://mmdvm.wufoo.com/forms/mmdvm-dmridaecee/  
 
 https://www.dmr-marc.net/cgi-bin/trbo-database/userreg.cgi  
 ![osc_archi](/images/raspberry/reg_dmrid_notqrz.png)

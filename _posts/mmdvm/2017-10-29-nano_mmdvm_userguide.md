@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Nano MMDVM 用户手册V_1201
+title: Nano MMDVM 用户手册V_1205
 categories: mmdvm
 #excerpt:
 #tags: []
@@ -18,12 +18,13 @@ image:
 > 本文原文地址：<http://www.aprspi.org{{ page.url }}>
 
 ## 近期公告
+20171205 增加代申请DMRid的表单入口   
 20171201 增加大屏幕显IP驱动 PI-STAR重刷镜像方法  
 20171127 增加DMR长时间没收发的网络诊断方法    
 20171125 增加大屏幕版WiFi配置说明、增加MD380/MD380G写频软件和模板下载地址、电台写频指引、增加pi-star提供的DMR群组列表、  
 20171116 增加隐藏WiFi、pistar访问异常的场景问题、C4FM国内房间地址更新、Nano+大屏豪华版链接
 20171111 增加优酷视频：Nano热点盒开箱指引，观看地址见下  
-20171107 代申请DMR-ID访问 www.aprspi.org/raspberry/pistar_dmrid_reg  
+20171107 代申请DMR-ID https://mmdvm.wufoo.com/forms/mmdvm-dmridaecee/    
 20171106 刷pi-star固件需要使用Nano的版本，不能使用树莓派的版本，否则启动不了  
 下载地址： http://www.pistar.uk/downloads/  
 20171105 交流Q群 320533571   
@@ -125,10 +126,8 @@ Nano小蓝盒，选择 Pi-Star_NanoPi_XXX.zip  不要用错，用错启动不了
 http://39.106.17.242/download/win32diskimager-1.0.0-install.zip  
 3 生成WiFi配置文件，拷贝到SD卡根目录，见本手册Wi-Fi配置部分，小蓝盒有网线口，此步骤可以忽略，大屏幕版没有网线，需要此操作。  
 
-@BG2KJT 专为Nano小蓝盒提供了OLED显示IP的镜像，如有需要在群文件中下载，  
+@BG2KJT 专为Nano小蓝盒提供了OLED显示IP/温度的镜像，如有需要在群文件中下载，   
 ![图片装载中](/images/mmdvm/nano_userguide_oled_ip.png)  
-
-http://aprspi.myq-see.com/file/MMDVM/  
 
 ## 升级Nano+大屏幕版驱动
 20171201 增加IP显示  
