@@ -232,6 +232,9 @@ http://pi-star/admin/expert/edit_mmdvmhost.php
 6. 尽量使用一种模式工作(DMR/YSF/DSTSR/P25)，多种模式会有切换20秒延时，且不可控
 
 ## GPIO定义
+NanoPi_NEO 官方Wiki http://wiki.friendlyarm.com/wiki/index.php/NanoPi_NEO/zh  
+DIY安装小风扇可以从GPIO取电 3.3V/GND，经测试3.3V足以，温度能降到40度，5.0V噪音略大。    
+
 与NanoPi NEO搭配使用 [点击查看大图](http://www.aprspi.org/images/mmdvm/nano_userguide_gpio.png) 
  ![osc_archi](/images/mmdvm/nano_userguide_gpio.png)  
 
