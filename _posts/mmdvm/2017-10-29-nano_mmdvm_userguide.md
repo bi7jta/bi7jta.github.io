@@ -18,13 +18,12 @@ image:
 > 本文原文地址：<http://www.aprspi.org{{ page.url }}>
 
 ## 近期公告
-20171205 增加代申请DMRid的表单入口   
+20171205 增加代申请DMRid的表单入口 https://mmdvm.wufoo.com/forms/mmdvm-dmridaecee  
 20171201 增加大屏幕显IP驱动 PI-STAR重刷镜像方法  
 20171127 增加DMR长时间没收发的网络诊断方法    
 20171125 增加大屏幕版WiFi配置说明、增加MD380/MD380G写频软件和模板下载地址、电台写频指引、增加pi-star提供的DMR群组列表、  
 20171116 增加隐藏WiFi、pistar访问异常的场景问题、C4FM国内房间地址更新、Nano+大屏豪华版链接
-20171111 增加优酷视频：Nano热点盒开箱指引，观看地址见下  
-20171107 代申请DMR-ID https://mmdvm.wufoo.com/forms/mmdvm-dmridaecee/    
+20171111 增加优酷视频：Nano热点盒开箱指引，观看地址见下       
 20171106 刷pi-star固件需要使用Nano的版本，不能使用树莓派的版本，否则启动不了  
 下载地址： http://www.pistar.uk/downloads/  
 20171105 交流Q群 320533571   
