@@ -17,6 +17,9 @@ image:
 > 作者：BI7JTA  
 > 本文原文地址：<http://www.aprspi.org{{ page.url }}>
 
+## 澄清一些事
+有点占位置刷屏，放到最后，无聊时可以看看。
+
 ## 近期公告
 20171205 增加代申请DMRid的表单入口 https://mmdvm.wufoo.com/forms/mmdvm-dmridaecee  
 20171201 增加大屏幕显IP驱动 PI-STAR重刷镜像方法  
@@ -84,7 +87,8 @@ MD380/MD380G写频模板和写频软件如下，两型号通用，
 
 MD380G写频线制作：http://www.aprspi.org/mmdvm/diy_hytmd380_linker    
 MD380G写频软件：http://39.106.17.242/download/TYT_MD-380G.rar  
-MD380G MMDVM写频模板：http://39.106.17.242/download/TYT_MD380_BI7JTA_v1119.rar  
+MD380G MMDVM写频模板：http://39.106.17.242/download/TYT_MD380_BI7JTA_v1206.zip  
+P8668 MMDVM频模板和教程：http://39.106.17.242/download/p8668_ctb_template_bi7mtd.zip    
 
 特别说明：  
 1 请一定要把里面的呼号和DMRid改成自己的，否则会影响我登录，没有申请的看http://www.aprspi.org/raspberry/pistar_dmrid_reg   
@@ -283,6 +287,11 @@ Nano创客空间(小店)：
 
 提问题请加入Q群： 320533571  微信： 38091676
 （持续更新）
+
+##澄清一些屁事
+最近有HAM友也是我的用户，跟我反馈说在所谓的MMDVM中国QQ群晒了本店小蓝盒图片，被踢了，在中国组46001报使用设备是，只要说小蓝盒，就有人掐台来意见。我的说一下：MMDVM不是BXXMDO发明的，CRAC不是BXXSXD开的，BM组46001也不是某个人开的，业余无线电守则，只要不是商业用途，均可以免费使用，不要以为把群名字改为“MMDVM中国”，你就真的代表中国HAM了，没这么简单的，你在英国，赚中国HAM赚钱，别把不用你板的HAM做得这么绝。我做板子是因为好奇、好玩，我们不需要托，不需要谩骂，多一种选择未必不是坏事，我们不靠饥饿营销，不需要一次批发上百张板给炒家由炒家高价卖给不会上网的小白，不需要一晚卖200张板霸占市场，不求质量但求数量的行为可耻！祝大家玩得开心，能多少学到点知识，选择自己喜欢的，不要被BXXSDX此类托所蒙蔽眼睛。请记住：国内最早研究MMDVM热点板的是BH7NJF，他为中国的MMDVM推广和普及，在幕后做了很大量的技究工作，某些HAM有市场头脑，转身把板子量产，学习小米的营销手段，饥饿营销、炒作、装委屈的感情牌营销都用上了，很有效是吗？我们曾是朋友，一起玩树莓派APRS。  
+          2017-12-06  
+          de bi7jta     
 
 
 
