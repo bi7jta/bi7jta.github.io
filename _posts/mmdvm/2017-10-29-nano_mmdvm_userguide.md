@@ -291,35 +291,42 @@ http://www.pistar.uk/dmr_bm_talkgroups.php
 
 ## md380/md380刷机和调小功率到0.1瓦教程
 参考BG5UER/VR2XKP教程  
+玩转md380 QQ群：683111553    
 ### 刷机 
 本教程刷机用于获得自动更新的全球DMRid呼号对应的通讯录  
 注意点：  
-刷机先把手台语言设置为英文，否则乱码，具体在对讲机设置，菜单8；  
-写入本博整理的英文的写频模板，中文乱码，写频方法见手册对讲机写频部分，下载地址：  
-http://39.106.17.242/download/TYT_MD380_BI7JTA_v1206_EN.zip  
-
-进入刷机模式：  
+1  刷机先把手台语言设置为英文，否则会乱码，具体在对讲机设置，菜单8；  
+2  写入本博整理的英文的写频模板，中文模板必然乱码，写频方法见手册对讲机写频部分，  
+下载地址：http://39.106.17.242/download/TYT_MD380_BI7JTA_v1206_EN.zip  
+3 进入刷机模式方法：   
 ![配图加载失败](/images/mmdvm/nano_userguide_md380_flash_in_mode.png)   
   
-下载刷机工具包： http://39.106.17.242/download/TyteraFlashTool_v1_08_BETA.zip  
-BG5UER的教程：见Q群683111553 文件  
-![配图加载失败](/images/mmdvm/nano_userguide_md380_flash_BG5UER.png)   
+4 下载刷机工具包：http://39.106.17.242/download/TyteraFlashTool_v1_08_BETA.zip  
 
-图解刷机：  
+### 图解刷机  
+1 刷固件  
+说明：这里在线下载通讯录后应该会显示全球Id数量，但没有显示不知何解@BH7JTB，该通讯录会每天更新，重复该操作即可同步通讯录    
 ![配图加载失败](/images/mmdvm/nano_userguide_md380_flash_BI7JTA.png)   
 
-摘自群文件《MD-380_380G 三方固件刷USERDB简易教程 - by BG5UER.pdf》  
+2  手台打开全球通讯录（只需执行一次）   
+截图来自群文件《MD-380_380G 三方固件刷USERDB简易教程 - by BG5UER.pdf》  
 ![配图加载失败](/images/mmdvm/nano_userguide_md380_flash_ShowCallSign.png) 
 
-### 调小到0.1瓦功率，保护你的秀发：  
-摘自群文件 《MD-380 多檔輸出火數初探 _ VR2XKP\'s blog.pdf》  
-设置测试模式  
-![配图加载失败](/images/mmdvm/nano_userguide_md380_LowPWR_setting.png)  
+3 效果图，如果达不到此效果，则重头再来  
+![配图加载失败](/images/mmdvm/nano_userguide_md380_flash_result.png)  
 
-打开MD380G写频软件（官方），按Ctrl+T快捷键进入测试模式，修改参数如图：  
+### 调小到0.1瓦功率，保护你的秀发  
+截图摘自群文件 《MD-380 多檔輸出火數初探 _ VR2XKP\'s blog.pdf》   
+1 设置测试模式    
+![配图加载失败](/images/mmdvm/nano_userguide_md380_LowPWR_setting.png)   
+
+2 打开MD380G写频软件（官方），按Ctrl+T快捷键进入测试模式，修改参数如图    
 ![配图加载失败](/images/mmdvm/nano_userguide_md380_LowPWR_UISetting.png)   
 
-## Nano小蓝盒 for MMDVM热点板链接 
+有问题别追问我，Q群交流，谢谢！  
+
+
+## 广而告之：Nano小蓝盒 for MMDVM热点板链接 
 Nano小蓝盒快速入门版：  
 [https://item.taobao.com/item.htm?id=561964266288](https://item.taobao.com/item.htm?id=561964266288)   
 Nano+大屏豪华版：  
@@ -330,7 +337,7 @@ Nano创客空间(小店)：
 
 
 
-提问题请加入Q群： 320533571  微信： 38091676
+提问题请加入Q群： 320533571  QQ/微信：38091676
 （持续更新）
 
 
