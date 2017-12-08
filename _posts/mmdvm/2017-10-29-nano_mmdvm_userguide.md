@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Nano MMDVM 用户手册V_1205
+title: Nano MMDVM 用户手册V_1209
 categories: mmdvm
 #excerpt:
 #tags: []
@@ -17,10 +17,8 @@ image:
 > 作者：BI7JTA  
 > 本文原文地址：<http://www.aprspi.org{{ page.url }}>
 
-## 澄清一些事
-有点占位置刷屏，放到最后，无聊时可以看看。
-
 ## 近期公告
+20171209 增加md380刷机调低功率教程   
 20171205 增加代申请DMRid的表单入口 https://mmdvm.wufoo.com/forms/mmdvm-dmridaecee  
 20171201 增加大屏幕显IP驱动 PI-STAR重刷镜像方法  
 20171127 增加DMR长时间没收发的网络诊断方法    
