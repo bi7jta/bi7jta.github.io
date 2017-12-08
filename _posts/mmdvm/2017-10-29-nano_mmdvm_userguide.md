@@ -45,6 +45,9 @@ image:
 用户： pi-star   
 密码： raspberry  
 
+强烈建议用Chrome或火狐浏览器访问，其它浏览器存在问题  
+火狐地址：http://www.firefox.com.cn/download/  
+
 说明：由于Nano+大屏幕版 树莓派0没有网线接口，需要使用使用电脑将WiFi配置写入SD卡，请准备一个TF写卡器，参考下面的WiFi配置方法二。如果没有不懂操作，请在下单时备注WiFi ID和密码，强烈建议自行设置！  
 
 对于无法访问的情况，大部分情况是浏览器做了域名解释到外网去了，请使用Chrome或火狐浏览器。或  
@@ -145,6 +148,17 @@ http://39.106.17.242/download/win32diskimager-1.0.0-install.zip
 3 将屏幕上电，等待升级完成，如有异常则说明版本不对，目前仅支持Nextion 3.2寸屏幕，型号为 NX4024T032_11，其它规格加群索取  
 4 断电，拔掉SD卡，正常启动pi-star系统  
 
+## 打补丁增加IP地址 温度 时间显示 
+补丁包由@BG5UER @BG2KJT 提供，基准版本NanoPi-Star_v3.4.6，3.4.7+并不稳定，不建议安装此补丁，可以直接下载群文件镜像刷如SD卡。   
+打补丁步骤：  
+1 ssh登录到pi-star系统，打开可读写模式：rpi-rw  
+2 确定当前目录为/home/pi-star，执行 pwd，如果不在，则输入 cd ~  
+3 备份原有的MMDVMHost主程序（直接复制粘贴）：sudo mv /usr/local/bin/MMDVMHost  /usr/local/bin/MMDVMHost_bak  
+4 上传补丁文件到用户目录，使用winSCP等工具，确定上传成功：ls -l  
+5 拷贝带时间显示的补丁到目录：sudo cp MMDVMHost-time /usr/local/bin/MMDVMHost  
+6 设置补丁文件权限：sudo chmod 775 /usr/local/bin/MMDVMHost  
+7 重启：sudo reboot, 如果重启无效，拔电重启  
+
 ## 几个概念
 YSF  
 反射器：Reflector 服务器(代理）、房间，作用同DMR的群组，C4FM（YSF）模式不能跨房间QSO  
@@ -168,7 +182,8 @@ DMR
 1. 为什么首次上电后OLED屏幕不亮？需要接上网络，初始化完成，连上MMDVM服务器才能亮。  
 2. Win7看到的SD卡只有64M或显示未被格式化，不要怀疑，是Win7不识别树莓派格式的磁盘。  
 3. DMR模式手台如何进入46001？写频，手台调到对应的频道，按下PTT   
-4. 直接访问 http://pi-star 有可能被QQ百度360等浏览器自作聪明重定向到官网，选用Chrome或IE 火狐即可，或者直接用IP地址访问 @BD7LYV 反馈  
+4. 直接访问 http://pi-star 有可能被QQ百度360等浏览器自作聪明重定向到官网，选用Chrome或火狐即可，或者直接用IP地址访问 @BD7LYV 反馈  
+火狐浏览器地址：http://www.firefox.com.cn/download/  
 ![osc_archi](/images/mmdvm/nano_userguide_pistar_err.png)   
 5. 隐藏WiFi 无法连接问题 @BH7JTB 提供的方法，增加scan_ssid=1参数  
 ![osc_archi](/images/mmdvm/nano_userguide_hide_wifi.png)  
