@@ -291,8 +291,37 @@ DIY安装小风扇可以从GPIO取电 3.3V/GND，经测试3.3V足以，温度能
 官方公布的DMR组
 http://www.pistar.uk/dmr_bm_talkgroups.php 
 
+## md380/md380刷机和调小功率到0.1瓦教程
+参考BG5UER/VR2XKP教程  
+### 刷机 
+本教程刷机用于获得自动更新的全球DMRid呼号对应的通讯录  
+注意点：  
+刷机先把手台语言设置为英文，否则乱码，具体在对讲机设置，菜单8；  
+写入本博整理的英文的写频模板，中文乱码，写频方法见手册对讲机写频部分，下载地址：  
+http://39.106.17.242/download/TYT_MD380_BI7JTA_v1206_EN.zip  
 
-Nano HotSPOT for MMDVM热点板链接：  
+进入刷机模式：  
+![配图加载失败](/images/mmdvm/nano_userguide_md380_flash_in_mode.png)   
+  
+下载刷机工具包： http://39.106.17.242/download/TyteraFlashTool_v1_08_BETA.zip  
+BG5UER的教程：见Q群683111553 文件  
+![配图加载失败](/images/mmdvm/nano_userguide_md380_flash_BG5UER.png)   
+
+图解刷机：  
+![配图加载失败](/images/mmdvm/nano_userguide_md380_flash_BI7JTA.png)   
+
+摘自群文件《MD-380_380G 三方固件刷USERDB简易教程 - by BG5UER.pdf》  
+![配图加载失败](/images/mmdvm/nano_userguide_md380_flash_ShowCallSign.png) 
+
+### 调小到0.1瓦功率，保护你的秀发：  
+摘自群文件 《MD-380 多檔輸出火數初探 _ VR2XKP\'s blog.pdf》  
+设置测试模式  
+![配图加载失败](/images/mmdvm/nano_userguide_md380_LowPWR_setting.png)  
+
+打开MD380G写频软件（官方），按Ctrl+T快捷键进入测试模式，修改参数如图：  
+![配图加载失败](/images/mmdvm/nano_userguide_md380_LowPWR_UISetting.png)   
+
+## Nano小蓝盒 for MMDVM热点板链接 
 Nano小蓝盒快速入门版：  
 [https://item.taobao.com/item.htm?id=561964266288](https://item.taobao.com/item.htm?id=561964266288)   
 Nano+大屏豪华版：  
