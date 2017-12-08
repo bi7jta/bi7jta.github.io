@@ -289,7 +289,7 @@ DIY安装小风扇可以从GPIO取电 3.3V/GND，经测试3.3V足以，温度能
 官方公布的DMR组
 http://www.pistar.uk/dmr_bm_talkgroups.php 
 
-## md380/md380刷机和调小功率到0.1瓦教程
+## md380/md380g刷机和调小功率到0.1瓦教程
 参考BG5UER/VR2XKP教程  
 玩转md380 QQ群：683111553    
 ### 刷机 
