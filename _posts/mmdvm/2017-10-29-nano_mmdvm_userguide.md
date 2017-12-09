@@ -88,7 +88,7 @@ MD380/MD380G写频模板和写频软件如下，两型号通用，
 
 MD380G写频线制作：http://www.aprspi.org/mmdvm/diy_hytmd380_linker    
 MD380G写频软件（官方）：http://39.106.17.242/download/TYT_MD-380G.rar  
-MD380G MMDVM写频模板：http://39.106.17.242/download/TYT_MD380G_BI7JTA_v1206_EN_CN.zip  
+MD380G MMDVM写频模板：http://39.106.17.242/download/TYT_MD380G_BI7JTA_v1206_EN_CN.zip   
 P8668 MMDVM频模板和教程：http://39.106.17.242/download/p8668_ctb_template_bi7mtd.zip    
 
 特别说明：  
@@ -297,9 +297,9 @@ http://www.pistar.uk/dmr_bm_talkgroups.php
 本教程刷机用于获得自动更新的全球DMRid呼号对应的通讯录  
 注意点：  
 1  刷机先把手台语言设置为英文，否则会乱码，具体在对讲机设置，菜单8；  
-2  写入本博整理的英文的写频模板，中文模板必然乱码，写频方法见手册对讲机写频部分，  
-MMDVM写频模板(英文)：http://39.106.17.242/download/TYT_MD380G_BI7JTA_v1206_EN_CN.zip 
-MD380G写频软件（官方）：http://39.106.17.242/download/TYT_MD-380G.rar  
+2  写入本博整理的英文的写频模板，中文模板必然乱码，写频方法见手册对讲机写频部分，   
+MMDVM写频模板(英文)：http://39.106.17.242/download/TYT_MD380G_BI7JTA_v1206_EN_CN.zip   
+MD380G写频软件（官方）：http://39.106.17.242/download/TYT_MD-380G.rar   
 3 下载刷机工具包：http://39.106.17.242/download/TyteraFlashTool_v1_08_BETA.zip   
 4 进入刷机模式方法：   
 ![配图加载失败](/images/mmdvm/nano_userguide_md380_flash_in_mode.png)   
