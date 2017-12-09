@@ -209,10 +209,8 @@ Facebook讨论组提出过此问题，Pi-Star作者Andrew Taylor答复是：
 8. TG9组霸占信道的解决方法  
 原因： 曾经单呼/组呼了4400组，会一直占用信道，pi-star状态为 Active Ref
 ![osc_archi](/images/mmdvm/jiqiao_ActiveRef.jpg)  
-
 作者提供的解决方法：单呼 4000，退出4400组（TG9），操作方法为手台添加一个联系人，单呼即可  
 ![osc_archi](/images/mmdvm/jiqiao_AndyAnswer.jpg)  
-
 原理：TG9为特殊的组，不能通过触按PTT直接进入，需要拨号进入，拨号退出。 其实如想守听英国组，进入TG91即可，详见本博提供的MD380写频模板，其它机型一样的设置。   
 
 更多：等待你的补充，一起完善  
