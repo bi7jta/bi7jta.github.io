@@ -206,7 +206,14 @@ Facebook讨论组提出过此问题，Pi-Star作者Andrew Taylor答复是：
 ![osc_archi](/images/mmdvm/nano_userguide_liveLogs_menu.png)   
 ![osc_archi](/images/mmdvm/nano_userguide_liveLogs.png)   
  
+8. TG9组霸占信道的解决方法  
+原因： 曾经单呼/组呼了4400组，会一直占用信道，pi-star状态为 Active Ref
+![osc_archi](/images/mmdvm/jiqiao_ActiveRef.jpg)  
 
+作者提供的解决方法：单呼 4000，退出4400组（TG9），操作方法为手台添加一个联系人，单呼即可  
+![osc_archi](/images/mmdvm/jiqiao_AndyAnswer.jpg)  
+
+原理：TG9为特殊的组，不能通过触按PTT直接进入，需要拨号进入，拨号退出。 其实如想守听英国组，进入TG91即可，详见本博提供的MD380写频模板，其它机型一样的设置。   
 
 更多：等待你的补充，一起完善  
 待解：同名WiFi多点部署漫游接入问题    
@@ -274,18 +281,20 @@ DIY安装小风扇可以从GPIO取电 3.3V/GND，经测试3.3V足以，温度能
 
 ## 比较热闹的组
 4400,United Kingdom  
-45004,韩国    
-46600 TW 闽南语为主     
-46601 TW  
-440 日本  
-9  91  92  
-454 HK  
+45004,韩国 热闹     
+46600 TW 闽南语为主，人气一般       
+46601 TW 人气一般    
+440 日本 人气不旺    
+9  英国组，进入：单呼4400，退出：单呼4000，注意单呼4400后会霸占信道，慎入！  
+91  英国组，比较热闹，欧洲HAM都会在里面，  
+92  英国组，暂未监听  
+454 HK 人气不高  
 
 国内：
-46001 深圳
-46007 深圳
-46073 深圳
-46076 深圳
+46001 中国大组  
+46007 深圳小组       
+460075 Nano小蓝盒QSY专用   
+
 
 官方公布的DMR组
 http://www.pistar.uk/dmr_bm_talkgroups.php 
