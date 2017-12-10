@@ -70,7 +70,8 @@ image:
 [点击查看大图](http://www.aprspi.org/images/mmdvm/nano_userguide_wifi_web.png) 
 ![osc_archi](/images/mmdvm/nano_userguide_wifi_web.png)   
 
-可以增加多个WiFi保存，如手机热点的WiFi，但同一时候只会连接第一次接入的WiFi，测试手机WiFi时，要走到没有路由器WiFi信号的地方，或关闭路由器的WiFI，或通过网线接入，删除pi-Star里的路由器的WiFi  
+可以增加多个WiFi保存，如手机热点的WiFi，但同一时候只会连接第一次接入的WiFi，测试手机WiFi时，要走到没有路由器WiFi信号的地方，或关闭路由器的WiFI，或通过网线接入，删除pi-Star里的路由器的WiFi   
+![osc_archi](/images/mmdvm/jiqiao_MobileWiFi_hotSPOT.png) 
 
 方法二：将Wi-Fi配置文件写入SD卡，使用TF卡套，插入电脑USB口（适合Nano+大屏幕版）    
 ![osc_archi](/images/mmdvm/nano_userguide_wifi_conf.png)   
