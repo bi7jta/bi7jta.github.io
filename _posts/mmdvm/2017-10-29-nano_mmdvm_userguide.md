@@ -70,7 +70,9 @@ image:
 [点击查看大图](http://www.aprspi.org/images/mmdvm/nano_userguide_wifi_web.png) 
 ![osc_archi](/images/mmdvm/nano_userguide_wifi_web.png)   
 
-方法二：将Wi-Fi配置文件写入SD卡，使用TF卡套，插入电脑USB口  
+可以增加多个WiFi保存，如手机热点的WiFi，但同一时候只会连接第一次接入的WiFi，测试手机WiFi时，要走到没有路由器WiFi信号的地方，或关闭路由器的WiFI，或通过网线接入，删除pi-Star里的路由器的WiFi  
+
+方法二：将Wi-Fi配置文件写入SD卡，使用TF卡套，插入电脑USB口（适合Nano+大屏幕版）    
 ![osc_archi](/images/mmdvm/nano_userguide_wifi_conf.png)   
 1. 先访问 http://www.mw0mwz.co.uk/pi-star/wifi.php?fref=gc 输入你家的Wi-Fi用户名密码，生成配置文件（官方的链接不会泄露密码）  
 2. 把下载到的文件拷贝到SD卡的根目录，启动NanoPi即可实现接入Wi-Fi  
@@ -136,14 +138,14 @@ http://39.106.17.242/download/win32diskimager-1.0.0-install.zip
 
 @BG2KJT @BG5UER 专为Nano小蓝盒提供了OLED显示IP/温度的镜像，方法见如下   
 
-## 打补丁增加IP地址+温度显示 
+## 小蓝盒增加IP地址+温度显示 
 两种方法：  
-1、在3.4.6版本的NanoPi-Star打补丁实现IP+温度显示，3.4.7以上版本就不要折腾了，适合有Linux基础的用户  
-2、适合所有用户，操作简单，看图，刷前先准备一张空白的SD卡，一个SD卡USB卡套，用原来的SD卡也可以，4G以上建议8G      
+1、在3.4.6版本的NanoPi-Star打补丁实现IP+温度显示，3.4.7以上版本就不要折腾了，适合有Linux基础的用户，看群文件和下图    
+2、此方法适合所有用户，操作简单，看图，刷前先准备一张空白的SD卡，一个SD卡USB卡套，用原来的SD卡也可以，4G以上建议8G      
 ![图片装载中](/images/mmdvm/jiqiao_FlashOSWithIP_TEMP.png)  
 
 
-## 升级Nano+大屏幕版驱动显示IP地址
+## Nano+大屏幕版显示IP地址
 20171201 增加IP显示  
 ![图片装载中](/images/mmdvm/nano_userguide_nextion_ip.png)   
 
@@ -160,7 +162,7 @@ YSF
 反射器：Reflector 服务器(代理）、房间，作用同DMR的群组，C4FM（YSF）模式不能跨房间QSO  
 鹦鹉：录音、回放程序，用于测试通联质量，丢包率，误码率等    
 
-DMR    
+### DMR    
 全呼：全网广播形式，漫无目的骚扰大，不建议使用，可以理解为广播；   
 组呼：在特定的群组呼叫，如中国大陆有3个群组 460 46001 46007，只需登录任何一个BM服务器即可，可以理解为群聊；  
 单呼：点对点呼叫，私聊，他人只能看到你的呼号，不能听到语音，与所在组无关，理解为一对一对话；  
@@ -212,9 +214,7 @@ Facebook讨论组提出过此问题，Pi-Star作者Andrew Taylor答复是：
 
 更多：等待你的补充，一起完善  
 待解：同名WiFi多点部署漫游接入问题    
-  
-在这里强烈鄙视一些不懂行的所谓爱好者，对Nano小蓝盒胡乱评价，没有实践就没有发言权，我们始终抱着学习改进的态度，不要一位迷信树莓派、大板就是好的，本人就是国内最早玩树莓派APRS的HAM，拥有大群一枚，目前国内搞MMDVM板的HAM均来自此群，不服站出来！  
-![图片装载中](/images/mmdvm/nano_userguide_raspQQGroup.png)   
+   
 
 ## 辅助工具
 >当直接访问http://pi-star 不可用时，务必使用这些工具获得pi-star的IP，使用IP访问
