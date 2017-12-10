@@ -148,15 +148,11 @@ http://39.106.17.242/download/win32diskimager-1.0.0-install.zip
 4 断电，拔掉SD卡，正常启动pi-star系统  
 
 ## 打补丁增加IP地址 温度 时间显示 
-补丁包由@BG5UER @BG2KJT 提供，基准版本NanoPi-Star_v3.4.6，3.4.7+并不稳定，不建议安装此补丁，可以直接下载群文件镜像刷如SD卡。   
-打补丁步骤：  
-1 ssh登录到pi-star系统，打开可读写模式：rpi-rw  
-2 确定当前目录为/home/pi-star，执行 pwd，如果不在，则输入 cd ~  
-3 备份原有的MMDVMHost主程序（直接复制粘贴）：sudo mv /usr/local/bin/MMDVMHost  /usr/local/bin/MMDVMHost_bak  
-4 上传补丁文件到用户目录，使用winSCP等工具，确定上传成功：ls -l  
-5 拷贝带时间显示的补丁到目录：sudo cp MMDVMHost-time /usr/local/bin/MMDVMHost  
-6 设置补丁文件权限：sudo chmod 775 /usr/local/bin/MMDVMHost  
-7 重启：sudo reboot, 如果重启无效，拔电重启  
+两种方法：  
+1、在3.4.6版本的NanoPi-Star打补丁实现IP+温度显示，3.4.7以上版本就不要折腾了，适合有Linux基础的用户  
+2、适合所有用户，操作简单，看图，刷前先准备一张空白的SD卡，一个SD卡USB卡套，用原来的SD卡也可以，4G以上建议8G      
+![图片装载中](/images/mmdvm/jiqiao_FlashOSWithIP_TEMP.png)  
+
 
 ## 几个概念
 YSF  
