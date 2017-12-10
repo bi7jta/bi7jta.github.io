@@ -85,8 +85,8 @@ image:
 ![osc_archi](/images/mmdvm/nano_userguide_wifi_ssh.png) 
 
 ## 第三步 设置手台，接入热点
-八重洲：手置频率为433.550MHz，DN数据模式，按下PTT看热点板的仪表盘是否有TX动作      
-DMR  ：参考群文件的特易通MD-380 MMDVM写频模板（其他牌子的手台也可以参考，用380软件打开模板），数字联系人增加460、46001、46007等三个通话组  
+C4FM模式：设置呼号，手置频率为433.550MHz，DN数据模式，按下PTT看热点板的仪表盘是否有TX动作      
+DMR模式：参考群文件的特易通MD-380 MMDVM写频模板（其他牌子的手台也可以参考，用380软件打开模板），数字联系人增加460、46001、46007等三个通话组  
 MD380/MD380G写频模板和写频软件如下，两型号通用，  
 
 MD380G写频线制作：http://www.aprspi.org/mmdvm/diy_hytmd380_linker    
@@ -100,7 +100,9 @@ P8668 MMDVM频模板和教程：http://39.106.17.242/download/p8668_ctb_template
 3 需要购买MD380系列手台请入小店看链接咨询   
 4 MD380G玩转APRS定位也请进Q群 683111553 看资料  
 5 md380/md380g刷机和调小功率到0.1瓦教程 见本书册最后部分  
-虽然本人QQ常年在线，但在忙活混饭吃，除非你发个大红包把我激活O(∩_∩)O~   
+
+D-star iCOM MMDVM设置教程，进群咨询，  
+P25 MOTO，MMDVM设置教程，进群咨询，    
 
 图示：  
 ![osc_archi](/images/mmdvm/nano_userguide_md380g_write1.png)    
