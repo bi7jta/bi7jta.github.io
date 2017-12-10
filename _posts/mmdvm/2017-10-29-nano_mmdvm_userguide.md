@@ -134,10 +134,16 @@ Nano小蓝盒，选择 Pi-Star_NanoPi_XXX.zip  不要用错，用错启动不了
 http://39.106.17.242/download/win32diskimager-1.0.0-install.zip  
 3 生成WiFi配置文件，拷贝到SD卡根目录，见本手册Wi-Fi配置部分，小蓝盒有网线口，此步骤可以忽略，大屏幕版没有网线，需要此操作。  
 
-@BG2KJT 专为Nano小蓝盒提供了OLED显示IP/温度的镜像，如有需要在群文件中下载，   
-![图片装载中](/images/mmdvm/nano_userguide_oled_ip.png)  
+@BG2KJT @BG5UER 专为Nano小蓝盒提供了OLED显示IP/温度的镜像，方法见如下   
 
-## 升级Nano+大屏幕版驱动
+## 打补丁增加IP地址+温度显示 
+两种方法：  
+1、在3.4.6版本的NanoPi-Star打补丁实现IP+温度显示，3.4.7以上版本就不要折腾了，适合有Linux基础的用户  
+2、适合所有用户，操作简单，看图，刷前先准备一张空白的SD卡，一个SD卡USB卡套，用原来的SD卡也可以，4G以上建议8G      
+![图片装载中](/images/mmdvm/jiqiao_FlashOSWithIP_TEMP.png)  
+
+
+## 升级Nano+大屏幕版驱动显示IP地址
 20171201 增加IP显示  
 ![图片装载中](/images/mmdvm/nano_userguide_nextion_ip.png)   
 
@@ -147,11 +153,6 @@ http://39.106.17.242/download/win32diskimager-1.0.0-install.zip
 3 将屏幕上电，等待升级完成，如有异常则说明版本不对，目前仅支持Nextion 3.2寸屏幕，型号为 NX4024T032_11，其它规格加群索取  
 4 断电，拔掉SD卡，正常启动pi-star系统  
 
-## 打补丁增加IP地址 温度 时间显示 
-两种方法：  
-1、在3.4.6版本的NanoPi-Star打补丁实现IP+温度显示，3.4.7以上版本就不要折腾了，适合有Linux基础的用户  
-2、适合所有用户，操作简单，看图，刷前先准备一张空白的SD卡，一个SD卡USB卡套，用原来的SD卡也可以，4G以上建议8G      
-![图片装载中](/images/mmdvm/jiqiao_FlashOSWithIP_TEMP.png)  
 
 
 ## 几个概念
