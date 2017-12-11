@@ -35,7 +35,7 @@ image:
 优酷主页：http://i.youku.com/bi7jta  （超清模式观看效果更佳）    
 共三集，总时长23分钟，声明：本视频仅给入门ham友提供指引，抛砖引玉，不做技术探讨用，可能存在非专业的表述和遗漏，请各取所需，也可以在优酷跟帖评论提出你的看法。  
 这是截图，不要点击！！          
-![osc_archi](/images/mmdvm/nano_userguide_openbox_video.png)  
+![图片装载中](/images/mmdvm/nano_userguide_openbox_video.png)  
 欢迎提供在QQ群中分享Nano热点的使用小视频，一经采纳即更新到优酷主页，并将注明视频的原创呼号。  
 
 ## 第一步 连上有线网络，修改呼号
@@ -58,10 +58,10 @@ image:
 这里我默认设置了DMR和YSF两种模式，方便大家测试，请只保留一种和你手台一致的模式   
  
 [点击查看大图](http://www.aprspi.org/images/mmdvm/pistar_conf_1.png)   
-![osc_archi](/images/mmdvm/pistar_conf_1.png)   
+![图片装载中](/images/mmdvm/pistar_conf_1.png)   
 
 [点击查看大图](http://www.aprspi.org/images/mmdvm/pistar_conf_2.png)   
-![osc_archi](/images/mmdvm/pistar_conf_2.png)   
+![图片装载中](/images/mmdvm/pistar_conf_2.png)   
 遇到疑难杂症加Q 38091476  
 
 ## 第二步 设置无线Wi-Fi，无线使用
@@ -70,13 +70,13 @@ image:
 方法一：直接插网线口，等待路由器分配IP后，局域网访问 http://pi-star 进入Web页面配置，如图   
 注意： 配置完成后，刷新一遍当前网页，如果看到WiFi配置栏（wireless Configuration)能显示IP地址，则正常，否则重新配置，直到看到，注意WiFi的ID和密码输入区分大小写  
 [点击查看大图](http://www.aprspi.org/images/mmdvm/nano_userguide_wifi_web.png) 
-![osc_archi](/images/mmdvm/nano_userguide_wifi_web.png)   
+![图片装载中](/images/mmdvm/nano_userguide_wifi_web.png)   
 
 可以增加多个WiFi保存，如手机热点的WiFi，但同一时候只会连接第一次接入的WiFi，测试手机WiFi时，要走到没有路由器WiFi信号的地方，或关闭路由器的WiFI，或通过网线接入，删除pi-Star里的路由器的WiFi   
-![osc_archi](/images/mmdvm/jiqiao_MobileWiFi_hotSPOT.png) 
+![图片装载中](/images/mmdvm/jiqiao_MobileWiFi_hotSPOT.png) 
 
 方法二：将Wi-Fi配置文件写入SD卡，使用TF卡套，插入电脑USB口（适合Nano+大屏幕版）    
-![osc_archi](/images/mmdvm/nano_userguide_wifi_conf.png)   
+![图片装载中](/images/mmdvm/nano_userguide_wifi_conf.png)   
 1. 先访问 http://www.mw0mwz.co.uk/pi-star/wifi.php?fref=gc 输入你家的Wi-Fi用户名密码，生成配置文件（官方的链接不会泄露密码）  
 2. 把下载到的文件拷贝到SD卡的根目录，启动NanoPi即可实现接入Wi-Fi  
 3. 测试是否成功，上路由器看看有没有名称为pi-star 的主机  
@@ -84,7 +84,7 @@ image:
 方法三：Setup WPA over SSH  
 参考：http://wiki.pistar.uk/Setup_WPA_over_SSH  
 这是截图：  
-![osc_archi](/images/mmdvm/nano_userguide_wifi_ssh.png) 
+![图片装载中](/images/mmdvm/nano_userguide_wifi_ssh.png) 
 
 ## 第三步 设置手台，接入热点
 C4FM模式：设置呼号，手置频率为433.550MHz，DN数据模式，按下PTT看热点板的仪表盘是否有TX动作      
@@ -97,8 +97,8 @@ MD380G MMDVM写频模板：http://39.106.17.242/download/TYT_MD380G_BI7JTA_v1206
 P8668 MMDVM频模板和教程：http://39.106.17.242/download/p8668_ctb_template_bi7mtd.zip    
 
 安装380驱动和写频软件图示：   
-![osc_archi](/images/mmdvm/nano_userguide_md380g_write1.png)    
-![osc_archi](/images/mmdvm/nano_userguide_md380g_write3.jpg)   
+![图片装载中](/images/mmdvm/nano_userguide_md380g_write1.png)    
+![图片装载中](/images/mmdvm/nano_userguide_md380g_write3.jpg)   
 
 特别说明：  
 1 请一定要把里面的呼号和DMRid改成自己的，没有申请的看http://www.aprspi.org/raspberry/pistar_dmrid_reg   
@@ -151,7 +151,7 @@ https://brandmeister.network/?page=networkmap
 http://www.pistar.uk/dmr_bm_talkgroups.php 
 
 ## 备份配置
-![osc_archi](/images/mmdvm/nano_userguide_backup.png)   
+![图片装载中](/images/mmdvm/nano_userguide_backup.png)   
 
 ## 重刷pi-star系统
 准备工作：一张8G SD卡，USB卡套，   
@@ -226,22 +226,39 @@ DMR, Login to the master has failed, retrying network ...
 DMR, Closing DMR Network  
 DMR, Opening DMR Network  
 则说明服务器连接异常，更换服务器，  
-![osc_archi](/images/mmdvm/nano_userguide_connectClose.png)   
+![图片装载中](/images/mmdvm/nano_userguide_connectClose.png)   
 正常连接服务器的日志  
-![osc_archi](/images/mmdvm/nano_userguide_connectOK.png)   
+![图片装载中](/images/mmdvm/nano_userguide_connectOK.png)   
 Facebook讨论组提出过此问题，Pi-Star作者Andrew Taylor答复是：
 目前，仪表板状态只检查从MMDVMHost到DMR网络的连接，所以在使用DMRGateway时 - 只能表明已经连接到DMRGateway（如澳大利亚、韩国是网关，澳大利亚到BM总服务器是上级链路）
 ![图片装载中](/images/mmdvm/nano_userguide_connectFacebook.png)   
 建议：当怀疑连接异常是，点击仪表盘【Admin】【Live Log】看日志（要等一会才有日志，看历史日志使用SSH登录，见前面的截图方法）  
-![osc_archi](/images/mmdvm/nano_userguide_liveLogs_menu.png)   
-![osc_archi](/images/mmdvm/nano_userguide_liveLogs.png)   
+![图片装载中](/images/mmdvm/nano_userguide_liveLogs_menu.png)   
+![图片装载中](/images/mmdvm/nano_userguide_liveLogs.png)   
  
 8. TG9组霸占信道的解决方法  
 原因： 曾经单呼/组呼了4400组，会一直占用信道，pi-star状态为 Active Ref
-![osc_archi](/images/mmdvm/jiqiao_ActiveRef.jpg)  
+![图片装载中](/images/mmdvm/jiqiao_ActiveRef.jpg)  
 作者提供的解决方法：单呼 4000，退出4400组（TG9），操作方法为手台添加一个联系人，单呼即可  
-![osc_archi](/images/mmdvm/jiqiao_AndyAnswer.jpg)  
+![图片装载中](/images/mmdvm/jiqiao_AndyAnswer.jpg)  
 原理：TG9为特殊的组，不能通过触按PTT直接进入，需要拨号进入，拨号退出。 其实如想守听英国组，进入TG91即可，详见本博提供的MD380写频模板，其它机型一样的设置。   
+
+9. 手台监听多个组的答疑  
+关于md380同时监听多个组的问题，@BG5HRD 提出，  
+同时监听多个组需满足以下条件：  
+1 手台监听列表设置多个组（这里的多个组指的是“列表内的组的DMR数据过来会解码，不在列表的组信号会屏蔽，只会看到接收灯亮，这就是我们监听了3100美国组，切到46001后，灯闪但没有语音的原因），
+2 触发网关监听，手台切到要监听的组46001，短按ptt，守听；再切到要监听的组460075（小蓝盒用户组），短按ptt，实现同时监听两个以上的组（实际上md380不用刷破解固件也可以同时监听），如图    
+![图片装载中](/images/mmdvm/jiqiao_DynamicTGs.png)  
+
+@BD7MQB：动态组好像是15分钟无发射就自动退出（待验证，据我观察只会不在仪表盘的动态监听出现，但一旦有数据过来，仍然会监听，但最多好像只能监听2个组）      
+
+总结：具体能能同时监听多少个组，与pistar系统有关，和手台无关，手台只是解码和屏蔽。
+
+静态监听组：BM网站设置
+动态监听组：见上
+Active Ref 嘈杂模式，如拨号把世界组TG9加入后，不管在不在手台的监听列表，都会解码，名副其实的流氓模式。  
+![图片装载中](/images/mmdvm/jiqiao_activeRef.png)  
+
 
 更多：等待你的补充，一起完善  
 待解：同名WiFi多点部署漫游接入问题    
@@ -264,14 +281,14 @@ http://pi-star/admin/expert/edit_mmdvmhost.php
 2. SSH后台登录查看日志
 需要有一点Linux知识，这不是傻瓜教程 ^_^  
 [点击查看大图](http://www.aprspi.org/images/mmdvm/pistar_ssh_login_err.png) 
-![osc_archi](/images/mmdvm/pistar_ssh_login_err.png) 
+![图片装载中](/images/mmdvm/pistar_ssh_login_err.png) 
 
 ## 特别提醒
 1.    
 
 2. 不要点恢复出厂配置  
-![osc_archi](/images/mmdvm/nano_userguide_fallback01.png)   
-![osc_archi](/images/mmdvm/nano_userguide_fallback02.png)   
+![图片装载中](/images/mmdvm/nano_userguide_fallback01.png)   
+![图片装载中](/images/mmdvm/nano_userguide_fallback02.png)   
 
 3. 使用SD卡重刷系统前，先备份配置文件，再导入配置，方法    
 建议执行update即可    
@@ -290,12 +307,12 @@ NanoPi_NEO 官方Wiki http://wiki.friendlyarm.com/wiki/index.php/NanoPi_NEO/zh
 DIY安装小风扇可以从GPIO取电 3.3V/GND，经测试3.3V足以，温度能降到40度，5.0V噪音略大。    
 
 与NanoPi NEO搭配使用 [点击查看大图](http://www.aprspi.org/images/mmdvm/nano_userguide_gpio.png) 
- ![osc_archi](/images/mmdvm/nano_userguide_gpio.png)  
+ ![图片装载中](/images/mmdvm/nano_userguide_gpio.png)  
 
 在树莓派3B使用，注意  
 1. 插座顺序，Nano板规则边紧靠树莓派尾巴端，见图1    
 [点击查看大图](http://www.aprspi.org/images/mmdvm/nano_userguide_rasp3b.png) 
-![osc_archi](/images/mmdvm/nano_userguide_rasp3b.png)  
+![图片装载中](/images/mmdvm/nano_userguide_rasp3b.png)  
 
 ## 功能扩展
 1、 需要蓝牙模块+BlueDV APP使用，可以自行参照GPIO 串口的定义，增加蓝牙模块，适合动手能力强的HAM DIY；  
@@ -303,7 +320,7 @@ DIY安装小风扇可以从GPIO取电 3.3V/GND，经测试3.3V足以，温度能
 3、支持iOS版BLE、PC版MMDVM的扩展，需要可以加群讨论，需要动手能力     
 
 ## DMRid增长情况
-![osc_archi](/images/mmdvm/nano_dmr_id_20171114.png)  
+![图片装载中](/images/mmdvm/nano_dmr_id_20171114.png)  
 
 
 ## md380/md380g刷机和调小功率到0.1瓦教程
@@ -351,7 +368,7 @@ Nano+大屏豪华版：
 [https://item.taobao.com/item.htm?id=561607171659](https://item.taobao.com/item.htm?id=561607171659)   
 Nano创客空间(小店)：  
 [https://shop113103301.taobao.com/?spm=2013.1.1000126.d21.767a371c9FIc02](https://shop113103301.taobao.com/?spm=2013.1.1000126.d21.767a371c9FIc02)  
-![osc_archi](/images/mmdvm/nano_userguide_taobao.png)     
+![图片装载中](/images/mmdvm/nano_userguide_taobao.png)     
 
 
 
