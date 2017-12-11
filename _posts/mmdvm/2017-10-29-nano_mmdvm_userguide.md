@@ -96,29 +96,29 @@ MD380G写频软件（官方）：http://39.106.17.242/download/TYT_MD-380G.rar
 MD380G MMDVM写频模板：http://39.106.17.242/download/TYT_MD380G_BI7JTA_v1206_EN_CN.zip   
 P8668 MMDVM频模板和教程：http://39.106.17.242/download/p8668_ctb_template_bi7mtd.zip    
 
+安装380驱动和写频软件图示：   
+![osc_archi](/images/mmdvm/nano_userguide_md380g_write1.png)    
+![osc_archi](/images/mmdvm/nano_userguide_md380g_write3.jpg)   
+
 特别说明：  
-1 请一定要把里面的呼号和DMRid改成自己的，否则会影响我登录，没有申请的看http://www.aprspi.org/raspberry/pistar_dmrid_reg   
+1 请一定要把里面的呼号和DMRid改成自己的，没有申请的看http://www.aprspi.org/raspberry/pistar_dmrid_reg   
 2 这里只告知大家一种入门的方法，高级玩法如刷机请加群 320533571 看资料、向群友提问  
-3 需要购买MD380系列手台请入小店看链接咨询   
-4 MD380G玩转APRS定位也请进Q群 683111553 看资料  
-5 md380/md380g刷机和调小功率到0.1瓦教程 见本书册最后部分  
+3 MD380G玩转APRS定位也请进Q群 683111553 看资料  
+4 md380/md380g刷机和调小功率到0.1瓦教程 见本书册最后部分  
 
 D-star iCOM MMDVM设置教程，进群咨询，  
 P25 MOTO，MMDVM设置教程，进群咨询，    
-
-图示：  
-![osc_archi](/images/mmdvm/nano_userguide_md380g_write1.png)    
-![osc_archi](/images/mmdvm/nano_userguide_md380g_write3.jpg)     
+  
 
 这里暗示一下：需要入手md380系列数字手台、moto p8668的朋友群里找我，ham渠道，透明放心。  
 
 ## 第四步 测试，开始QSO
-八重洲：默认已连接 00325 TW YSF886 C4FM Taiwan房间，请使用标准通联用于进行QSO！  
+八重洲：默认已连接 CN #3房间，请先守听，再使用标准通联用于进行QSO，插入先提出申请！  
 DMR  ：默认连接的服务器为澳大利亚，将手台信道调到46001组，轻按PTT进入会话，守听，再进行QSO。  
 
 鹦鹉测试：目的测试自己的回音  
 八重洲：pi-star设置界面选择 00001 - Parrot -Parrot ，按下PTT测试（实际上并没有回音）    
-DMR  ：手台添加通话组 99900，调到此信道，按下PTT（回音测试，但实际上并没有回音，可以上去喊喊，两个不在同一热点的HAM进入可以相互QSO）  
+DMR  ：手台添加通话组 9990，调到此信道，按下PTT（回音测试，但实际上并没有回音，可以上去喊喊，两个不在同一热点的HAM进入可以相互QSO）  
 
 ## 在线收听某个组的QSO
 在线语音：  
