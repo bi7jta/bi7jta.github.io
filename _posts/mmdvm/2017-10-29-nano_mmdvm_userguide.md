@@ -17,7 +17,7 @@ image:
 > 作者：BI7JTA  
 > 本文原文地址：<http://www.aprspi.org{{ page.url }}>
 > 
-> 感谢我的搭档 @BH7NJF 于2017将 MMDVM 引入中国，并牺牲在家半年休假的时间，看英文资料、做开发板、研究固件/系统、先行研究、实践了目前在中国所看到的MMDVM热点板（各种大板、小板、Nano板），让中国HAM用上廉价的热点板，功不可没。请向默默无闻的幕后英雄致敬！ 
+> 感谢我的搭档 @BH7NJF 于2017将 MMDVM 引入中国，并牺牲在家半年休假的时间，看英文资料、做开发板、研究固件/系统、先行研究、实践了目前在中国所看到的MMDVM热点板（各种大板、小板、Nano板），让中国HAM用上廉价的热点板，功不可没。请向默默无闻的幕后英雄致敬！  
 
 ## 近期公告
 20171209 增加md380刷机调低功率教程   
@@ -109,6 +109,8 @@ P25 MOTO，MMDVM设置教程，进群咨询，
 图示：  
 ![osc_archi](/images/mmdvm/nano_userguide_md380g_write1.png)    
 ![osc_archi](/images/mmdvm/nano_userguide_md380g_write3.jpg)     
+
+这里暗示一下：需要入手md380系列数字手台的朋友群里找我，ham渠道，放心用。  
 
 ## 第四步 测试，开始QSO
 八重洲：默认已连接 00325 TW YSF886 C4FM Taiwan房间，请使用标准通联用于进行QSO！  
