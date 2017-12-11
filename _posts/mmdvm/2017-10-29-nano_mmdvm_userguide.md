@@ -110,7 +110,7 @@ P25 MOTO，MMDVM设置教程，进群咨询，
 ![osc_archi](/images/mmdvm/nano_userguide_md380g_write1.png)    
 ![osc_archi](/images/mmdvm/nano_userguide_md380g_write3.jpg)     
 
-这里暗示一下：需要入手md380系列数字手台的朋友群里找我，ham渠道，放心用。  
+这里暗示一下：需要入手md380系列数字手台、moto p8668的朋友群里找我，ham渠道，透明放心。  
 
 ## 第四步 测试，开始QSO
 八重洲：默认已连接 00325 TW YSF886 C4FM Taiwan房间，请使用标准通联用于进行QSO！  
