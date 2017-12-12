@@ -102,7 +102,14 @@ P8668 MMDVM频模板和教程：http://39.106.17.242/download/p8668_ctb_template
 ![图片装载中](/images/mmdvm/nano_userguide_md380g_write3.jpg)   
 
 如果仍然出现无法识别的设备，则手动重装驱动，下载本博提供的STM32驱动包，此问题通常出现在md380G设备，  
-http://39.106.17.242/download/md380USB_Driver_BI7JTA.zip
+http://39.106.17.242/download/md380USB_Driver_BI7JTA.zip  
+
+![图片装载中](/images/mmdvm/jiqiao_380_driver_unknow.png)   
+
+![图片装载中](/images/mmdvm/jiqiao_380_driver_file.png)  
+
+![图片装载中](/images/mmdvm/jiqiao_380_driver_qudongjingl.png)  
+
 
 特别说明：  
 1 请一定要把里面的呼号和DMRid改成自己的，没有申请的看http://www.aprspi.org/raspberry/pistar_dmrid_reg   
@@ -154,6 +161,8 @@ https://brandmeister.network/?page=networkmap
 460075为小蓝盒测试专用，可以从46001 相约QSY到此组，  
 460755 为新增深圳接入点预留组，目前暂未开放   
 ![图片装载中](/images/mmdvm/jiqiao_changshouzu_dmr.png)  
+
+刷机380 tool的用英文模板，看刷机部分说明获得下载地址  
 
 官方公布的DMR组
 http://www.pistar.uk/dmr_bm_talkgroups.php 
