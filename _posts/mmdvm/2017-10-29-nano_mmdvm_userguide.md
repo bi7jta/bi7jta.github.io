@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Nano MMDVM 用户手册V_1209
+title: Nano MMDVM 用户手册V_1211
 categories: mmdvm
 #excerpt:
 #tags: []
@@ -20,6 +20,7 @@ image:
 > 感谢我的搭档 @BH7NJF 于2017将 MMDVM 引入中国，并牺牲在家半年休假的时间，看英文资料、做开发板、研究固件/系统、先行研究、实践了目前在中国所看到的MMDVM热点板（各种大板、小板、Nano板），让中国HAM用上廉价的热点板，功不可没。请向默默无闻的幕后英雄致敬！  
 
 ## 近期公告
+20171211 增加常见问题10 同时守听多组答疑、更新第四步后的热闹DMR组推荐     
 20171209 增加md380刷机调低功率教程   
 20171205 增加代申请DMRid的表单入口 https://mmdvm.wufoo.com/forms/mmdvm-dmridaecee  
 20171201 增加大屏幕显IP驱动 PI-STAR重刷镜像方法  
@@ -100,6 +101,9 @@ P8668 MMDVM频模板和教程：http://39.106.17.242/download/p8668_ctb_template
 ![图片装载中](/images/mmdvm/nano_userguide_md380g_write1.png)    
 ![图片装载中](/images/mmdvm/nano_userguide_md380g_write3.jpg)   
 
+如果仍然出现无法识别的设备，则手动重装驱动，下载本博提供的STM32驱动包，此问题通常出现在md380G设备，  
+http://39.106.17.242/download/md380USB_Driver_BI7JTA.zip
+
 特别说明：  
 1 请一定要把里面的呼号和DMRid改成自己的，没有申请的看http://www.aprspi.org/raspberry/pistar_dmrid_reg   
 2 这里只告知大家一种入门的方法，高级玩法如刷机请加群 320533571 看资料、向群友提问  
@@ -146,6 +150,10 @@ https://brandmeister.network/?page=networkmap
 460075 Nano小蓝盒QSY专用  
 各分区如：46002、46003...      
 
+本博md380预设置的常守组，其中：  
+460075为小蓝盒测试专用，可以从46001 相约QSY到此组，  
+460755 为新增深圳接入点预留组，目前暂未开放   
+![图片装载中](/images/mmdvm/jiqiao_changshouzu_dmr.png)  
 
 官方公布的DMR组
 http://www.pistar.uk/dmr_bm_talkgroups.php 
@@ -313,6 +321,9 @@ DIY安装小风扇可以从GPIO取电 3.3V/GND，经测试3.3V足以，温度能
 1. 插座顺序，Nano板规则边紧靠树莓派尾巴端，见图1    
 [点击查看大图](http://www.aprspi.org/images/mmdvm/nano_userguide_rasp3b.png) 
 ![图片装载中](/images/mmdvm/nano_userguide_rasp3b.png)  
+
+## 安装超薄风扇和散热片
+待续
 
 ## 功能扩展
 1、 需要蓝牙模块+BlueDV APP使用，可以自行参照GPIO 串口的定义，增加蓝牙模块，适合动手能力强的HAM DIY；  
