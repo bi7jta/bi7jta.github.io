@@ -138,7 +138,7 @@ https://hose.brandmeister.network/46001/
 https://brandmeister.network/?page=networkmap  
 
 ## 比较热闹的组推荐，按PTT进入守听  
-提示： MD380/380g可写上面的MMDVM模板见【第三步】，调到响应的组   
+提示： MD380/380g可写上面的MMDVM模板见【第三步】，调到相应的组   
 
 3100  美国，和中国时差12~14小时  
 9     世界组，进入：单呼4400，退出：单呼4000，注意单呼4400后会霸占信道，慎入！  
@@ -186,10 +186,8 @@ http://39.106.17.242/download/win32diskimager-1.0.0-install.zip
 
 @BG2KJT @BG5UER 专为Nano小蓝盒提供了OLED显示IP/温度的镜像，方法见如下   
 
-## 小蓝盒增加IP地址+温度显示 
-两种方法：  
-1、在3.4.6版本的NanoPi-Star打补丁实现IP+温度显示，3.4.7以上版本就不要折腾了，适合有Linux基础的用户，看群文件和下图    
-2、此方法适合所有用户，操作简单，看图，刷前先准备一张空白的SD卡，一个SD卡USB卡套，用原来的SD卡也可以，4G以上建议8G      
+## 小蓝盒增加IP地址+温度显示  
+此方法适合所有用户，操作简单，看图，刷前先准备一张空白的SD卡，一个SD卡USB卡套，用原来的SD卡也可以，4G以上建议8G，文件在群： 320533571        
 ![图片装载中](/images/mmdvm/jiqiao_FlashOSWithIP_TEMP.png)  
 
 
