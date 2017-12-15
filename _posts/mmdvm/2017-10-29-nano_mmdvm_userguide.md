@@ -376,7 +376,8 @@ MD380G写频软件（官方）：http://39.106.17.242/download/TYT_MD-380G.rar
 2 打开MD380G写频软件（官方），按Ctrl+T快捷键进入测试模式，修改参数如图    
 ![配图加载失败](/images/mmdvm/nano_userguide_md380_LowPWR_UISetting.png)   
 
-有问题别追问我，Q群交流，谢谢！  
+有问题Q群交流，谢谢！附上@BD7ILU 大神的刷机视频  
+http://i.youku.com/bi7jta  
 
 
 ## 广而告之：Nano小蓝盒 for MMDVM热点板链接 
