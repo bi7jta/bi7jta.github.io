@@ -76,6 +76,9 @@ image:
 可以增加多个WiFi保存，如手机热点的WiFi，但同一时候只会连接第一次接入的WiFi，测试手机WiFi时，要走到没有路由器WiFi信号的地方，或关闭路由器的WiFI，或通过网线接入，删除pi-Star里的路由器的WiFi   
 ![图片装载中](/images/mmdvm/jiqiao_MobileWiFi_hotSPOT.png) 
 
+技巧：如何不配置WiFi不连接网线快速接入WiFi热点？  
+小蓝盒出厂时@BI7JTA 以内置了调试WiFi，用户名 888888-2G，密码0123456789，只需要把手机的WiFi名称和密码改同上即可（重刷系统后无效）  
+
 方法二：将Wi-Fi配置文件写入SD卡，使用TF卡套，插入电脑USB口（适合Nano+大屏幕版）    
 ![图片装载中](/images/mmdvm/nano_userguide_wifi_conf.png)   
 1. 先访问 http://www.mw0mwz.co.uk/pi-star/wifi.php?fref=gc 输入你家的Wi-Fi用户名密码，生成配置文件（官方的链接不会泄露密码）  
@@ -220,6 +223,7 @@ YSF
   
 
 ## 常见问题 Q&A
+1216： DMRid不可用，会导致热点板收发模块不起作用的表象    
 0. 如果切换到YSF模式出现无法连接网关、OLED显示 Startup，原因是装配时导入了旧的网关地址，需要更新pistar系统，点击右上角菜单的【更新/update】按钮即可  
 ![osc_archi](/images/mmdvm/nano_userguide_QA_ysferr.png)
 
@@ -274,6 +278,18 @@ Facebook讨论组提出过此问题，Pi-Star作者Andrew Taylor答复是：
 Active Ref 嘈杂模式，如拨号把世界组TG9加入后，不管在不在手台的监听列表，都会解码，名副其实的流氓模式。  
 ![图片装载中](/images/mmdvm/jiqiao_activeRef.png)  
 
+10. 同一个公网IP多个热点（DMRid）联网测试     
+同一个ip/不同ip，进入两个组qso，发现同一IP，只能用一个热点登录BM服务器，另一个不能正常通联；
+手台和热点板的呼号/DMRid必须一致，否则会出现热点板拒绝手台接入，
+![图片装载中]()
+
+11. MMDVM热点共享给多台电台（DMRid）接入问题  
+
+12. 快速清空动态监听组方法  
+
+13. 创建DMR组   
+
+14. 
 
 更多：等待你的补充，一起完善  
 待解：同名WiFi多点部署漫游接入问题    
@@ -330,12 +346,25 @@ DIY安装小风扇可以从GPIO取电 3.3V/GND，经测试3.3V足以，温度能
 ![图片装载中](/images/mmdvm/nano_userguide_rasp3b.png)  
 
 ## 安装超薄风扇和散热片
-待续
+找到3.3V,GND的GPIO位置，可以参考上面的GPIO定义，快速上手看实物截图  
+![图片装载中](/images/mmdvm/box_upgrade_gpio.png)   
+
+建议按我的提示安装，达到最小功耗，最大降温效果  
+![图片装载中](/images/mmdvm/box_upgrade_fan.png)  
+
+![图片装载中](/images/mmdvm/box_upgrade_shell.png)  
+
+最终效果（V1V2外置风扇版）  
+![图片装载中](/images/mmdvm/box_upgrade_end.png)  
+
+升级版V3内嵌风扇效果  
+![图片装载中](/images/mmdvm/box_upgrade_upgrade.png)  
+
 
 ## 功能扩展
 1、 需要蓝牙模块+BlueDV APP使用，可以自行参照GPIO 串口的定义，增加蓝牙模块，适合动手能力强的HAM DIY；  
 2、需要连接Windows BlueDV 桌面程序使用，可以自行参照GPIO 串口的定义，增加USB to TTL模块，适合动手能力强的HAM DIY   
-3、支持iOS版BLE、PC版MMDVM的扩展，需要可以加群讨论，需要动手能力     
+3、支持iOS版BLE、PC版MMDVM的扩展，需要可以加群box_upgrade_fan.png讨论，需要动手能力     
 
 ## DMRid增长情况
 ![图片装载中](/images/mmdvm/nano_dmr_id_20171114.png)  
@@ -367,9 +396,14 @@ MD380G写频软件（官方）：http://39.106.17.242/download/TYT_MD-380G.rar
 
 3 效果图，如果达不到此效果，则重头再来  
 ![配图加载失败](/images/mmdvm/nano_userguide_md380_flash_result.png)  
+ 
+网上来路不明的固件（bin）可能加了密码，如果不小心写入了，请按照群大神的做法重刷  
+@bg2kjt 手头有md380机器，用1.08工具最上面的写频备份恢复工具读出正常的做备份，有密码的机器恢复备份就清除密码了，当然原来的写频信息也丢失了。  
 
 ### 调小到0.1瓦功率，保护你的秀发  
 截图摘自群文件 《MD-380 多檔輸出火數初探 _ VR2XKP\'s blog.pdf》   
+为什么要调下功率？  
+1W大功率发射
 1 设置测试模式    
 ![配图加载失败](/images/mmdvm/nano_userguide_md380_LowPWR_setting.png)   
 
@@ -378,9 +412,12 @@ MD380G写频软件（官方）：http://39.106.17.242/download/TYT_MD-380G.rar
 
 有问题Q群交流，谢谢！附上@BD7ILU 大神的刷机视频  
 http://i.youku.com/bi7jta  
+@BD7ILU 的视频空间 http://i.youku.com/i/UNTM3NzQ4NzAw?spm=a2hzp.8244740.0.0  
 
 
-## 广而告之：Nano小蓝盒 for MMDVM热点板链接 
+
+
+## 获得Nano小蓝盒 for MMDVM
 Nano小蓝盒快速入门版：  
 [https://item.taobao.com/item.htm?id=561964266288](https://item.taobao.com/item.htm?id=561964266288)   
 Nano+大屏豪华版：  
