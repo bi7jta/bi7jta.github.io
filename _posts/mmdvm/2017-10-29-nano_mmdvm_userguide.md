@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Nano MMDVM 用户手册V_1211
+title: Nano MMDVM 用户手册V_1218
 categories: mmdvm
 #excerpt:
 #tags: []
@@ -19,7 +19,8 @@ image:
 > 
 > 感谢我的搭档 @BH7NJF 于2017将 MMDVM 引入中国，并牺牲在家半年休假的时间，看英文资料、做开发板、研究固件/系统、先行研究、实践了目前在中国所看到的MMDVM热点板（各种大板、小板、Nano板），让中国HAM用上廉价的热点板，功不可没。请向默默无闻的幕后英雄致敬！  
 
-## 近期公告
+## 近期公告  
+20171218 增加加装风扇接线盒外壳走线，搜索关键字【风扇】快速访问    
 20171211 增加常见问题10 同时守听多组答疑、更新第四步后的热闹DMR组推荐     
 20171209 增加md380刷机调低功率教程   
 20171205 增加代申请DMRid的表单入口 https://mmdvm.wufoo.com/forms/mmdvm-dmridaecee  
@@ -359,6 +360,10 @@ DIY安装小风扇可以从GPIO取电 3.3V/GND，经测试3.3V足以，温度能
 
 升级版V3内嵌风扇效果  
 ![图片装载中](/images/mmdvm/box_upgrade_upgrade.png)  
+
+降温效果（外置风扇，3.3V）  
+![图片装载中](/images/mmdvm/box_upgrade_temp.png) 
+
 
 
 ## 功能扩展
