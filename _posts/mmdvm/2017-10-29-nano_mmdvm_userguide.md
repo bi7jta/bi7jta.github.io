@@ -230,20 +230,20 @@ YSF
 0. 如果切换到YSF模式出现无法连接网关、OLED显示 Startup，原因是装配时导入了旧的网关地址，需要更新pistar系统，点击右上角菜单的【更新/update】按钮即可  
 ![osc_archi](/images/mmdvm/nano_userguide_QA_ysferr.png)
 
-1. 为什么首次上电后OLED屏幕不亮？需要接上网络，初始化完成，连上MMDVM服务器才能亮。  
-2. Win7看到的SD卡只有64M或显示未被格式化，不要怀疑，是Win7不识别树莓派格式的磁盘。  
-3. DMR模式手台如何进入46001？写频，手台调到对应的频道，按下PTT   
-4. 直接访问 http://pi-star 有可能被QQ百度360等浏览器自作聪明重定向到官网，选用Chrome或火狐即可，或者直接用IP地址访问 @BD7LYV 反馈  
+1  首次上电后OLED屏幕不亮？需要接上网络，初始化完成，连上MMDVM服务器才能亮。  
+2  Win7看到的SD卡只有64M或显示未被格式化，不要怀疑，是Win7不识别树莓派格式的磁盘。  
+3  DMR模式手台如何进入46001？写频，手台调到对应的频道，按下PTT   
+4  直接访问 http://pi-star 有可能被QQ百度360等浏览器自作聪明重定向到官网，选用Chrome或火狐即可，或者直接用IP地址访问 @BD7LYV 反馈  
 火狐浏览器地址：http://www.firefox.com.cn/download/  
 ![osc_archi](/images/mmdvm/nano_userguide_pistar_err.png)   
-5. 隐藏WiFi 无法连接问题 @BH7JTB 提供的方法，增加scan_ssid=1参数  
+5  隐藏WiFi 无法连接问题 @BH7JTB 提供的方法，增加scan_ssid=1参数  
 ![osc_archi](/images/mmdvm/nano_userguide_hide_wifi.png)  
-6. 仪表盘页面在线更新没响应，建议使用ssh命令行更新  
+6  仪表盘页面在线更新没响应，建议使用ssh命令行更新  
 ![osc_archi](/images/mmdvm/nano_userguide_QA_updateWeb.png)   
 ![osc_archi](/images/mmdvm/nano_userguide_QA_updateSSh.jpg)   
 
 
-7. DMR模式长时间没有接收，仪表盘看到的网络状态正常，需要进入后台看日志，如果频频出现以下日志，  
+7  DMR模式长时间没有接收，仪表盘看到的网络状态正常，需要进入后台看日志，如果频频出现以下日志，  
 DMR, Login to the master has failed, retrying network ...  
 DMR, Closing DMR Network  
 DMR, Opening DMR Network  
@@ -258,18 +258,18 @@ Facebook讨论组提出过此问题，Pi-Star作者Andrew Taylor答复是：
 ![图片装载中](/images/mmdvm/nano_userguide_liveLogs_menu.png)   
 ![图片装载中](/images/mmdvm/nano_userguide_liveLogs.png)   
  
-8. TG9组霸占信道的解决方法  
+8  TG9组霸占信道的解决方法  
 原因： 曾经单呼/组呼了4400组，会一直占用信道，pi-star状态为 Active Ref
 ![图片装载中](/images/mmdvm/jiqiao_ActiveRef.jpg)  
 作者提供的解决方法：单呼 4000，退出4400组（TG9），操作方法为手台添加一个联系人，单呼即可  
 ![图片装载中](/images/mmdvm/jiqiao_AndyAnswer.jpg)  
 原理：TG9为特殊的组，不能通过触按PTT直接进入，需要拨号进入，拨号退出。 其实如想守听英国组，进入TG91即可，详见本博提供的MD380写频模板，其它机型一样的设置。   
 
-9. 手台监听多个组的答疑  
+9  手台监听多个组的答疑  
 关于md380同时监听多个组的问题，@BG5HRD 提出，  
 同时监听多个组需满足以下条件：  
-1 手台监听列表设置多个组（这里的多个组指的是“列表内的组的DMR数据过来会解码，不在列表的组信号会屏蔽，只会看到接收灯亮，这就是我们监听了3100美国组，切到46001后，灯闪但没有语音的原因），
-2 触发网关监听，手台切到要监听的组46001，短按ptt，守听；再切到要监听的组460075（小蓝盒用户组），短按ptt，实现同时监听两个以上的组（实际上md380不用刷破解固件也可以同时监听），如图    
+1） 手台监听列表设置多个组（这里的多个组指的是“列表内的组的DMR数据过来会解码，不在列表的组信号会屏蔽，只会看到接收灯亮，这就是我们监听了3100美国组，切到46001后，灯闪但没有语音的原因），
+2） 触发网关监听，手台切到要监听的组46001，短按ptt，守听；再切到要监听的组460075（小蓝盒用户组），短按ptt，实现同时监听两个以上的组（实际上md380不用刷破解固件也可以同时监听），如图    
 ![图片装载中](/images/mmdvm/jiqiao_DynamicTGs.png)  
 
 @BD7MQB：动态组好像是15分钟无发射就自动退出（待验证，据我观察只会不在仪表盘的动态监听出现，但一旦有数据过来，仍然会监听，但最多好像只能监听2个组）      
@@ -281,7 +281,7 @@ Facebook讨论组提出过此问题，Pi-Star作者Andrew Taylor答复是：
 Active Ref 嘈杂模式，如拨号把世界组TG9加入后，不管在不在手台的监听列表，都会解码，名副其实的流氓模式。  
 ![图片装载中](/images/mmdvm/jiqiao_activeRef.png)  
 
-10. MMDVM热点共享给多台电台（DMRid）接入问题  
+10  MMDVM热点共享给多台电台（DMRid）接入问题  
 现象：手台和热点板的呼号/DMRid不一致，查看日志发现热点板拒绝手台接入    
 ![图片装载中](/images/mmdvm/qa_callsign_reject.png)  
 
@@ -289,7 +289,7 @@ Active Ref 嘈杂模式，如拨号把世界组TG9加入后，不管在不在手
 解决：打开即可，如下：   
 ![图片装载中](/images/mmdvm/qa_callsign_public.png)  
 
-11. 快速清空动态监听组方法  
+11  快速清空动态监听组方法  
 先到BM官网，使用呼号注册账号，注册完成后会自动关联此呼号下的所有DMR热点  
 https://brandmeister.network （可能翻墙）  
 ![图片装载中](/images/mmdvm/jiqiao_kill_channel.png)  
@@ -299,7 +299,7 @@ https://brandmeister.network （可能翻墙）
 ![图片装载中](/images/mmdvm/jiqiao_kill_channel.png)   
 ![图片装载中](/images/mmdvm/jiqiao_kill_dymaicgroup.png)   
 
-12. 创建DMR组   
+12  创建DMR组   
 
 更多：等待你的补充，一起完善  
 待解：同名WiFi多点部署漫游接入问题    
