@@ -296,6 +296,8 @@ https://brandmeister.network （可能翻墙）
 
 选择如图的个人热点列表，点击进入，对动态组进行删除操作，即可以立即停止对组的监听，  
 注意：因国内网络质量不好，并不是任何时候都能看到热点在线，需要耐心等；有人说可以通过手台单呼一个指定号码，实现发送命令断开监控，其实这样做很不靠谱，当RF一直发射时，手台根本无法发送指令，所以还是以上方法稳妥。  
+
+![图片装载中](/images/mmdvm/jiqiao_kill_enter_bm.png)    
 ![图片装载中](/images/mmdvm/jiqiao_kill_channel.png)   
 ![图片装载中](/images/mmdvm/jiqiao_kill_dymaicgroup.png)   
 
