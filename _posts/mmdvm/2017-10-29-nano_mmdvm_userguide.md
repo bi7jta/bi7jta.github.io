@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Nano MMDVM 用户手册V_1218
+title: Nano MMDVM 用户手册V_1222
 categories: mmdvm
 #excerpt:
 #tags: []
@@ -20,7 +20,8 @@ image:
  
 > 感谢我的搭档 @BH7NJF 于2017将 MMDVM 引入中国，并牺牲在家半年休假的时间，看英文资> 料、做开发板、研究固件/系统、先行研究、实践了目前在中国所看到的MMDVM热点板（各种大> 板、小板、Nano板），让中国HAM用上廉价的热点板，功不可没，幕后英雄。    
 
-## 近期公告  
+## 近期公告 
+20171222 增加快速清除动态监听组、共享MMDVM热点的方法，搜索关键字【动态监听组】  
 20171218 增加加装风扇接线盒外壳走线，搜索关键字【风扇】快速访问    
 20171211 增加常见问题10 同时守听多组答疑、更新第四步后的热闹DMR组推荐     
 20171209 增加md380刷机调低功率教程   
@@ -280,18 +281,25 @@ Facebook讨论组提出过此问题，Pi-Star作者Andrew Taylor答复是：
 Active Ref 嘈杂模式，如拨号把世界组TG9加入后，不管在不在手台的监听列表，都会解码，名副其实的流氓模式。  
 ![图片装载中](/images/mmdvm/jiqiao_activeRef.png)  
 
-10. 同一个公网IP多个热点（DMRid）联网测试     
-同一个ip/不同ip，进入两个组qso，发现同一IP，只能用一个热点登录BM服务器，另一个不能正常通联；
-手台和热点板的呼号/DMRid必须一致，否则会出现热点板拒绝手台接入，
-![图片装载中]()
+10. MMDVM热点共享给多台电台（DMRid）接入问题  
+现象：手台和热点板的呼号/DMRid不一致，查看日志发现热点板拒绝手台接入    
+![图片装载中](/images/mmdvm/qa_callsign_reject.png)  
 
-11. MMDVM热点共享给多台电台（DMRid）接入问题  
+原因：是热点板没打开共享多台终端接入的开关，  
+解决：打开即可，如下：   
+![图片装载中](/images/mmdvm/qa_callsign_public.png)  
 
-12. 快速清空动态监听组方法  
+11. 快速清空动态监听组方法  
+先到BM官网，使用呼号注册账号，注册完成后会自动关联此呼号下的所有DMR热点  
+https://brandmeister.network （可能翻墙）  
+![图片装载中](/images/mmdvm/jiqiao_kill_channel.png)  
 
-13. 创建DMR组   
+选择如图的个人热点列表，点击进入，对动态组进行删除操作，即可以立即停止对组的监听，  
+注意：因国内网络质量不好，并不是任何时候都能看到热点在线，需要耐心等；有人说可以通过手台单呼一个指定号码，实现发送命令断开监控，其实这样做很不靠谱，当RF一直发射时，手台根本无法发送指令，所以还是以上方法稳妥。  
+![图片装载中](/images/mmdvm/jiqiao_kill_channel.png)   
+![图片装载中](/images/mmdvm/jiqiao_kill_dymaicgroup.png)   
 
-14. 
+12. 创建DMR组   
 
 更多：等待你的补充，一起完善  
 待解：同名WiFi多点部署漫游接入问题    
