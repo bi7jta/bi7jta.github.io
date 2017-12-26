@@ -68,6 +68,18 @@ image:
 ![图片装载中](/images/mmdvm/pistar_conf_2.png)   
 遇到疑难杂症加Q 38091476  
 
+### DMR国内服务器（测试阶段）
+1） 由于服务器未完全开放，在列表中还不能看到，需要测试的ham友，可访问专家模式（高级设置）界面，进入专家模式的方法：   
+http://pi-star.local/admin/expert/edit_mmdvmhost.php  苹果手机做热点 
+http://pi-star/admin/expert/edit_mmdvmhost.php  普通路由器WIFi 
+具体把pi-star换成IP地址  
+2） 修改服务器地址  
+，找到DMR Network设置节，在Address栏设置IP为47.100.76.205   
+，点Apply Changes保存即可。大家一起测试看效果如何  
+![图片装载中](/images/mmdvm/nano_userguide_DMR_CN_SRV.png)   
+![图片装载中](/images/mmdvm/nano_userguide_DMR_CN_UI.png)   
+
+
 ## 第二步 设置无线Wi-Fi，无线使用
 >强烈建议用第一种方法，成本最低！如果打算插网线使用，这步骤请忽略  
 
@@ -199,7 +211,9 @@ http://39.106.17.242/download/win32diskimager-1.0.0-install.zip
 
 ## Nano+大屏幕版显示IP地址
 20171201 增加IP显示  
-![图片装载中](/images/mmdvm/nano_userguide_nextion_ip.png)   
+![图片装载中](/images/mmdvm/nano_userguide_LCD1.png)   
+
+![图片装载中](/images/mmdvm/nano_userguide_LCD2.png)  
 
 步骤  
 1 下载驱动 http://39.106.17.242/download/NX4024T032_IP_BI7JTA.rar    
