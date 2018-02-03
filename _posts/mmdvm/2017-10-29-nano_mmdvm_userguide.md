@@ -64,6 +64,9 @@ image:
 [点击查看大图](http://www.aprspi.org/images/mmdvm/pistar_conf_1.png)   
 ![图片装载中](/images/mmdvm/pistar_conf_1.png)   
 
+[点击查看大图](http://www.aprspi.org/images/mmdvm/nano_userguide_Config.png)   
+![图片装载中](/images/mmdvm/nano_userguide_Config.png)  
+
 [点击查看大图](http://www.aprspi.org/images/mmdvm/pistar_conf_2.png)   
 ![图片装载中](/images/mmdvm/pistar_conf_2.png)   
 遇到疑难杂症加Q 38091476  
@@ -110,6 +113,8 @@ C4FM模式：设置呼号，手置频率为433.550MHz，DN数据模式，按下P
 DMR模式：参考群文件的特易通MD-380 MMDVM写频模板（其他牌子的手台也可以参考，用380软件打开模板），数字联系人增加460、46001、46007等三个通话组  
 MD380/MD380G写频模板和写频软件如下，两型号通用，  
 
+最近阿里云下载服务器被停掉了，请进入小蓝盒QQ群的群文件下载 320533571  
+
 MD380G写频线制作：http://www.aprspi.org/mmdvm/diy_hytmd380_linker    
 MD380G写频软件（官方）：http://39.106.17.242/download/TYT_MD-380G.rar  
 MD380G MMDVM写频模板：http://39.106.17.242/download/TYT_MD380G_BI7JTA_v1206_EN_CN.zip   
@@ -155,6 +160,9 @@ https://hose.brandmeister.network/46001/
 热点地图（翻墙）：  
 https://brandmeister.network/?page=networkmap  
 
+## YSF国外组推荐
+![图片装载中](/images/mmdvm/jiqiao_ysf_tg_TGIF.png)  
+
 ## 比较热闹的组推荐，按PTT进入守听  
 提示： MD380/380g可写上面的MMDVM模板见【第三步】，调到相应的组   
 
@@ -162,6 +170,7 @@ https://brandmeister.network/?page=networkmap
 9     英国组，进入：单呼4400，退出：单呼4000，注意单呼4400后会霸占信道，慎入！  
 91    世界组，比较热闹，欧美HAM都会在里面，北京时间周六晚24点台网点名   
 92    英国组，暂未监听   
+2501  俄罗斯组，热闹
 欧洲和中国的时差为8小时左右  
 45004 韩国 热闹     
 46600 台湾 热闹
