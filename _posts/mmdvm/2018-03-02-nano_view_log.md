@@ -25,6 +25,8 @@ http://pi-star/admin/live_modem_log.php
 密码： raspberry  
 
 ![图片装载中](/images/support/viewlog_live_log.png)   
+[点击查看大图](http://www.aprspi.org/images/support/viewlog_live_log.png)   
+
 
 ## 2 SSH终端实时查看  
 该方法适合自行分析解决问题，强烈推荐，90%问题都能自己解决，看不懂英文截图放QQ群寻求帮助  
@@ -32,6 +34,7 @@ http://pi-star/admin/live_modem_log.php
 https://the.earth.li/~sgtatham/putty/latest/w32/putty.exe
 
 ![图片装载中](/images/support/viewlog_ssh_log.png)   
+[点击查看大图](http://www.aprspi.org/images/support/viewlog_ssh_log.png)   
 
 ## 3 下载日志文件  
 该方法适合自己搞不定，发完整日志给别人分析    
@@ -39,6 +42,7 @@ https://the.earth.li/~sgtatham/putty/latest/w32/putty.exe
 http://sw.bos.baidu.com/sw-search-sp/software/3864375932977/WinSCP-5.11.2.7781-Setup.exe
 
 ![图片装载中](/images/support/viewlog_scp_log.png)   
+[点击查看大图](http://www.aprspi.org/images/support/viewlog_scp_log.png)   
 
 ## 广告
 Nano创客空间(小店) MMDVM 热点/中继板/双工板/树莓派大板/3D打印：  
