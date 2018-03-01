@@ -5,7 +5,7 @@ categories: mmdvm
 #excerpt:
 #tags: []
 image:
-    teaser: /mmdvm/view_log_thumb.png
+    teaser: /support/view_log_thumb.png
 #    thumb:
 ---
 
