@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title: "树莓派APRS | BI7JTA的博客"
-description: "This is a description of my awesome site."
+title: "树莓派APRS | BI7JTA的博客 |MMDVM hotSPOT BlueBOX Raspberry Pi Nano Pi 数字中继 双工板 C4FM中继 MD380"
+description: "业余无线电专业玩家的博客"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
@@ -26,7 +26,7 @@ gems:
 
 # Site owner
 owner:
-  name: BI7JTA（Winters）
+  name: BI7JTA（Winters_huang）
   email: bi7jta@gmail.com
   twitter: winters_CN
   google:
