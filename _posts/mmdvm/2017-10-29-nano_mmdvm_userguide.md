@@ -178,8 +178,7 @@ https://brandmeister.network/?page=networkmap
 国内：
 460 目前空置
 46001 中国大组          
-460755 深圳MMDVM中继互联，@BH7KJB @BI7JTA 维护  
-各分区如：46002、46007...      
+460755 深圳MMDVM中继互联，@BH7KJB @BI7JTA 维护   
      
 ![图片装载中](/images/mmdvm/jiqiao_changshouzu_dmr.png)  
 
