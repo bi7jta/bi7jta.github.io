@@ -84,7 +84,8 @@ http://pi-star/admin/expert/edit_mmdvmhost.php  普通路由器WIFi
 ## 第二步 设置无线Wi-Fi，无线使用
 >强烈建议用第一种方法，成本最低！如果打算插网线使用，这步骤请忽略  
 
-方法一：直接插网线口，等待路由器分配IP后，局域网访问 http://pi-star 进入Web页面配置，如图   
+方法一：直接插网线口，等待路由器分配IP后，局域网访问 http://pi-star 进入Web页面配置（iOS设备做热点，域名为 http://pi-star.local ）   
+
 注意： 配置完成后，刷新一遍当前网页，如果看到WiFi配置栏（wireless Configuration)能显示IP地址，则正常，否则重新配置，直到看到，注意WiFi的ID和密码输入区分大小写  
 [点击查看大图](http://www.aprspi.org/images/mmdvm/nano_userguide_wifi_web.png) 
 ![图片装载中](/images/mmdvm/nano_userguide_wifi_web.png)   
@@ -94,6 +95,22 @@ http://pi-star/admin/expert/edit_mmdvmhost.php  普通路由器WIFi
 
 技巧：如何不配置WiFi不连接网线快速接入WiFi热点？  
 小蓝盒出厂时@BI7JTA 以内置了调试WiFi，用户名 888888-2G，密码0123456789，只需要把手机的WiFi名称和密码改同上即可（重刷系统后无效）  
+
+>当直接访问http://pi-star 或 http://pi-star.local  不可用时，务必使用这些工具获得pi-star的IP，使用IP访问  
+
+相关局域网IP扫描app：     
+苹果手机（这款比Fing好处是支持iOS自建WiFi热点查询）   
+https://itunes.apple.com/cn/app/inet-network-scanner/id340793353?mt=8    
+安卓手机 http://as.baidu.com/software/11330188.html   
+安卓自建WiFi热点查IP http://mobile.baidu.com/item?docid=11483202&source=s1001 
+
+其他技巧：用电脑命令行列出局域网所有电脑，IP需要ping一下获得
+Windows： net view   找到 PI-STAR 对应的主机，ping一下它获得IP  
+MAC OS： nmap -sP 192.168.31.1/24  
+如果没有需要安装：  
+sudo apt-get install nmap  
+
+有人抱怨我分享教程都是“点到即止”，还想怎样？又不收学费！  
 
 方法二：将Wi-Fi配置文件写入SD卡，使用TF卡套，插入电脑USB口（适合Nano+大屏幕版）    
 ![图片装载中](/images/mmdvm/nano_userguide_wifi_conf.png)   
