@@ -69,14 +69,8 @@ image:
 ![图片装载中](/images/mmdvm/pistar_conf_2.png)   
 遇到疑难杂症加Q 38091476  
 
-### DMR国内服务器（测试阶段）
-1） 由于服务器未完全开放，在列表中还不能看到，需要测试的ham友，可访问专家模式（高级设置）界面，进入专家模式的方法：   
-http://pi-star.local/admin/expert/edit_mmdvmhost.php  苹果手机做热点 
-http://pi-star/admin/expert/edit_mmdvmhost.php  普通路由器WIFi 
-具体把pi-star换成IP地址  
-2） 修改服务器地址  
-，找到DMR Network设置节，在Address栏设置IP为47.100.76.205   
-，点Apply Changes保存即可。大家一起测试看效果如何  
+### DMR国内服务器 BM CN 4601
+2018年元旦期间上线中国BM服务器，感谢@BD7MQB @BH4DKU 努力，同时感谢中国BM管理团队
 ![图片装载中](/images/mmdvm/nano_userguide_DMR_CN_SRV.png)   
 ![图片装载中](/images/mmdvm/nano_userguide_DMR_CN_UI.png)   
 
