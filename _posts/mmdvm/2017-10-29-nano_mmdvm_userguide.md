@@ -384,6 +384,10 @@ DIY安装小风扇可以从GPIO取电 3.3V/GND，经测试3.3V足以，温度能
 ![图片装载中](/images/mmdvm/nano_userguide_rasp3b.png)  
 
 ## 安装超薄风扇和散热片
+升级版的安装方法，推荐，焊接两根针到OLED 3.3V正负取电如图  
+![图片装载中](/images/mmdvm/nano_userguide_fan_v2.jpg)     
+[点击查看大图](http://www.aprspi.org/images/mmdvm/nano_userguide_fan_v2.jpg)   
+
 找到3.3V,GND的GPIO位置，可以参考上面的GPIO定义，快速上手看实物截图  
 ![图片装载中](/images/mmdvm/box_upgrade_gpio.png)   
 
