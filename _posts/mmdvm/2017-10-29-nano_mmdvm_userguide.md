@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Nano MMDVM 用户手册V_1222
+title: Nano MMDVM 用户手册V_0419  
 categories: mmdvm
 #excerpt:
 #tags: []
@@ -16,12 +16,7 @@ image:
 >  
 > 文章欢迎转载
 > 作者：BI7JTA  
-> 本文原文地址：<http://www.aprspi.org{{ page.url }}> 
-
-## 目录
-常见问题 Q&A ---- Ctrl+F 搜索关键“常见问题”
-关于YSF模式重启后无法进入房间监听和QSO的问题，需要重新选择房间，方法参考视频：
-http://v.youku.com/v_show/id_XMzMzMTg5NzI2OA==.html?spm=a2hzp.8253876.0.0&f=51466216  
+> 本文原文地址：<http://www.aprspi.org{{ page.url }}>   
 
 ## 目录
 ### 常见问题 Q&A ---- Ctrl+F 搜索关键“常见问题”  
@@ -29,6 +24,7 @@ http://v.youku.com/v_show/id_XMzMzMTg5NzI2OA==.html?spm=a2hzp.8253876.0.0&f=5146
 http://v.youku.com/v_show/id_XMzMzMTg5NzI2OA==.html?spm=a2hzp.8253876.0.0&f=51466216  
 
 ## 近期公告 
+20180419 最近有淘宝冒牌的“小蓝盒”出售，请擦亮你的眼睛，冒牌货用垃圾TCXO部件，无法正常工作，没有售后，只有BI7JTA的是正品    
 20171222 增加快速清除动态监听组、共享MMDVM热点的方法，搜索关键字【动态监听组】  
 20171218 增加加装风扇接线盒外壳走线，搜索关键字【风扇】快速访问    
 20171211 增加常见问题10 同时守听多组答疑、更新第四步后的热闹DMR组推荐     
@@ -41,7 +37,7 @@ http://v.youku.com/v_show/id_XMzMzMTg5NzI2OA==.html?spm=a2hzp.8253876.0.0&f=5146
 20171111 增加优酷视频：Nano热点盒开箱指引，观看地址见下       
 20171106 刷pi-star固件需要使用Nano的版本，不能使用树莓派的版本，否则启动不了  
 下载地址： http://www.pistar.uk/downloads/  
-20171105 交流Q群 320533571   
+20171105 交流Q群 320533571    
 
 ## 开箱指引视频
 优酷主页：http://i.youku.com/bi7jta  （超清模式观看效果更佳）    
@@ -219,15 +215,18 @@ Nano小蓝盒，选择 Pi-Star_NanoPi_XXX.zip  不要用错，用错启动不了
 ![图片装载中](/images/mmdvm/nano_userguide_reflashOS.png)   
 
 1 安装格式化工具，格式化SD卡:  
-下载地址：http://39.106.17.242/download/SDFormatterv4.zip  
+下载地址：QQ群文件如图 320533571  
+SDFormatterv4.zip  
 2 安装镜像写入工具，写入pi-star镜像：
 这里特别提醒，不格式化直接写入新的镜像，会导致oled屏幕花屏！  
-http://39.106.17.242/download/win32diskimager-1.0.0-install.zip  
+win32diskimager-1.0.0-install.zip          
+![图片装载中](/images/mmdvm/nano_userguide_reflash_Q.png)   
 3 生成WiFi配置文件，拷贝到SD卡根目录，见本手册Wi-Fi配置部分，小蓝盒有网线口，此步骤可以忽略，大屏幕版没有网线，需要此操作。  
 
 @BG2KJT @BG5UER 专为Nano小蓝盒提供了OLED显示IP/温度的镜像，方法见如下   
 
 ## 小蓝盒增加IP地址+温度显示  
+(版本太旧暂时不建议刷）   
 此方法适合所有用户，操作简单，看图，刷前先准备一张空白的SD卡，一个SD卡USB卡套，用原来的SD卡也可以，4G以上建议8G，文件在群： 320533571        
 ![图片装载中](/images/mmdvm/jiqiao_FlashOSWithIP_TEMP.png)  
 
