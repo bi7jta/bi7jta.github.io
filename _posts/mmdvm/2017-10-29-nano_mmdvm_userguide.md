@@ -25,7 +25,7 @@ http://v.youku.com/v_show/id_XMzMzMTg5NzI2OA==.html?spm=a2hzp.8253876.0.0&f=5146
 
 ## 近期公告 
 
-![图片装载中](/images/sale/mmdvm/NOT_BUY_CLONE.png)   
+![图片装载中](/images/sale/NOT_BUY_CLONE.png)   
 
 20180419 最近有淘宝冒牌的“小蓝盒”出售，请擦亮你的眼睛，冒牌货用垃圾物料，无法正常工作，没有售后，只有BI7JTA的是正品    
 20171222 增加快速清除动态监听组、共享MMDVM热点的方法，搜索关键字【动态监听组】  
