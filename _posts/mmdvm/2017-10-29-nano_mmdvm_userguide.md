@@ -9,11 +9,12 @@ image:
 #    thumb:
 ---
 
+20171105 交流Q群 320533571    
+购买入口：https://item.taobao.com/item.htm?id=561964266288  
 
-> 本文内容：MMDVM热点配置指引、开箱小视频、md380刷机、常见问题等，有关MMDVM的疑问，这里都能找到答案。     
+> 本文内容：MMDVM热点配置指引、开箱小视频、md380刷机、常见问题等，20171105 交流Q群 320533571，购买入口：https://item.taobao.com/item.htm?id=561964266288       
 
-> 现在就开始你的 MMDVM 之旅 Let ‘s go！  
->  
+
 > 文章欢迎转载
 > 作者：BI7JTA  
 > 本文原文地址：<http://www.aprspi.org{{ page.url }}>   
@@ -22,6 +23,12 @@ image:
 ### 常见问题 Q&A ---- Ctrl+F 搜索关键“常见问题”  
 关于YSF模式重启后无法进入房间监听和QSO的问题，需要重新选择房间，方法参考视频：
 http://v.youku.com/v_show/id_XMzMzMTg5NzI2OA==.html?spm=a2hzp.8253876.0.0&f=51466216  
+
+## 获得设备    
+[https://item.taobao.com/item.htm?id=561964266288](https://item.taobao.com/item.htm?id=561964266288)  
+
+[https://shop113103301.taobao.com](https://shop113103301.taobao.com)  
+![图片装载中](/images/mmdvm/nano_userguide_taobao.png)    
 
 ## 近期公告 
 
@@ -40,7 +47,6 @@ http://v.youku.com/v_show/id_XMzMzMTg5NzI2OA==.html?spm=a2hzp.8253876.0.0&f=5146
 20171111 增加优酷视频：Nano热点盒开箱指引，观看地址见下       
 20171106 刷pi-star固件需要使用Nano的版本，不能使用树莓派的版本，否则启动不了  
 下载地址： http://www.pistar.uk/downloads/  
-20171105 交流Q群 320533571    
 
 ## 开箱指引视频
 优酷主页：http://i.youku.com/bi7jta  （超清模式观看效果更佳）    
@@ -474,16 +480,12 @@ http://i.youku.com/bi7jta
 
 
 
-
 ## 获得Nano小蓝盒 for MMDVM
-Nano小蓝盒快速入门版：  
-[https://item.taobao.com/item.htm?id=561964266288](https://item.taobao.com/item.htm?id=561964266288)   
-Nano+大屏豪华版：  
-[https://item.taobao.com/item.htm?id=561607171659](https://item.taobao.com/item.htm?id=561607171659)   
-Nano创客空间(小店)：  
-[https://shop113103301.taobao.com/?spm=2013.1.1000126.d21.767a371c9FIc02](https://shop113103301.taobao.com/?spm=2013.1.1000126.d21.767a371c9FIc02)  
+购买：  
+[https://item.taobao.com/item.htm?id=561964266288](https://item.taobao.com/item.htm?id=561964266288)  
+小店：  
+[https://shop113103301.taobao.com](https://shop113103301.taobao.com)  
 ![图片装载中](/images/mmdvm/nano_userguide_taobao.png)     
-
 
 
 提问题请加入Q群： 320533571  QQ/微信：38091676
