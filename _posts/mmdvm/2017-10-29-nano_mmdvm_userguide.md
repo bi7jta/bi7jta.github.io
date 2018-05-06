@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Nano MMDVM 用户手册V_0419  
+title: MMDVM 用户手册V_00506
 categories: mmdvm
 #excerpt:
 #tags: []
@@ -30,11 +30,13 @@ http://v.youku.com/v_show/id_XMzMzMTg5NzI2OA==.html?spm=a2hzp.8253876.0.0&f=5146
 [https://shop113103301.taobao.com](https://shop113103301.taobao.com)  
 ![图片装载中](/images/mmdvm/nano_userguide_taobao.png)    
 
+为什么要选择Nano系列MMDVM成品？因为只有JTA能陪你玩，没有别的。  
+
 ## 近期公告 
 
-![图片装载中](/images/sale/NOT_BUY_CLONE.png)   
-
-20180419 最近有淘宝冒牌的“小蓝盒”出售，请擦亮你的眼睛，冒牌货用垃圾物料，无法正常工作，没有售后，只有BI7JTA的是正品    
+20180505 为小蓝盒老用户提供升级服务，包括USB WiFi，3D打印外壳，风扇，SD卡等，有需要请点击淘宝链接查看详情 
+https://item.taobao.com/item.htm?id=560912484770  
+20180419 最近有淘宝冒牌的“小蓝盒”出售，注意分辨，    
 20171222 增加快速清除动态监听组、共享MMDVM热点的方法，搜索关键字【动态监听组】  
 20171218 增加加装风扇接线盒外壳走线，搜索关键字【风扇】快速访问    
 20171211 增加常见问题10 同时守听多组答疑、更新第四步后的热闹DMR组推荐     
@@ -47,6 +49,12 @@ http://v.youku.com/v_show/id_XMzMzMTg5NzI2OA==.html?spm=a2hzp.8253876.0.0&f=5146
 20171111 增加优酷视频：Nano热点盒开箱指引，观看地址见下       
 20171106 刷pi-star固件需要使用Nano的版本，不能使用树莓派的版本，否则启动不了  
 下载地址： http://www.pistar.uk/downloads/  
+
+## 预热
+官方公布的DMR组  
+http://www.pistar.uk/dmr_bm_talkgroups.php  
+中国DMR组在线收听（能不能成功收听看网络了）  
+https://hose.brandmeister.network/46001/  
 
 ## 开箱指引视频
 优酷主页：http://i.youku.com/bi7jta  （超清模式观看效果更佳）    
