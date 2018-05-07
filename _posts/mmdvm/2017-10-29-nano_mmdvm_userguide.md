@@ -1,6 +1,6 @@
 ---
 layout: article
-title: MMDVM 用户手册V_00506
+title: MMDVM 用户手册V_0506
 categories: mmdvm
 #excerpt:
 #tags: []
@@ -216,6 +216,9 @@ https://brandmeister.network/?page=networkmap
 
 官方公布的DMR组
 http://www.pistar.uk/dmr_bm_talkgroups.php 
+
+我的常守组（使用本博的双工热点）：  
+https://brandmeister.network/?page=rep-edit&id=4600060  
 
 ## 备份配置
 ![图片装载中](/images/mmdvm/nano_userguide_backup.png)   
