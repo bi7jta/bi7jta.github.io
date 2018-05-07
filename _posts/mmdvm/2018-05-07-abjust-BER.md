@@ -20,6 +20,10 @@ image:
  
 ## 概念
 首先我们要了解什么是误码率  
+
+先看本博出品的双工板发射时的误码率（我不喜欢干瘪瘪的文字）  
+[点击查看大图](http://www.aprspi.org/images/mmdvm/BER_abjust_thumb.png)  
+
 误比特率（英语：bit error rate，BER）是指单位时间差错比特的数量。 比特差错率（即误码率，英语：bit error ratio，BER）是一段时间内差错比特的数量除以传输的总比特数。 BER是一种无单位的性能指标，通常以百分比的形式表示。  
 比特误码率- 维基百科，自由的百科全书  
 https://zh.wikipedia.org/zh-hans/比特误码率  
