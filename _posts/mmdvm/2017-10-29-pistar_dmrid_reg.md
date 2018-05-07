@@ -1,6 +1,6 @@
 ---
 layout: article
-title: MMDVM DMRid（DMR-ID）注册（新版）
+title: DMRid（DMR-ID）注册（新版）#MMDVM 
 categories: mmdvm
 #excerpt:
 #tags: []
