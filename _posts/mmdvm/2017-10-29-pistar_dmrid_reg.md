@@ -26,9 +26,16 @@ TO ALL：
 https://register.ham-digital.org/  
 
 ## 过程图解
+第1步，  
 ![图片装载中](/images/dmrid/DMRId-Reg-step1.png)  
+
+第2步，  
 ![图片装载中](/images/dmrid/DMRId-Reg-step2.png)  
-![图片装载中](/images/dmrid/DMRId-Reg-step2_1.png)  
+
+同意协议，  
+![图片装载中](/images/dmrid/DMRId-Reg-step2-1.png)  
+
+第3步，  
 ![图片装载中](/images/dmrid/DMRId-Reg-step3.png)   
 
 老地址（即将失效，请使用新地址）
@@ -59,13 +66,13 @@ http://www.dmr-marc.net/cgi-bin/trbo-database/datadump.cgi?table= repeaters&form
 
 提问题请加入Q群：小蓝盒MMDVM技术交流 320533571 
 
-## 获得设备    
+## 获得设备  
+小蓝盒    
 [https://item.taobao.com/item.htm?id=561964266288](https://item.taobao.com/item.htm?id=561964266288)  
-
+所有成品   
 [https://shop113103301.taobao.com](https://shop113103301.taobao.com)  
 ![图片装载中](/images/mmdvm/nano_userguide_taobao.png)    
-
-为什么要选择JTA的MMDVM成品？因为只有JTA能陪你玩，没有别的。  
+ 
 
 （完）
 

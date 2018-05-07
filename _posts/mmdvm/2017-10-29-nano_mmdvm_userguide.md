@@ -26,9 +26,7 @@ http://v.youku.com/v_show/id_XMzMzMTg5NzI2OA==.html?spm=a2hzp.8253876.0.0&f=5146
 [https://item.taobao.com/item.htm?id=561964266288](https://item.taobao.com/item.htm?id=561964266288)  
 
 [https://shop113103301.taobao.com](https://shop113103301.taobao.com)  
-![图片装载中](/images/mmdvm/nano_userguide_taobao.png)    
-
-为什么要选择Nano系列MMDVM成品？因为只有JTA能陪你玩，没有别的。  
+![图片装载中](/images/mmdvm/nano_userguide_taobao.png)      
 
 ## 近期公告 
 
@@ -91,7 +89,7 @@ https://hose.brandmeister.network/46001/
 遇到疑难杂症加Q 38091476  
 
 ### DMR国内服务器 BM CN 4601
-2018年元旦期间上线中国BM服务器，感谢@BD7MQB @BH4DKU 努力，同时感谢中国BM管理团队
+2018年元旦期间上线中国BM服务器，感谢@BD7MQB @BH4DKU 努力，
 ![图片装载中](/images/mmdvm/nano_userguide_DMR_CN_SRV.png)   
 ![图片装载中](/images/mmdvm/nano_userguide_DMR_CN_UI.png)   
 
