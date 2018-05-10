@@ -29,13 +29,13 @@ image:
 https://zh.wikipedia.org/zh-hans/比特误码率  
 
 ## 关键部件 
-TCXO，晶振，知道有这个关键部件就好，不想阐述太多，因为一大波潜在的山寨王潜伏在周围，他们不玩无线电，甚至没有合法的业余无线电License，他们仅仅是个廉价货加工厂，软妹币复印机，这是我的观点。   
+TCXO，晶振，知道有这个关键部件就好，不想阐述太多。   
 
 看一个热点板（TCXO）质量是否达标，一个重要的参数是   
 1）误码率是否稳定，可调节，如果同一批次的晶振，有些高有些低（DMR模式或YSF-VW模式>2%），则会影响通联效果   
 2）调整误码率到1%以内，RXOffset和TXOffset的值是否一致，如否，也不是好的   
 
-据我所知，国内某些克隆成品，偏移量Offset甚至大于1000，大于等于500为凑合，不知道用户如何忍受。 
+有些所谓的复制品，偏移量Offset甚至大于1000，大于等于500为凑合，不知道用户如何忍受。 
 小蓝盒的偏移量在200以内，出厂默认值+200能获得0.5%以下甚至更低的误码率   
 
 特别提醒，如果调整的Offset绝对值过大，说明所使用的晶振TCXO偏移量太大，使用了不合格的物料，正常情况下是 14.7456MHz，PPM在+-2.5ppm范围内（MMDVM原作者要求在2ppm范围内），大于1000且RXOffset，TXOffset不一致，建议直接垃圾桶，以免影响玩无线电的兴致，浪费的时间和省钱相比，不言而喻，所以不要贪图一时便宜。  
@@ -93,14 +93,10 @@ https://github.com/bi7jta/bi7jta.github.io/raw/master/downloads/%E5%85%B3%E4%BA%
 
 其他：如何不刷卡直接升级到最新版本，待补充。  
 
-
-小蓝盒以及MMDVM热板 https://shop113103301.taobao.com     
-DMRid申请（新版） https://mmdvm.wufoo.com/forms/mmdvm-dmridaecee/    
-我们只做精品  
-
-## 获得设备    
+## 获得设备(Nano 系列MMDVM)   
+Nano小蓝盒   
 [https://item.taobao.com/item.htm?id=561964266288](https://item.taobao.com/item.htm?id=561964266288)  
-
+淘宝小店  
 [https://shop113103301.taobao.com](https://shop113103301.taobao.com)    
 ![图片装载中](/images/mmdvm/nano_userguide_taobao.png)     
 
