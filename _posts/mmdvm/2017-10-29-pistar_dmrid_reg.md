@@ -18,28 +18,19 @@ image:
 
 ## 注册地址 
 TO ALL：  
-1）由于注册步骤有变动，需要自行上传执照，且不需要科学上网均可访问，请自理，教程如下，给看不懂英文的朋友   
+1）注册地址又变了 2018-05-16   
 2）DMRid和MMDVM没有必然关系，只有用到DMR/P25/YSF2DMR模式才需要，YSF(C4FM)不需要  
 3）不提供单独指导，请加QQ群交流 320533571   
 
-新地址： 
-https://register.ham-digital.org/  
+新地址：   
+https://www.radioid.net/cgi-bin/trbo-database/userreg.cgi  
 
-## 过程图解
-第1步，  
-![图片装载中](/images/dmrid/DMRId-Reg-step1.png)  
+旧地址：
+https://register.ham-digital.org/   
 
-第2步，  
-![图片装载中](/images/dmrid/DMRId-Reg-step2.png)  
+代提交：（非代申请！通常1~2天内处理）  
+https://mmdvm.wufoo.com/code/mmdvm-dmridaecee/  
 
-同意协议，  
-![图片装载中](/images/dmrid/DMRId-Reg-step2-1.png)  
-
-第3步，  
-![图片装载中](/images/dmrid/DMRId-Reg-step3.png)   
-
-老地址（即将失效，请使用新地址）
-https://www.dmr-marc.net/cgi-bin/trbo-database/userreg.cgi   
 
 ## qrz.com 注册http://www.qrz.com/db/BI7JTA 说明：非必须，但可以在pi-star仪表盘上关联出详细的资料，方便QSL卡寄送和电子卡片交换，需要老用户添加新呼号到数据库，才能注册。
 请加 交流Q群 320533571 互助   
@@ -52,12 +43,8 @@ https://www.dmr-marc.net/cgi-bin/trbo-database/userreg.cgi
 2 请保证你的业余无线电执照的设备列表中，包含DMR电台设备，审核小组的最新要求，否则可能被拒绝。
 如没有，则去当地无线电管理局验机或网上登记   
 
-## 导出全网DMR-ID
-全球用户类型：  
-http://www.dmr-marc.net/cgi-bin/trbo-database/datadump.cgi?table=users&format=csv&header=1  
-
-全球中继类型：   
-http://www.dmr-marc.net/cgi-bin/trbo-database/datadump.cgi?table= repeaters&format=csv&header=1  
+## 数据参考
+https://ham-digital.org/status/  
 
 作用：制作各种机型的通讯录  
 
