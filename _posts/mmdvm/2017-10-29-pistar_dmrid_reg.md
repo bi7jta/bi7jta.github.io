@@ -23,8 +23,8 @@ TO ALL：
 3）不提供单独指导，请加QQ群交流 320533571   
 
 代提交：（非代申请！通常1~2天内处理）  
-https://mmdvm.wufoo.com/forms/z1f64izq0axxi02/  
-https://mmdvm.wufoo.com/forms/qhte9sr030q6og/
+[https://mmdvm.wufoo.com/forms/z1f64izq0axxi02/](https://mmdvm.wufoo.com/forms/z1f64izq0axxi02/)  
+[https://mmdvm.wufoo.com/forms/qhte9sr030q6og/](https://mmdvm.wufoo.com/forms/z1f64izq0axxi02/)  
 
 ## qrz.com 注册http://www.qrz.com/db/BI7JTA 说明：非必须，但可以在pi-star仪表盘上关联出详细的资料，方便QSL卡寄送和电子卡片交换，需要老用户添加新呼号到数据库，才能注册。
 请加 交流Q群 320533571 互助   
@@ -43,7 +43,7 @@ https://ham-digital.org/status/
 作用：制作各种机型的通讯录  
 
 ## 一些技巧
-见小蓝盒手册： http://www.aprspi.org/mmdvm/nano_mmdvm_userguide/  
+见小蓝盒手册： [http://www.aprspi.org/mmdvm/nano_mmdvm_userguide/](http://www.aprspi.org/mmdvm/nano_mmdvm_userguide/)  
 
 提问题请加入Q群：小蓝盒MMDVM技术交流 320533571 
 
