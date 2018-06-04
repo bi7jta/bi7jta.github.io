@@ -22,15 +22,9 @@ TO ALL：
 2）DMRid和MMDVM没有必然关系，只有用到DMR/P25/YSF2DMR模式才需要，YSF(C4FM)不需要  
 3）不提供单独指导，请加QQ群交流 320533571   
 
-新地址：   
-https://www.radioid.net/cgi-bin/trbo-database/userreg.cgi  
-
-旧地址：
-https://register.ham-digital.org/   
-
 代提交：（非代申请！通常1~2天内处理）  
-https://mmdvm.wufoo.com/code/mmdvm-dmridaecee/  
-
+https://mmdvm.wufoo.com/forms/z1f64izq0axxi02/  
+https://mmdvm.wufoo.com/forms/qhte9sr030q6og/
 
 ## qrz.com 注册http://www.qrz.com/db/BI7JTA 说明：非必须，但可以在pi-star仪表盘上关联出详细的资料，方便QSL卡寄送和电子卡片交换，需要老用户添加新呼号到数据库，才能注册。
 请加 交流Q群 320533571 互助   
