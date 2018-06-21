@@ -30,6 +30,9 @@ http://v.youku.com/v_show/id_XMzMzMTg5NzI2OA==.html?spm=a2hzp.8253876.0.0&f=5146
 
 ## 近期公告 
 
+20180619 设置静态组，参考  
+单工模式 https://brandmeister.network/?page=hotspot-edit&id=460006011  
+双工模式 https://brandmeister.network/?page=rep-edit&id=4600060  
 20180507 增加教程博文“新版DMRid注册方法”、“误码率调整方法”，详见首页 www.aprs.org 
 20180505 为小蓝盒老用户提供升级服务，包括USB WiFi，3D打印外壳，风扇等，详情 
 https://item.taobao.com/item.htm?id=560912484770  
