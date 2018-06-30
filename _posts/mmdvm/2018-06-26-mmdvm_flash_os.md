@@ -26,7 +26,10 @@ http://pi-star/admin/expert/ssh_access.php
 密 码：  raspberry  
 执行： 
 rpi-rw  
-sudo pistar-update && sudo pistar-upgrade  
+sudo pistar-update && sudo pistar-upgrade  [多执行几遍一次升级一个版本]   
+
+Youku视频：  
+[https://v.youku.com/v_show/id_XMzY5MjE5MjE4OA==.html?spm=a2hzp.8244740.0.0](https://v.youku.com/v_show/id_XMzY5MjE5MjE4OA==.html?spm=a2hzp.8244740.0.0)  
 
 ## 步骤
 1） 准备一张8G的SD卡，一个USB TF卡适配器，如图      
