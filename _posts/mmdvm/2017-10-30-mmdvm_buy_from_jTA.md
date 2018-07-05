@@ -73,7 +73,10 @@ mini中继合金黑盒+4.3寸大屏
 1x MOTO连接线，  
 含完整的PS/2数据线和插座，方便直插新款电台，用户手册见本博客（目前只提供QQ群文件下载）    
 ![图片装载中](/images/mmdvm/wechat_repeater_kit_338.jpg.jpg)   
-![图片装载中](/images/mmdvm/wechat_repeater_kit_dmr.jpg) 
+![图片装载中](/images/mmdvm/wechat_repeater_kit_dmr.jpg)  
+
+已验证的车台列表：   
+https://wiki.brandmeister.network/index.php/Homebrew/MMDVM  
   
 ### 小蓝盒（入门级，方便携带，懒人专属）   
 [https://item.taobao.com/item.htm?id=561964266288](https://item.taobao.com/item.htm?id=561964266288)   
