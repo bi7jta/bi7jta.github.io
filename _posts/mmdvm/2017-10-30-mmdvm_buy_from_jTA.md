@@ -23,10 +23,13 @@ image:
 ![图片装载中](/images/mmdvm/buy_fromJTA_Wechat.png) 
  
 ## 成品介绍 
+视频博客 [http://i.youku.com/bi7jta](http://i.youku.com/bi7jta)  
 
 ### 双工板（迷你小中继，双工双时隙，推荐）  
 [https://item.taobao.com/item.htm?id=564922157662](https://item.taobao.com/item.htm?id=564922157662)   
-#### 双工板懒人套餐V1：  
+#### 双工板懒人套餐V1：
+视频演示  
+[https://v.youku.com/v_show/id_XMzcxODM2NzQ4NA==.html?spm=a2h3j.8428770.3416059.1](https://v.youku.com/v_show/id_XMzcxODM2NzQ4NA==.html?spm=a2h3j.8428770.3416059.1)   
 
 mini中继合金黑盒 开箱即用  
 mini中继合金黑盒+3.2寸大屏  
