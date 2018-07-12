@@ -45,12 +45,15 @@ mini中继合金黑盒+4.3寸大屏
 1x Nextion 4.3寸出口专供屏（4.3寸大屏套餐）  
 1x USBtoTTL CP2012 屏幕连接适配器  
 1x 其它，含屏幕、树莓派固定螺丝、铜柱若干，树莓派风扇，散热片  
+
 ![图片装载中](/images/mmdvm/wechat_duplex_allloy_case.jpg)   
 
 增加 4G USB上网卡支持，即插即用（另购）    
 增加散热系统，指示灯窥探孔，外壳颜色可选      
 ![图片装载中](/images/mmdvm/duplex_4G_dongle.JPG)   
+
 ![图片装载中](/images/mmdvm/duplex_4G_detail.png)   
+
 ![图片装载中](/images/mmdvm/duplex_Alloy_fan.JPG) 
 
  
@@ -60,6 +63,7 @@ mini中继合金黑盒+4.3寸大屏
 清单：  
 1x 双工板含双天线，支持UHF/VHF业余段，理论值最大20MW输出  
 1x 4pin 屏幕连接排针，默认不焊接，可以取代USBtoTTL转接器  
+
 ![图片装载中](/images/mmdvm/wechat_duplex_board.jpg) 
 
 #### 单工热点板：  
@@ -74,6 +78,7 @@ mini中继合金黑盒+4.3寸大屏
  
 关于OLED接口顺序 ：VCC/GND/SCL/SDA ，因为大板推荐1.3寸，或直接上Nextion或TJC大屏幕  
 走航空的自行购买风扇，规格参照30x30x7.5mm   
+
 ![图片装载中](/images/mmdvm/wechat_simplex_rpi_fan.jpg) 
 
 ### 中继板（外接电台，需要有耐心调试）  
@@ -82,8 +87,10 @@ mini中继合金黑盒+4.3寸大屏
 清单：
 1x 主板  
 1x MOTO连接线，   
-含完整的PS/2数据线和插座，方便直插新款电台，用户手册见本博客（目前只提供QQ群文件下载）    
+含完整的PS/2数据线和插座，方便直插新款电台，用户手册见本博客（目前只提供QQ群文件下载） 
+   
 ![图片装载中](/images/mmdvm/wechat_repeater_kit_338.jpg.jpg)   
+
 ![图片装载中](/images/mmdvm/wechat_repeater_kit_dmr.jpg)  
 
 已验证的车台列表：   
@@ -124,7 +131,9 @@ SD卡8G闪迪，
 1x 绿联优质USB供电线5V2A  
 1x 组装费用和外壳加工  
 1x 其它，含屏幕、树莓派固定螺丝，散热片  
+
 ![图片装载中](/images/mmdvm/LCD-In-ONE_back.jpg)   
+
 ![图片装载中](/images/mmdvm/LCD-In-ONE.png)    
 
 
