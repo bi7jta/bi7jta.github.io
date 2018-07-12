@@ -52,8 +52,6 @@ mini中继合金黑盒+4.3寸大屏
 增加散热系统，指示灯窥探孔，外壳颜色可选      
 ![图片装载中](/images/mmdvm/duplex_4G_dongle.JPG)   
 
-![图片装载中](/images/mmdvm/duplex_4G_detail.png)   
-
 ![图片装载中](/images/mmdvm/duplex_Alloy_fan.JPG) 
 
  
