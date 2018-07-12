@@ -19,9 +19,9 @@ image:
 > 本文原文地址：<http://www.aprspi.org{{ page.url }}>   
  
 ## 微信公众号
-不定期推送MMDVM国内外相关动态，台网，技术交流等   
-从公众号菜单可以进入MMDVM.io中文站点，导航到本博    
-![图片装载中](/images/mmdvm/wechat_qrcode.png)    
+不定期推送MMDVM国内外相关动态，台网，技术交流等。从公众号菜单可以进入MMDVM.io中文站点，申请DMRid      
+![图片装载中](/images/mmdvm/wechat_qrcode.png) ![图片装载中](/images/mmdvm/buy_fromJTA_Wechat.png)      
+
  
 ## 成品介绍 
 
@@ -52,6 +52,8 @@ mini中继合金黑盒+4.3寸大屏
 增加散热系统，指示灯窥探孔，外壳颜色可选      
 ![图片装载中](/images/mmdvm/duplex_4G_dongle.JPG)   
 ![图片装载中](/images/mmdvm/duplex_4G_detail.png)   
+![图片装载中](/images/mmdvm/duplex_Alloy_fan.JPG) 
+
  
 #### 双工板单板：  
 迷你数字中继，20MW输出，支持各种数字模式，双工、离线、双时隙同时守听和QSO，进口高质量物料，非一般垃圾廉价货所能比，误码率能调到05%以下。需要直接下单，装配树莓派和大屏幕需要一点动手配置调试能力，急性子没耐心的请选择懒人套餐。 另外不建议购买功放放大ADF7021的信号，实测失真也会增加，如需要大功率，推荐jTA中继板外接电台+双工器方案。   
@@ -111,14 +113,29 @@ SD卡8G闪迪，
 1x Nextion 4.3寸出口专供屏（4.3寸大屏套餐）  
 ![图片装载中](/images/mmdvm/wechat_nanohs_lcd.jpg)   
 
+### 大屏幕一体盒（独家定制限量版）
+[https://item.taobao.com/item.htm?id=561607171659](https://item.taobao.com/item.htm?id=561607171659)    
+包含：   
+1x MMDVM热点主板含RainSun名牌套餐天线，支持UHF，不支持VHF，理论值最大20MW输出   
+1x 定制亚克力外壳  
+1x Nextion 3.2寸出口专供屏  
+1x 组装费用和外壳加工  
+1x 闪迪 SDCard 8G   
+1x 树莓派小派 ZERO W 板载WiFi  
+1x 绿联优质USB供电线5V2A  
+1x 组装费用和外壳加工  
+1x 其它，含屏幕、树莓派固定螺丝，散热片  
+![图片装载中](/images/mmdvm/LCD-In-ONE_back.jpg)   
+![图片装载中](/images/mmdvm/LCD-In-ONE.png)    
+
 
 ## 购买方法   
 1） 淘宝小店  
 [https://shop113103301.taobao.com](https://shop113103301.taobao.com)    
 ![图片装载中](/images/mmdvm/nano_userguide_taobao.png)     
-2） QQ与微信 38091476  
+2） QQ与微信同号 38091476  
 支持支付宝微信直接订购，组装调试需要时间，下单后不要催促。   
 
-建议购买有质量和售后保证的热点板，。 
+建议购买有质量和售后保证的热点板，克隆一块PCB容易，做好一个成品很难，山寨爱好者也不愿意做。   
 
-
+de bi7jta,73!
