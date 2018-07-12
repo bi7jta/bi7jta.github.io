@@ -18,6 +18,11 @@ image:
 > 作者：BI7JTA  
 > 本文原文地址：<http://www.aprspi.org{{ page.url }}>   
  
+## 微信公众号
+不定期推送MMDVM国内外相关动态，台网，技术交流等   
+从公众号菜单可以进入MMDVM.io中文站点，导航到本博    
+![图片装载中](/images/mmdvm/wechat_qrcode.png)    
+ 
 ## 成品介绍 
 
 ### 双工板（迷你小中继，双工双时隙，推荐）  
@@ -41,10 +46,15 @@ mini中继合金黑盒+4.3寸大屏
 1x Nextion 4.3寸出口专供屏（4.3寸大屏套餐）  
 1x USBtoTTL CP2012 屏幕连接适配器  
 1x 其它，含屏幕、树莓派固定螺丝、铜柱若干，树莓派风扇，散热片  
-![图片装载中](/images/mmdvm/wechat_duplex_allloy_case.jpg) 
+![图片装载中](/images/mmdvm/wechat_duplex_allloy_case.jpg)   
+
+增加 4G USB上网卡支持，即插即用（另购）    
+增加散热系统，指示灯窥探孔，外壳颜色可选      
+![图片装载中](/images/mmdvm/duplex_4G_dongle.JPG)   
+![图片装载中](/images/mmdvm/duplex_4G_detail.png)   
  
 #### 双工板单板：  
-迷你数字中继，20MW输出，支持各种数字模式，双工、离线、双时隙同时守听和QSO，进口高质量物料，非一般垃圾廉价货所能比，误码率能调到05%以下！请热爱无线电，远离廉价地摊货。需要直接下单，装配树莓派和大屏幕需要一点动手配置调试能力，急性子没耐心的请选择懒人套餐。  
+迷你数字中继，20MW输出，支持各种数字模式，双工、离线、双时隙同时守听和QSO，进口高质量物料，非一般垃圾廉价货所能比，误码率能调到05%以下。需要直接下单，装配树莓派和大屏幕需要一点动手配置调试能力，急性子没耐心的请选择懒人套餐。 另外不建议购买功放放大ADF7021的信号，实测失真也会增加，如需要大功率，推荐jTA中继板外接电台+双工器方案。   
 
 清单：  
 1x 双工板含双天线，支持UHF/VHF业余段，理论值最大20MW输出  
@@ -69,8 +79,8 @@ mini中继合金黑盒+4.3寸大屏
 [https://item.taobao.com/item.htm?id=564478777221](https://item.taobao.com/item.htm?id=564478777221)   
 优点：调试成功率高，每块板均经过单双工模式测试，完善的技术指导，别家的板你买的就是抓狂    
 清单：
-1x 主板
-1x MOTO连接线，  
+1x 主板  
+1x MOTO连接线，   
 含完整的PS/2数据线和插座，方便直插新款电台，用户手册见本博客（目前只提供QQ群文件下载）    
 ![图片装载中](/images/mmdvm/wechat_repeater_kit_338.jpg.jpg)   
 ![图片装载中](/images/mmdvm/wechat_repeater_kit_dmr.jpg)  
@@ -103,13 +113,12 @@ SD卡8G闪迪，
 
 
 ## 购买方法   
-淘宝小店  
+1） 淘宝小店  
 [https://shop113103301.taobao.com](https://shop113103301.taobao.com)    
 ![图片装载中](/images/mmdvm/nano_userguide_taobao.png)     
+2） QQ与微信 38091476  
+支持支付宝微信直接订购，组装调试需要时间，下单后不要催促。   
 
-建议购买有质量和售后保证的热点板。 
+建议购买有质量和售后保证的热点板，。 
 
-## 微信公众号
-不定期推送MMDVM国内外相关动态，台网，技术交流等     
-![图片装载中](/images/mmdvm/wechat_qrcode.png)    
 
