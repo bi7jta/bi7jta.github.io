@@ -394,11 +394,10 @@ http://pi-star/admin/expert/edit_mmdvmhost.php
 ## 注意事项
 正确的Nano 热点板的使用姿势：    
 1. 插入、拔出GPIO插座用力均匀，轻轻用力摇出来，必要时用小螺丝刀顶起  
-2. 插拔先关机断电，勿带电操作  
-3. 多使用软关机：http://pi-star/admin/power.php ，直接拔电伤SD卡 
+2. 拔电关机即可，频繁读写日志等操作已经在内存区进行，不会损坏磁盘，系统更新时尽量不要强行关机
+3. 软关机：http://pi-star/admin/power.php  
 4. 尽量不去拔NanoPi的MicroUSB接口，拔大USB插头来断电  
 5. 刷系统前先格式化磁盘，否则OLED会花屏  
-6. 尽量使用一种模式工作(DMR/YSF/DSTSR/P25)，多种模式会有切换20秒延时，且不可控
 
 ## GPIO定义
 NanoPi_NEO 官方Wiki http://wiki.friendlyarm.com/wiki/index.php/NanoPi_NEO/zh  
