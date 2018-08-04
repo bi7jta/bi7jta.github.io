@@ -18,6 +18,8 @@ image:
 > 作者：BI7JTA  
 > 本文原文地址：<http://www.aprspi.org{{ page.url }}>   
  
+#### 新博客更精彩 [http://mmdvm.io/](http://mmdvm.io/)  
+ 
 ## 微信公众号
 不定期推送MMDVM国内外相关动态，台网，技术交流等。从公众号菜单可以进入MMDVM.io中文站点，申请DMRid      
 ![图片装载中](/images/mmdvm/buy_fromJTA_Wechat.png) 

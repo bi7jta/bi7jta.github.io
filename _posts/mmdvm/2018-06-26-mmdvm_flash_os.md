@@ -18,9 +18,14 @@ image:
 > 作者：BI7JTA  
 > 本文原文地址：<http://www.aprspi.org{{ page.url }}>   
  
+#### 新博客更精彩 [http://mmdvm.io/](http://mmdvm.io/)  
+
 ## 目的
 刷SD卡方式升级系统  
-刷卡前可以尝试在线升级   
+刷卡前可以尝试
+
+### 在线升级   
+
 http://pi-star/admin/expert/ssh_access.php  
 用户名： pi-star  
 密 码：  raspberry  
@@ -33,7 +38,12 @@ sudo pistar-update && sudo pistar-upgrade  [多执行几遍一次升级一个版
 Youku视频：  
 [https://v.youku.com/v_show/id_XMzY5MjE5MjE4OA==.html?spm=a2hzp.8244740.0.0](https://v.youku.com/v_show/id_XMzY5MjE5MjE4OA==.html?spm=a2hzp.8244740.0.0)  
 
-## 步骤
+### 使用HDMI高清输出检查系统启动日志
+对应无法获得IP的情况，如果是树莓派3B用户，使用HDMI高清输出查看；对于NanoPi用户，可以用USBtoTTL连接电脑，查看系统启动日志。  
+![图片装载中](/images/mmdvm/flash_os_hdmi.png)   
+
+
+## 开始刷卡，步骤
 1） 准备一张8G的SD卡，一个USB TF卡适配器，如图      
 ![图片装载中](/images/mmdvm/flash_os_adapter.png)    
 

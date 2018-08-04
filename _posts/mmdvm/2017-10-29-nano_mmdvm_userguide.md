@@ -28,6 +28,8 @@ http://v.youku.com/v_show/id_XMzMzMTg5NzI2OA==.html?spm=a2hzp.8253876.0.0&f=5146
 [https://shop113103301.taobao.com](https://shop113103301.taobao.com)  
 ![图片装载中](/images/mmdvm/nano_userguide_taobao.png)      
 
+#### 新博客更精彩 [http://mmdvm.io/](http://mmdvm.io/)  
+
 ## 近期公告 
 
 20180619 设置静态组，参考  

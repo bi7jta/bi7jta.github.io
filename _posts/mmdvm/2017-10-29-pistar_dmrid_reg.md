@@ -16,6 +16,8 @@ image:
 > 作者：BI7JTA  
 > 本文原文地址：<http://www.aprspi.org{{ page.url }}>
 
+#### 新博客更精彩 [http://mmdvm.io/](http://mmdvm.io/)  
+
 ## 注册地址 
 TO ALL：  
 1）注册地址又变了 2018-05-16   

@@ -18,6 +18,8 @@ image:
 > 本文原文地址：<http://www.aprspi.org{{ page.url }}> 
 
 
+#### 新博客更精彩 [http://mmdvm.io/](http://mmdvm.io/)  
+
 ## 1 网页查看，最傻瓜！
 http://pi-star/admin/live_modem_log.php  
 把pi-star替换成IP地址，如果不能访问，至于如何做，复习本博【手册】文章。此方法缺点是只能看往后的日志，不能看之前的日志，鸡肋！  

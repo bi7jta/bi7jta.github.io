@@ -16,6 +16,8 @@ image:
 > 作者：BI7JTA  
 > 本文原文地址：<http://www.aprspi.org{{ page.url }}>
 
+#### 新博客更精彩 [http://mmdvm.io/](http://mmdvm.io/)  
+
 ## 接线定义定义
  ![osc_archi](/images/mmdvm/diy_tyt_md380_linker.png)  
  [点击查看大图](http://www.aprspi.org/images/mmdvm/diy_tyt_md380_linker.png)    

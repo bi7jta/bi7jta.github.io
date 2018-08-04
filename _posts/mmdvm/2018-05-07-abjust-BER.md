@@ -18,6 +18,8 @@ image:
 > 作者：BI7JTA  
 > 本文原文地址：<http://www.aprspi.org{{ page.url }}>   
  
+#### 新博客更精彩 [http://mmdvm.io/](http://mmdvm.io/)  
+ 
 ## 概念
 首先我们要了解什么是误码率  
 
