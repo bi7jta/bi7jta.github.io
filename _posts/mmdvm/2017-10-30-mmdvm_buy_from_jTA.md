@@ -18,7 +18,8 @@ image:
 > 作者：BI7JTA  
 > 本文原文地址：<http://www.aprspi.org{{ page.url }}>   
  
-#### 新博客更精彩 [http://mmdvm.io/](http://mmdvm.io/)  
+#### 新博客更精彩 [http://mmdvm.io/](http://mmdvm.io/)   
+#### 新教程在持续更新 [http://mmdvm.io/blog](http://mmdvm.io/blog)  
  
 ## 微信公众号
 不定期推送MMDVM国内外相关动态，台网，技术交流等。从公众号菜单可以进入MMDVM.io中文站点，申请DMRid      
@@ -28,7 +29,7 @@ image:
 视频博客 [http://i.youku.com/bi7jta](http://i.youku.com/bi7jta)  
 
 ### 双工板（迷你小中继，双工双时隙，推荐）  
-[https://item.taobao.com/item.htm?id=564922157662](https://item.taobao.com/item.htm?id=564922157662)   
+购买 [https://item.taobao.com/item.htm?id=564922157662](https://item.taobao.com/item.htm?id=564922157662)   
 #### 双工板懒人套餐V1：
 视频演示  
 [https://v.youku.com/v_show/id_XMzcxODM2NzQ4NA==.html?spm=a2h3j.8428770.3416059.1](https://v.youku.com/v_show/id_XMzcxODM2NzQ4NA==.html?spm=a2h3j.8428770.3416059.1)   
@@ -69,7 +70,11 @@ mini中继合金黑盒+4.3寸大屏
 ![图片装载中](/images/mmdvm/wechat_duplex_board.jpg) 
 
 #### 单工热点板：  
-适配树莓派大派、树莓派ZERO W 精简版，功能不详细描述旺旺索取博客地址，了解过MMDVM的朋友都清楚，非常适合拥有树莓派的爱好者DIY，增强散系统，不担心夏天温度爆表  
+适配树莓派大派、树莓派ZERO W 精简版，功能不详细描述旺旺索取博客地址，了解过MMDVM的朋友都清楚，非常适合拥有树莓派的爱好者DIY，增强散系统
+
+加USBtoTTL适配器，使用本博编译的MMDVM程序，可以在Win7以上系统使用，也可以使用BlueDV Windows版。   
+教程：[http://mmdvm.io/blog/?p=91](http://mmdvm.io/blog/?p=91)  
+购买：[https://item.taobao.com/item.htm?id=573023555873](https://item.taobao.com/item.htm?id=573023555873)  
 
 清单：  
 1x 主板，新版同时支持UHF/VHF  
@@ -81,10 +86,12 @@ mini中继合金黑盒+4.3寸大屏
 关于OLED接口顺序 ：VCC/GND/SCL/SDA ，因为大板推荐1.3寸，或直接上Nextion或TJC大屏幕  
 走航空的自行购买风扇，规格参照30x30x7.5mm   
 
-![图片装载中](/images/mmdvm/wechat_simplex_rpi_fan.jpg) 
+![图片装载中](/images/mmdvm/wechat_simplex_rpi_fan.jpg)   
+
+![图片装载中](/images/mmdvm/PC_MMDVM_Architecture_diagram.png)   
 
 ### 中继板（外接电台，需要有耐心调试）  
-[https://item.taobao.com/item.htm?id=564478777221](https://item.taobao.com/item.htm?id=564478777221)   
+购买 [https://item.taobao.com/item.htm?id=564478777221](https://item.taobao.com/item.htm?id=564478777221)   
 优点：调试成功率高，每块板均经过单双工模式测试，完善的技术指导，别家的板你买的就是抓狂    
 清单：
 1x 主板  
@@ -99,7 +106,7 @@ mini中继合金黑盒+4.3寸大屏
 https://wiki.brandmeister.network/index.php/Homebrew/MMDVM  
   
 ### 小蓝盒（入门级，方便携带，懒人专属）   
-[https://item.taobao.com/item.htm?id=561964266288](https://item.taobao.com/item.htm?id=561964266288)   
+购买  [https://item.taobao.com/item.htm?id=561964266288](https://item.taobao.com/item.htm?id=561964266288)   
 
 内置陶瓷天线是433MHz，通讯距离很有限，WiFi覆盖的距离差不多，如果想要远距离，本店双工板是好的选择  
 
@@ -122,7 +129,7 @@ SD卡8G闪迪，
 ![图片装载中](/images/mmdvm/wechat_nanohs_lcd.jpg)   
 
 ### 大屏幕一体盒（独家定制限量版）
-[https://item.taobao.com/item.htm?id=561607171659](https://item.taobao.com/item.htm?id=561607171659)    
+购买  [https://item.taobao.com/item.htm?id=561607171659](https://item.taobao.com/item.htm?id=561607171659)    
 包含：   
 1x MMDVM热点主板含RainSun名牌套餐天线，支持UHF，不支持VHF，理论值最大20MW输出   
 1x 定制亚克力外壳  
