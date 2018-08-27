@@ -30,16 +30,21 @@ http://pi-star/admin/live_modem_log.php
 
 ## 2 SSH终端  
 
+
 ### 2.1 新增WebSSH方式，推荐必学！可以用于升级系统和固件
 访问 ssh mode   
+http://pi-star:2222/ （改成树莓派的IP地址） 或  
 http://pi-star/admin/expert/ssh_access.php   
 用户名和密码同Pi-Star登录   
 usr: pi-star   
 pas: raspberry   
  
-查看当前日期的日志  
+查看当前日期的日志，运行：    
 tail -100f /var/log/pi-star/MMDVM-2018-08-27.log    
 说明：查看MMDVM日志最后100行，持续打印新日志，日志按照日期生成文件，只保存于内存避免读写磁盘，重启丢失。
+
+![图片装载中](/images/support/viewlog_webport_ssh_log.png)   
+[点击查看大图](http://www.aprspi.org/images/support/viewlog_webport_ssh_log.png)     
 
 ![图片装载中](/images/support/viewlog_web_ssh_log.png)   
 [点击查看大图](http://www.aprspi.org/images/support/viewlog_web_ssh_log.png)   
