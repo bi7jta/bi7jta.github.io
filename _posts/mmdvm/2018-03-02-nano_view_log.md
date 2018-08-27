@@ -20,17 +20,31 @@ image:
 
 #### 新博客更精彩 [http://mmdvm.io/](http://mmdvm.io/)  
 
+
 ## 1 网页查看，最傻瓜！
 http://pi-star/admin/live_modem_log.php  
-把pi-star替换成IP地址，如果不能访问，至于如何做，复习本博【手册】文章。此方法缺点是只能看往后的日志，不能看之前的日志，鸡肋！  
-用户： pi-star  
-密码： raspberry  
+把pi-star替换成IP地址，如果不能访问，至于如何做，复习本博【手册】文章。此方法缺点是只能看往后的日志，不能看之前的日志，但新版本可以下载日志文件。  
 
 ![图片装载中](/images/support/viewlog_live_log.png)   
 [点击查看大图](http://www.aprspi.org/images/support/viewlog_live_log.png)   
 
+## 2 SSH终端  
 
-## 2 SSH终端实时查看  
+### 2.1 新增WebSSH方式，推荐必学！可以用于升级系统和固件
+访问 ssh mode   
+http://pi-star/admin/expert/ssh_access.php   
+用户名和密码同Pi-Star登录   
+usr: pi-star   
+pas: raspberry   
+ 
+查看当前日期的日志  
+tail -100f /var/log/pi-star/MMDVM-2018-08-27.log    
+说明：查看MMDVM日志最后100行，持续打印新日志，日志按照日期生成文件，只保存于内存避免读写磁盘，重启丢失。
+
+![图片装载中](/images/support/viewlog_web_ssh_log.png)   
+[点击查看大图](http://www.aprspi.org/images/support/viewlog_web_ssh_log.png)   
+
+### 2.2 SSH终端实时查看   
 该方法适合自行分析解决问题，强烈推荐，90%问题都能自己解决，看不懂英文截图放QQ群寻求帮助  
 下载客户端，putty 
 https://the.earth.li/~sgtatham/putty/latest/w32/putty.exe
