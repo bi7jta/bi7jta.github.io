@@ -37,8 +37,8 @@ Youku视频：
 [https://v.youku.com/v_show/id_XMzY5MjE5MjE4OA==.html?spm=a2hzp.8244740.0.0](https://v.youku.com/v_show/id_XMzY5MjE5MjE4OA==.html?spm=a2hzp.8244740.0.0)  
 
 ##### 使用HDMI高清输出检查系统启动日志
-对应无法获得IP的情况，如果是树莓派3B用户，使用HDMI高清输出查看；对于NanoPi用户，可以用USBtoTTL连接电脑，查看系统启动日志。  
-![图片装载中](/images/mmdvm/flash_os_hdmi.png)   
+对应无法获得IP的情况，如果是树莓派用户，使用HDMI高清输出查看；对于NanoPi用户，可以用USBtoTTL连接电脑，查看系统启动日志。  
+无法启动常见问题有：电源不符合5V2A，路由器不分配IP，刷错系统，SD卡不支持启动树莓派 等。
 
 
 ## 开始刷卡，步骤
@@ -46,7 +46,8 @@ Youku视频：
 ![图片装载中](/images/mmdvm/flash_os_adapter.png)    
 
 2) 下载对应的镜像，NanoPi小蓝盒务必使用NanoPi的版本   
-http://www.pistar.uk/downloads/   
+http://www.pistar.uk/downloads/  3B,Pi Zero W   
+http://www.pistar.uk/beta/ 3B+ 
 ![图片装载中](/images/mmdvm/flash_os_download.png)  
 
 3）准备两个写卡工具    
