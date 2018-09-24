@@ -9,7 +9,7 @@ image:
 #    thumb:
 ---
 
-交流Q群 单工热点 320533571 ,mini中继 696968360     
+交流Q群 320533571    
 
 > 本文内容：如何刷卡升级系统，适用于不能在线升级系统的情况      
 
@@ -24,11 +24,10 @@ image:
 刷SD卡方式升级系统  
 刷卡前可以尝试在线升级   
 
-http://pi-star/admin/expert/ssh_access.php  
+http://pi-star:2222 (或用IP地址)   
 用户名： pi-star  
-密 码：  raspberry  
-执行： 
-rpi-rw  
+密 码： raspberry  
+执行：  
 sudo pistar-update && sudo pistar-upgrade  [多执行几遍一次升级一个版本]   
 
 ![图片装载中](/images/mmdvm/flash_os_online.png)   
