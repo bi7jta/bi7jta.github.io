@@ -22,10 +22,12 @@ image:
 新教程在持续更新  
  
 ## 业余无线电硬件商店 
-[http://mmdvm.io/cart/](http://mmdvm.io/cart/)  
-因汇率问题，价格仅供参考，具体以本土定价为准。  
+淘宝店：NANO无线电 [https://shop113103301.taobao.com/](https://shop113103301.taobao.com/)  
+淘口令：复制以下内容，打开淘宝手机app  
 
-##### 双工板（迷你小中继，双工双时隙，热销，推荐，非地摊货可比）  
+【NANO无线电】，復·制这段描述€H4icbcyt0Bi€后咑閞👉手机淘宝👈或者用浏览器咑閞http://m.tb.cn/h.3eGWMeG查看   
+
+##### 双工板（迷你小中继，双工双时隙，热销，推荐，进口晶振高品质）  
 ![图片装载中](/images/products/Duplex_PCB.jpg)   
 [https://item.taobao.com/item.htm?id=564922157662](https://item.taobao.com/item.htm?id=564922157662)    
 
