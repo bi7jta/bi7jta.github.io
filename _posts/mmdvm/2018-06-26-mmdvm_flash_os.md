@@ -50,10 +50,10 @@ http://www.pistar.uk/beta/ 3B+
 ![图片装载中](/images/mmdvm/flash_os_download.png)  
 
 3）准备两个写卡工具    
-任意搜索引擎可以搜索并下载，QQ群696968360群文件也有下载   
 SDFormatter 格式化工具    
 Win32DiskImager 写卡工具  
 ![图片装载中](/images/mmdvm/flash_os_tools.png)  
+下载： https://www.mmdvm.io/files/PiStarTools/  
 
 4) 解压下载后的镜像文件，将.IMG文件写入到SD卡  
 先用SDFormatter格式化  
