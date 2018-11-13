@@ -45,9 +45,9 @@ Youku视频：
 ![图片装载中](/images/mmdvm/flash_os_adapter.png)    
 
 2) 下载对应的镜像，NanoPi小蓝盒务必使用NanoPi的版本   
-http://www.pistar.uk/downloads/  3B,Pi Zero W   
-http://www.pistar.uk/beta/ 3B+ 
-![图片装载中](/images/mmdvm/flash_os_download.png)  
+http://www.pistar.uk/downloads/   下载3B,Pi Zero 镜像  
+http://www.pistar.uk/beta/  下载3B+ 镜像
+![图片装载中](/images/mmdvm/pistar_homepage_guide.png)  
 
 3）准备两个写卡工具    
 SDFormatter 格式化工具    
