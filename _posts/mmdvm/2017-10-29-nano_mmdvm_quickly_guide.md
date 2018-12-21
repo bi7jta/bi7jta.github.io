@@ -33,7 +33,9 @@ MMDVM热点成品快速入门手册 V1   1 连接电源   使用标准的电�
 RX 434.755MHz  对应电台的TX    
 TX 439.755MHz  对应电台的RX  
 
-双工DMR模式下，手台写频时要关掉 Talkaroud 模式，设置静态组，否则动态组15分钟后会被自动清掉      其它资源：  ，完整手册 [http://www.aprspi.org/mmdvm/nano_mmdvm_userguide/](http://www.aprspi.org/mmdvm/nano_mmdvm_userguide/)    
+双工DMR模式下，手台写频时要关掉 Talkaroud 模式，设置静态组，否则动态组15分钟后会被自动清掉      鹦鹉回音测试：   C4FM：pi-star设置界面选择 FCS00199 - ECHO，手台设置DN模式 ，按下PTT测试         
+DMR：手台添加单呼通讯录 9990 ，调到此信道，按下PTT（组呼没回音，单呼才有） ；或者添加 4000，单呼组呼均可，呼叫后会有“Disconnect ...” 反馈。   
+其它资源：  ，完整手册 [http://www.aprspi.org/mmdvm/nano_mmdvm_userguide/](http://www.aprspi.org/mmdvm/nano_mmdvm_userguide/)    
 ，误码率调整 [http://www.aprspi.org/mmdvm/abjust-BER/](http://www.aprspi.org/mmdvm/abjust-BER/)    
 ，MMDVM概念 [http://www.aprspi.org/mmdvm/mmdvm_userguide_view/](http://www.aprspi.org/mmdvm/mmdvm_userguide_view/)  
 ，DMRid申请 [http://www.aprspi.org/mmdvm/pistar_dmrid_reg/](http://www.aprspi.org/mmdvm/pistar_dmrid_reg/)  
