@@ -49,6 +49,18 @@ iOS 共享WiFi热点时：http://pi-star.local
   
 C4FM：pi-star设置界面选择 FCS00199 - ECHO，手台设置DN模式 ，按下PTT测试   
 DMR：手台添加单呼通讯录 9990 ，调到此信道，按下PTT（组呼没回音，单呼才有） ；或者添加 4000，单呼组呼均可，  呼叫后会有“Disconnect …” 反馈。   
+ 
+TYT-MD-380G设置参考  
+单工模式（热点直频）：  
+[点击查看大图](http://www.aprspi.org/images/mmdvm/DMR_Radio_Setting_Simplex.jpg)     
+![图片装载中](/images/mmdvm/DMR_Radio_Setting_Duplex.jpg)
+
+双工模式（中继）：   
+[点击查看大图](http://www.aprspi.org/images/mmdvm/DMR_Radio_Setting_Duplex.jpg)   
+![图片装载中](/images/mmdvm/DMR_Radio_Setting_Duplex.jpg)   
+
+各种手台模版下载：  
+[https://mmdvm.io/files/radioCPS_MMDVM/](https://mmdvm.io/files/radioCPS_MMDVM/)  
   其它资源：  ，完整手册 [http://www.aprspi.org/mmdvm/nano_mmdvm_userguide/](http://www.aprspi.org/mmdvm/nano_mmdvm_userguide/)    
 ，误码率调整 [http://www.aprspi.org/mmdvm/abjust-BER/](http://www.aprspi.org/mmdvm/abjust-BER/)    
 ，MMDVM概念 [http://www.aprspi.org/mmdvm/mmdvm_userguide_view/](http://www.aprspi.org/mmdvm/mmdvm_userguide_view/)  
