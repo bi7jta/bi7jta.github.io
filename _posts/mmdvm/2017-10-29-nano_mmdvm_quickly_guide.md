@@ -64,12 +64,19 @@ TYT-MD-380G设置参考
   
 连接网络：  
 ![图片装载中](/images/mmdvm/WiFi-AP-1.png)   
+
 ![图片装载中](/images/mmdvm/WiFi-AP-2.png)   
+
 ![图片装载中](/images/mmdvm/WiFi-AP-3.png)   
+
 ![图片装载中](/images/mmdvm/WiFi-AP-4.png)   
+
 ![图片装载中](/images/mmdvm/WiFi-AP-5.png)   
+
 ![图片装载中](/images/mmdvm/WiFi-AP-6.png)   
+
 ![图片装载中](/images/mmdvm/WiFi-AP-7.png)   
+
 ![图片装载中](/images/mmdvm/WiFi-AP-8.png)   
 
   其它资源：  ，完整手册 [http://www.aprspi.org/mmdvm/nano_mmdvm_userguide/](http://www.aprspi.org/mmdvm/nano_mmdvm_userguide/)    
