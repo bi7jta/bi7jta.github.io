@@ -1,6 +1,6 @@
 ---
 layout: article
-title: TYT MD380 MD380G 刷第三方固件
+title: TYT MD380/MD380g刷机和调小功率到0.1瓦教程
 categories: mmdvm
 #excerpt:
 #tags: []
@@ -17,14 +17,8 @@ image:
 > 作者：BI7JTA  
 > 本文原文地址：<http://www.aprspi.org{{ page.url }}>   
 
-## 获得设备     
-[https://shop113103301.taobao.com](https://shop113103301.taobao.com)  
-![图片装载中](/images/mmdvm/nano_userguide_taobao.png)      
 
-#### 新博客 [http://mmdvm.io/](http://mmdvm.io/)  
-
-
-## md380/md380g刷机和调小功率到0.1瓦教程
+## TYT MD380/MD380g刷机和调小功率到0.1瓦教程
 参考BG5UER/VR2XKP教程  
 玩转md380 QQ群：683111553    
 ### 刷机 
@@ -32,9 +26,13 @@ image:
 注意点：  
 1  刷机先把手台语言设置为英文，否则会乱码，具体在对讲机设置，菜单8；  
 2  写入本博整理的英文的写频模板，中文模板必然乱码，写频方法见手册对讲机写频部分，   
-MMDVM写频模板(英文)：http://39.106.17.242/download/TYT_MD380G_BI7JTA_v1206_EN_CN.zip   
-MD380G写频软件（官方）：http://39.106.17.242/download/TYT_MD-380G.rar   
-3 下载刷机工具包：http://39.106.17.242/download/TyteraFlashTool_v1_08_BETA.zip   
+MMDVM写频模板(英文)：https://mmdvm.io/files/radioCPS_MMDVM/  
+MD380G写频软件（官方）：同上,兼容MD380     
+3 下载刷机工具包和视频： 
+TyteraFlashTool_v1_08_BETA.zip    
+国外作者 https://kg5rki.com/new2/tymd380.html  
+本地下载 https://mmdvm.io/files/MD380/  
+ 
 4 进入刷机模式方法：   
 ![配图加载失败](/images/mmdvm/nano_userguide_md380_flash_in_mode.png)   
   
@@ -66,20 +64,16 @@ MD380G写频软件（官方）：http://39.106.17.242/download/TYT_MD-380G.rar
 
 有问题Q群交流，谢谢！附上@BD7ILU 大神的刷机视频  
 http://i.youku.com/bi7jta  
-@BD7ILU 的视频空间 http://i.youku.com/i/UNTM3NzQ4NzAw?spm=a2hzp.8244740.0.0  
+@BD7ILU 的视频空间 http://i.youku.com/i/UNTM3NzQ4NzAw?spm=a2hzp.8244740.0.0     
 
-
-
-## 获得Nano小蓝盒 for MMDVM
-购买：  
-[https://item.taobao.com/item.htm?id=561964266288](https://item.taobao.com/item.htm?id=561964266288)  
-小店：  
+## 获得设备     
 [https://shop113103301.taobao.com](https://shop113103301.taobao.com)  
-![图片装载中](/images/mmdvm/nano_userguide_taobao.png)     
+![图片装载中](/images/mmdvm/nano_userguide_taobao.png)      
 
+#### 新博客 [http://mmdvm.io/](http://mmdvm.io/)  
 
 提问题请加入Q群： 320533571  QQ/微信：38091676
-（持续更新）
+ 
 
 
 
