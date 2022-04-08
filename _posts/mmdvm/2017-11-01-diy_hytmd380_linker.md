@@ -16,7 +16,7 @@ image:
 > 作者：BI7JTA  
 > 本文原文地址：<http://bi7jta.github.io{{ page.url }}>
 
-#### 重要提示：域名aprspi.org , mmdvm.io 不再续费已经弃用，请勿相信任何自动跳转后的内容，强烈谴责无良域名商与DNS解析商的流氓转发行为！必遭天谴！生仔没屁眼！这里使用github默认的二级域名 bi7jta/bi7jta.github.io
+#### 重要提示：域名aprspi.org , mmdvm.io 不再续费已经弃用，请勿相信任何自动跳转后的内容，强烈谴责无良域名商与DNS解析商的流氓转发行为！这里使用github默认的二级域名 https://bi7jta.github.io
 
 ## 接线定义定义
  ![osc_archi](/images/mmdvm/diy_tyt_md380_linker.png)  
